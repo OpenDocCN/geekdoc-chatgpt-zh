@@ -4509,6 +4509,7 @@
   id: totrans-422
   prefs: []
   type: TYPE_NORMAL
+  zh: 然而，就在DeepMind试图从谷歌独立出来的同时，它也在帮助巩固谷歌的业务。当谷歌的拉里·佩奇承诺帮助DeepMind分拆时，他正将中国视为新的扩张机遇。随着谷歌在美国和其他西方市场的业务趋于成熟，中国提供了一个独特的机会。它是世界上人口最多的国家，拥有超过6.5亿互联网用户，几乎是美国总人口的两倍。而且，在中国有能力上网的人中，只有大约一半*实际*在上网，这意味着中国提供了一个广阔且尚未开发的市场。中国的中产阶级正在壮大，消费支出不断增长，其国内生产总值约为11万亿美元，使其成为世界第二大经济体。对任何互联网公司来说，这都是一座潜在的金矿。
 - en: But Google couldn’t just waltz into China. In fact, in 2010 it had exited the
     country after accusing Beijing of hacking its intellectual property and the Gmail
     accounts of Chinese human rights activists. The Chinese government had demanded
@@ -4521,12 +4522,14 @@
   id: totrans-423
   prefs: []
   type: TYPE_NORMAL
+  zh: 但谷歌无法轻易重返中国。事实上，它在2010年就退出了中国，当时指控北京方面黑客攻击其知识产权以及中国人权活动人士的Gmail账户。中国政府曾要求谷歌为中国共产党审查关于天安门广场和其他争议话题的搜索结果。随后，它封锁了对Facebook和Twitter的访问，建立了所谓的"防火长城"。谷歌的领导层当时很自负，认为这一切都只是暂时的，因为中国民众很快就会渴望硅谷网络巨头提供的流畅、强大的服务。
 - en: “In a long enough time period, do I think that this kind of regime approach
     will end?” Google’s Eric Schmidt, the company’s chairman at the time, asked *Foreign
     Policy* magazine in 2012\. “I think absolutely.”
   id: totrans-424
   prefs: []
   type: TYPE_NORMAL
+  zh: '"在足够长的时间跨度里，我认为这种（审查）制度方式会终结吗？"时任谷歌董事长的埃里克·施密特在2012年问《外交政策》杂志。"我认为绝对会。"'
 - en: Schmidt was wrong. Instead of wasting away, China’s own internet sector boomed.
     Companies like Meituan, Baidu, and Alibaba became juggernauts as Chinese engineers
     who’d worked and started companies in Silicon Valley flew back home to build their
@@ -4542,6 +4545,7 @@
   id: totrans-425
   prefs: []
   type: TYPE_NORMAL
+  zh: 施密特错了。中国的互联网行业非但没有萎缩，反而蓬勃发展。随着曾在硅谷工作和创业的中国工程师回国打造自己的科技巨头，美团、百度和阿里巴巴等公司成为了行业巨擘。大量曾在微软亚洲研究院工作的工程师在阿里巴巴和腾讯等中国互联网巨头中担任领导职务。谷歌退出五年后，它眼睁睁看着中国市场变得利润越来越丰厚，却没有明确的回归途径。中国的审查规则并未改变。但谷歌渴望进入不断增长的消费市场，并汲取中国涌现的一些创新工程理念。"我们需要了解那里正在发生的事情，以激发我们的灵感，"谷歌搜索主管本·戈麦斯当时告诉《拦截》杂志。"中国将教会我们一些我们不知道的东西。"
 - en: At around this time, a major leadership change took place at the top of Google.
     In 2015, Page and Brin took a step back from the company they’d founded to chase
     an array of personal interests outside of Google, from philanthropy to flying
@@ -4975,6 +4979,9 @@
   id: totrans-463
   prefs: []
   type: TYPE_NORMAL
+  zh: 自互联网泡沫兴衰以来，这些公司用了二十多年时间达到如此规模。它们是如何变得如此庞大的？它们收购了 DeepMind、YouTube 和 Instagram
+    等公司，并吸收了海量的消费者数据，使得其中一些公司能够通过广告和推荐对我们进行精准投放，从而大规模地影响人类行为。Google 通过搜索查询和 YouTube
+    互动收集数据，Amazon 则追踪我们的购买和浏览行为。它们收集的数据规模之大，普通人难以想象，包括个人详细信息、浏览历史、位置数据，在某些情况下甚至包括语音录音。这些数据不仅数量庞大，而且种类多样，为科技公司提供了消费者行为的详细图景。
 - en: Firms like Facebook and Google use that data to conduct hypertargeted advertising,
     displaying ads that pique a person’s interests and fuel sophisticated recommendation
     algorithms. That software powers the “feeds” that people thumb through every day,
@@ -4987,6 +4994,8 @@
   id: totrans-464
   prefs: []
   type: TYPE_NORMAL
+  zh: 像 Facebook 和 Google 这样的公司利用这些数据进行超精准广告投放，展示能激起个人兴趣的广告，并驱动复杂的推荐算法。这些软件支撑着人们每天刷个不停的“信息流”，确保弹出的内容最有可能让他们持续滚动浏览。这些公司有动力让我们尽可能沉迷于它们的平台，因为这能带来更多广告收入。但负面影响比比皆是。一项研究显示，美国人对
+    Facebook、Instagram 和其他社交媒体应用如此上瘾，以至于 2023 年平均每天查看手机 **144 次**。
 - en: All that personalized “content delivery” has also amped up the generational
     and political divisions between millions of people, since the most engaging content
     tends to be the kind that provokes outrage. Facebook, for instance, often recommended
@@ -5003,6 +5012,10 @@
   id: totrans-465
   prefs: []
   type: TYPE_NORMAL
+  zh: 所有这些个性化的“内容推送”也加剧了数百万人之间的代际和政治分歧，因为最能吸引参与的内容往往是那种能激起愤怒的类型。例如，在 2016 年美国总统大选期间，Facebook
+    经常在用户的信息流中推荐最具煽动性的政治内容，让许多用户接触到强化其既有信念的新闻和观点，从而形成了信息茧房。同样的现象在英国脱欧公投前的几个月里加剧了对移民日益增长的不满，并在
+    2017 年助长了对缅甸罗兴亚人的敌意。根据国际特赦组织的一份报告，Facebook 的算法极大地加速了针对罗兴亚人的仇恨内容的传播，以至于助长了缅甸军方对该穆斯林族群进行大规模杀戮、酷刑、强奸和流离失所的种族灭绝行动。Facebook
+    已在媒体报道中承认，其在防止煽动针对罗兴亚人的暴力方面做得不够。
 - en: 'For all the division Facebook sowed, the company’s business model was unfathomably
     successful, treating its billions of users and their data as the product and its
     advertisers as the real customers. The more data it could get, the more it could
@@ -5011,6 +5024,8 @@
   id: totrans-466
   prefs: []
   type: TYPE_NORMAL
+  zh: 尽管 Facebook 制造了如此多的分裂，该公司的商业模式却取得了难以想象的成功，它将数十亿用户及其数据视为产品，而将广告商视为真正的客户。它能获取的数据越多，从广告商那里赚的钱就越多。虽然这种基于用户参与度的模式对社会产生了有害影响，但它激励
+    Facebook 去做一件事：**尽可能做大**。
 - en: The other way these companies became so enormous was network effects, a seemingly
     magical phenomenon that every start-up founder craves. The basic idea of network
     effects is that the more users and customers a company has, the better their algorithms
@@ -12702,91 +12717,120 @@
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 'Vance, Ashlee. *Elon Musk: How the Billionaire CEO of SpaceX and Tesla Is Shaping
+    Our Future*. London: Virgin Books, 2015.'
 - en: 'Chapter 7: Playing Games'
   id: totrans-1243
   prefs: []
   type: TYPE_NORMAL
+  zh: 'Chapter 7: Playing Games'
 - en: Aron, Jacob. “How to Build the Global Mathematics Brain.” *New Scientist*, May
     4, 2011.
   id: totrans-1244
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: Aron, Jacob. “How to Build the Global Mathematics Brain.” *New Scientist*, May
+    4, 2011.
 - en: Byford, Sam. “Google’s AlphaGo AI Defeats World Go Number One Ke Jie.” *The
     Verge*, May 23, 2017.
   id: totrans-1245
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: Byford, Sam. “Google’s AlphaGo AI Defeats World Go Number One Ke Jie.” *The
+    Verge*, May 23, 2017.
 - en: Gallagher, Ryan. “Google’s Secret China Project ‘Effectively Ended’ after Internal
     Confrontation.” *The Intercept*, December 17, 2018.
   id: totrans-1246
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: Gallagher, Ryan. “Google’s Secret China Project ‘Effectively Ended’ after Internal
+    Confrontation.” *The Intercept*, December 17, 2018.
 - en: Gallagher, Ryan. “Private Meeting Contradicts Google’s Official Story on China.”
     *The Intercept*, October 9, 2018.
   id: totrans-1247
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: Gallagher, Ryan. “Private Meeting Contradicts Google’s Official Story on China.”
+    *The Intercept*, October 9, 2018.
 - en: “Has Anyone Actually Tried to Convince Terry Tao or Other Top Mathematicians
     to Work on Alignment?” www.lesswrong.com, June 8, 2022.
   id: totrans-1248
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: “Has Anyone Actually Tried to Convince Terry Tao or Other Top Mathematicians
+    to Work on Alignment?” www.lesswrong.com, June 8, 2022.
 - en: “How to Play.” British Go Association, updated October 26, 2017, https://www.britgo.org/intro/intro2.html.
   id: totrans-1249
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: “How to Play.” British Go Association, updated October 26, 2017, https://www.britgo.org/intro/intro2.html.
 - en: 'Metz, Cade. *Genius Makers: The Mavericks Who Brought A.I. to Google, Facebook,
     and the World*. New York: Random House Business, 2021.'
   id: totrans-1250
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 'Metz, Cade. *Genius Makers: The Mavericks Who Brought A.I. to Google, Facebook,
+    and the World*. New York: Random House Business, 2021.'
 - en: Metz, Cade. “Google Is Already Late to China’s AI Revolution.” *Wired*, June
     2, 2017.
   id: totrans-1251
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: Metz, Cade. “Google Is Already Late to China’s AI Revolution.” *Wired*, June
+    2, 2017.
 - en: 'Rogin, Josh. “Eric Schmidt: The Great Firewall of China Will Fall.” *Foreign
     Policy*, July 9, 2012.'
   id: totrans-1252
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 'Rogin, Josh. “Eric Schmidt: The Great Firewall of China Will Fall.” *Foreign
+    Policy*, July 9, 2012.'
 - en: 'Suleyman, Mustafa, with Michael Bhaskar. *The Coming Wave*. New York: Crown,
     2023.'
   id: totrans-1253
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 'Suleyman, Mustafa, with Michael Bhaskar. *The Coming Wave*. New York: Crown,
+    2023.'
 - en: Temperton, James. “DeepMind’s New AI Ethics Unit Is the Company’s Next Big Move.”
     *Wired*, October 4, 2017.
   id: totrans-1254
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: Temperton, James. “DeepMind’s New AI Ethics Unit Is the Company’s Next Big Move.”
+    *Wired*, October 4, 2017.
 - en: Yang, Yuan. “Google’s AlphaGo Is World’s Best Go Player.” *Financial Times*,
     May 25, 2017.
   id: totrans-1255
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: Yang, Yuan. “Google’s AlphaGo Is World’s Best Go Player.” *Financial Times*,
+    May 25, 2017.
 - en: 'Chapter 8: Everything Is Awesome'
   id: totrans-1256
   prefs: []
   type: TYPE_NORMAL
+  zh: 'Chapter 8: Everything Is Awesome'
 - en: Angwin, Julia, Jeff Larson, Surya Mattu, and Lauren Kirchner. “Machine Bias.”
     *ProPublica*, May 23, 2016.
   id: totrans-1257
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: Angwin, Julia, Jeff Larson, Surya Mattu, and Lauren Kirchner. “Machine Bias.”
+    *ProPublica*, May 23, 2016.
 - en: 'Buolamwini, Joy, and Timnit Gebru. “Gender Shades: Intersectional Accuracy
     Disparities in Commercial Gender Classification.” *Proceedings of Machine Learning
     Research* 81 (2018): 1–15.'
@@ -12794,18 +12838,25 @@
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 'Buolamwini, Joy, and Timnit Gebru. “Gender Shades: Intersectional Accuracy
+    Disparities in Commercial Gender Classification.” *Proceedings of Machine Learning
+    Research* 81 (2018): 1–15.'
 - en: Dastin, Jeffrey. “Amazon Scraps Secret AI Recruiting Tool That Showed Bias against
     Women.” *Reuters*, October 10, 2018.
   id: totrans-1259
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: Dastin, Jeffrey. “Amazon Scraps Secret AI Recruiting Tool That Showed Bias against
+    Women.” *Reuters*, October 10, 2018.
 - en: Devlin, Hannah, and Alex Hern. “Why Are There So Few Women in Tech? The Truth
     behind the Google Memo.” *The Guardian*, August 8, 2017.
   id: totrans-1260
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: Devlin, Hannah, and Alex Hern. “Why Are There So Few Women in Tech? The Truth
+    behind the Google Memo.” *The Guardian*, August 8, 2017.
 - en: 'Gebru, Timnit, Jamie Morgenstern, Briana Vecchione, Jennifer Wortman Vaughan,
     Hanna Wallach, Hal Daumé III, and Kate Crawford. “Datasheets for Datasets.” *Communications
     of the ACM* 64, no. 12 (2021): 86–92.'
@@ -12813,12 +12864,17 @@
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 'Gebru, Timnit, Jamie Morgenstern, Briana Vecchione, Jennifer Wortman Vaughan,
+    Hanna Wallach, Hal Daumé III, and Kate Crawford. “Datasheets for Datasets.” *Communications
+    of the ACM* 64, no. 12 (2021): 86–92.'
 - en: Grant, Nico, and Kashmir Hill. “Google’s Photo App Still Can’t Find Gorillas.
     And Neither Can Apple’s.” *New York Times*, May 22, 2023.
   id: totrans-1262
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: Grant, Nico, and Kashmir Hill. “Google’s Photo App Still Can’t Find Gorillas.
+    And Neither Can Apple’s.” *New York Times*, May 22, 2023.
 - en: 'Harris, Josh. “There Was All Sorts of Toxic Behaviour’: Timnit Gebru on Her
     Sacking by Google, AI’s Dangers and Big Tech’s Biases.” *The Guardian*, May 22,
     2023.'
@@ -12826,29 +12882,39 @@
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 'Harris, Josh. “There Was All Sorts of Toxic Behaviour’: Timnit Gebru on Her
+    Sacking by Google, AI’s Dangers and Big Tech’s Biases.” *The Guardian*, May 22,
+    2023.'
 - en: Horwitz, Jeff. “The Facebook Files.” *Wall Street Journal*, October 1, 2021.
   id: totrans-1264
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: Horwitz, Jeff. “The Facebook Files.” *Wall Street Journal*, October 1, 2021.
 - en: Payton, L’Oreal Thompson. “Americans Check Their Phones 144 Times a Day. Here’s
     How to Cut Back.” *Fortune*, July 19, 2023.
   id: totrans-1265
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: Payton, L’Oreal Thompson. “Americans Check Their Phones 144 Times a Day. Here’s
+    How to Cut Back.” *Fortune*, July 19, 2023.
 - en: Simonite, Tom. “What Really Happened When Google Ousted Timnit Gebru.” *Wired*,
     June 8, 2021.
   id: totrans-1266
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: Simonite, Tom. “What Really Happened When Google Ousted Timnit Gebru.” *Wired*,
+    June 8, 2021.
 - en: '“The Social Atrocity: Meta and the Right to Remedy for the Rohingya.” Amnesty
     International report, September 29, 2022.'
   id: totrans-1267
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: '“The Social Atrocity: Meta and the Right to Remedy for the Rohingya.” Amnesty
+    International report, September 29, 2022.'
 - en: Wakabayashi, Daisuke, and Katie Benner. “How Google Protected Andy Rubin, the
     ‘Father of Android.’” *New York Times*, October 25, 2018.
   id: totrans-1268
@@ -13825,741 +13891,889 @@
   id: totrans-1402
   prefs: []
   type: TYPE_NORMAL
+  zh: 本书印刷版索引与电子书页码不符。请使用电子阅读设备的搜索功能查找感兴趣的术语。供您参考，印刷版索引中出现的术语列于下方。
 - en: 80,000 Hours (group)
   id: totrans-1403
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 80,000 Hours（组织）
 - en: Abbott, Andy
   id: totrans-1404
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 阿博特，安迪
 - en: Acadia, Michael
   id: totrans-1405
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 阿卡迪亚，迈克尔
 - en: Acemoglu, Daron
   id: totrans-1406
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 阿西莫格鲁，达龙
 - en: Acton
   id: totrans-1407
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 阿克顿
 - en: advertising, Loopt and
   id: totrans-1408
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 广告，Loopt 与
 - en: '*Age of Spiritual Machines, The* (Kurzweil)'
   id: totrans-1409
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: '*《灵魂机器的时代》*（库兹韦尔）'
 - en: AGI. *See* artificial general intelligence.
   id: totrans-1410
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: AGI。*见* 通用人工智能。
 - en: AI accelerationists
   id: totrans-1411
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: AI 加速主义者
 - en: AI Act (Europe)
   id: totrans-1412
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: AI 法案（欧洲）
 - en: AI Now Institute
   id: totrans-1413
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: AI Now 研究所
 - en: Airbnb
   id: totrans-1414
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: Airbnb
 - en: AI Safety Summit
   id: totrans-1415
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: AI 安全峰会
 - en: Alphabet
   id: totrans-1416
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: Alphabet
 - en: autonomous units model and
   id: totrans-1417
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 自治单元模型与
 - en: China and
   id: totrans-1418
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 中国与
 - en: DeepMind and
   id: totrans-1419
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: DeepMind 与
 - en: valuation of
   id: totrans-1420
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 其估值
 - en: '*See also* Google'
   id: totrans-1421
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: '*另见* 谷歌'
 - en: AlphaFold
   id: totrans-1422
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: AlphaFold
 - en: AlphaFold Protein Structure Database
   id: totrans-1423
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: AlphaFold 蛋白质结构数据库
 - en: '*AlphaGo*'
   id: totrans-1424
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: '*AlphaGo*'
 - en: Altman, Connie
   id: totrans-1425
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 阿尔特曼，康妮
 - en: Altman, Jerry
   id: totrans-1426
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 阿尔特曼，杰里
 - en: Altman, Sam
   id: totrans-1427
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 阿尔特曼，萨姆
 - en: AOL chat rooms and
   id: totrans-1428
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: AOL 聊天室与
 - en: approach to AI of
   id: totrans-1429
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 其 AI 方法
 - en: on bias in DALL-E 2
   id: totrans-1430
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 关于 DALL-E 2 中的偏见
 - en: blog of
   id: totrans-1431
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 其博客
 - en: on ChatGPT
   id: totrans-1432
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 关于 ChatGPT
 - en: ChatGPT and
   id: totrans-1433
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: ChatGPT 与
 - en: concept of death and
   id: totrans-1434
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 死亡概念与
 - en: creation of OpenAI and
   id: totrans-1435
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: OpenAI 的创建及
 - en: DeepMind recruits and
   id: totrans-1436
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: DeepMind 招聘及
 - en: detachment from people and
   id: totrans-1437
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 与人群的疏离及
 - en: early life of
   id: totrans-1438
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 早期生活
 - en: funding for OpenAI and
   id: totrans-1439
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 对 OpenAI 的资助及
 - en: government policy and
   id: totrans-1440
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 政府政策与
 - en: Hassabis and
   id: totrans-1441
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 哈萨比斯与
 - en: Hydrazine Capital and
   id: totrans-1442
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: Hydrazine Capital 与
 - en: interest in AI
   id: totrans-1443
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 对 AI 的兴趣
 - en: at John Burroughs (school)
   id: totrans-1444
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 在约翰·巴勒斯（学校）
 - en: Loopt and
   id: totrans-1445
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: Loopt 与
 - en: Microsoft and
   id: totrans-1446
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 微软与
 - en: Musk and
   id: totrans-1447
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 马斯克与
 - en: Nadella on
   id: totrans-1448
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 纳德拉关于它
 - en: Reddit and
   id: totrans-1449
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: Reddit 与
 - en: removal from OpenAI
   id: totrans-1450
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 被 OpenAI 除名
 - en: reputation as tech savior and
   id: totrans-1451
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 作为科技救世主的声誉及
 - en: restructuring of OpenAI and
   id: totrans-1452
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: OpenAI 的重组及
 - en: “ship it” strategy and
   id: totrans-1453
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: “发布它”策略与
 - en: Silicon Valley and
   id: totrans-1454
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 硅谷与
 - en: Stanford University and
   id: totrans-1455
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 斯坦福大学与
 - en: Stochastic Parrots paper and
   id: totrans-1456
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 《随机鹦鹉》论文与
 - en: on threats posed by AI
   id: totrans-1457
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 关于 AI 构成的威胁
 - en: Toner’s paper and
   id: totrans-1458
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 托纳的论文与
 - en: transhumanism and
   id: totrans-1459
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 超人类主义与
 - en: Y Combinator and
   id: totrans-1460
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: Y Combinator 与
 - en: Amazon
   id: totrans-1461
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 亚马逊
 - en: America Online (AOL), LGBTQ community and
   id: totrans-1462
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 美国在线（AOL），LGBTQ 社区与
 - en: Amodei, Daniela
   id: totrans-1463
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 阿莫代，丹妮拉
 - en: Amodei, Dario
   id: totrans-1464
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 阿莫代，达里奥
 - en: Anthropic and
   id: totrans-1465
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: Anthropic 与
 - en: concerns about AI and
   id: totrans-1466
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 对 AI 的担忧及
 - en: departure from OpenAI
   id: totrans-1467
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 离开 OpenAI
 - en: OpenAI’s Microsoft partnership and
   id: totrans-1468
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: OpenAI 与微软的合作及
 - en: Open Philanthropy and
   id: totrans-1469
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 开放慈善与
 - en: Android
   id: totrans-1470
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: Android
 - en: Anthropic
   id: totrans-1471
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: Anthropic
 - en: Apple
   id: totrans-1472
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 苹果
 - en: Art of Accomplishment podcast
   id: totrans-1473
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 《成就的艺术》播客
 - en: artificial general intelligence (AGI)
   id: totrans-1474
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 通用人工智能
 - en: DALL-E 2 and
   id: totrans-1475
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: DALL-E 2 与
 - en: economic promises and
   id: totrans-1476
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 经济承诺与
 - en: human brain model and
   id: totrans-1477
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 人脑模型与
 - en: OpenAI and
   id: totrans-1478
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: OpenAI 与
 - en: philosophical battle over
   id: totrans-1479
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 关于它的哲学论战
 - en: pursuit of
   id: totrans-1480
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 对它的追求
 - en: artificial intelligence
   id: totrans-1481
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 人工智能
 - en: accelerationists and
   id: totrans-1482
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 加速主义者与
 - en: bias/racism and
   id: totrans-1483
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 偏见/种族主义与
 - en: China and
   id: totrans-1484
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 中国与
 - en: depletion of academic experts to tech in
   id: totrans-1485
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 学术专家向科技界的流失
 - en: distraction and
   id: totrans-1486
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 分心与
 - en: effective altruism and
   id: totrans-1487
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 有效利他主义与
 - en: effect of tech companies of research field and
   id: totrans-1488
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 科技公司对研究领域的影响及
 - en: ethics vs. safety and
   id: totrans-1489
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 伦理与安全及
 - en: fears over speed of development of
   id: totrans-1490
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 对其发展速度的担忧
 - en: future impacts of
   id: totrans-1491
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 未来影响
 - en: government policy and
   id: totrans-1492
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 政府政策与
 - en: human interaction with
   id: totrans-1493
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 人类与它的互动
 - en: language bias in data sets
   id: totrans-1494
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 数据集中的语言偏见
 - en: open-source
   id: totrans-1495
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 开源
 - en: p(doom) and
   id: totrans-1496
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: p(doom) 与
 - en: philosophical battle over
   id: totrans-1497
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 关于它的哲学论战
 - en: political polarization and
   id: totrans-1498
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 政治极化与
 - en: propaganda and
   id: totrans-1499
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 宣传与
 - en: public imagination and
   id: totrans-1500
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 公众想象力与
 - en: reality as simulation and
   id: totrans-1501
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 现实作为模拟及
 - en: religion and
   id: totrans-1502
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 宗教与
 - en: scale and
   id: totrans-1503
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 规模与
 - en: terminology and
   id: totrans-1504
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 术语与
 - en: transparency and
   id: totrans-1505
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 透明度与
 - en: Asana
   id: totrans-1506
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: Asana
 - en: Asimov, Isaac
   id: totrans-1507
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 阿西莫夫，艾萨克
 - en: attention
   id: totrans-1508
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 注意力
 - en: Baele, Stephane
   id: totrans-1509
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 巴埃勒，斯特凡
 - en: Baidu
   id: totrans-1510
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 百度
 - en: Bankman-Fried, Sam
   id: totrans-1511
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 班克曼-弗里德，萨姆
 - en: Bard
   id: totrans-1512
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: Bard
 - en: Battery Club
   id: totrans-1513
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: Battery Club
 - en: Beckstead, Nick
   id: totrans-1514
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 贝克斯特德，尼克
 - en: Bender, Emily
   id: totrans-1515
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 本德，艾米丽
 - en: Bengio, Yoshua
   id: totrans-1516
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 本吉奥，约书亚
 - en: BERT
   id: totrans-1517
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: BERT
 - en: “Better Language Models and Their Implications” (OpenAI)
   id: totrans-1518
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: “更好的语言模型及其影响”（OpenAI）
 - en: Bing Translate
   id: totrans-1519
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: Bing 翻译
 - en: Birhane, Abeba
   id: totrans-1520
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 比尔哈内，阿贝巴
 - en: BlackBerry
   id: totrans-1521
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 黑莓
 - en: Blumenthal, Richard
   id: totrans-1522
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 布卢门撒尔，理查德
 - en: BooksCorpus
   id: totrans-1523
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: BooksCorpus
 - en: Boost Mobile
   id: totrans-1524
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: Boost Mobile
 - en: Bostrom, Nick
   id: totrans-1525
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 博斯特罗姆，尼克
 - en: Brexit
   id: totrans-1526
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 英国脱欧
 - en: Brin, Sergey
   id: totrans-1527
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 布林，谢尔盖
 - en: British Eugenics Society
   id: totrans-1528
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 英国优生学会
 - en: Brockman, Anna
   id: totrans-1529
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 布罗克曼，安娜
 - en: Brockman, Greg
   id: totrans-1530
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 布罗克曼，格雷格
 - en: on Altman
   id: totrans-1531
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 关于阿尔特曼
 - en: departure from OpenAI
   id: totrans-1532
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 离开 OpenAI
 - en: funding and
   id: totrans-1533
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 资金与
 - en: marriage of
   id: totrans-1534
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 婚姻
 - en: Microsoft partnership and
   id: totrans-1535
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 与微软的合作及
 - en: Musk and
   id: totrans-1536
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 马斯克与
 - en: OpenAI and
   id: totrans-1537
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: OpenAI 与
 - en: removal from OpenAI board and
   id: totrans-1538
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 被 OpenAI 董事会除名及
 - en: restructuring of OpenAI and
   id: totrans-1539
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: OpenAI 的重组及
 - en: Brookings Institute
   id: totrans-1540
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 布鲁金斯学会
 - en: Bullfrog Productions
   id: totrans-1541
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: Bullfrog Productions
 - en: Bumble
   id: totrans-1542
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: Bumble
 - en: Buolamwini, Joy
   id: totrans-1543
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 布奥拉姆维尼，乔伊
 - en: Buterin, Vitalik
   id: totrans-1544
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 布特林，维塔利克
 - en: Calico
   id: totrans-1545
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: Calico
 - en: Cambridge Analytica
   id: totrans-1546
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 剑桥分析
 - en: Cambridge University
   id: totrans-1547
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 剑桥大学
 - en: Center for AI Safety
   id: totrans-1548
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 人工智能安全中心
 - en: Center for Effective Altruism
   id: totrans-1549
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 有效利他主义中心
 - en: Center for Human-Compatible AI
   id: totrans-1550
   prefs:
