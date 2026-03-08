@@ -1,112 +1,14 @@
-CHATGPT CASHFLOW MASTERY
+# CHATGPT 现金流精通指南
+
+> 原文：[ChatGPT Cashflow Mastery](https://annas-archive.org/md5/0eea00c4dee3810c6f22a3119097d523)
+> 
+> 译者：[飞龙](https://github.com/wizardforcel)
+> 
+> 协议：[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 
 被动收入生成模板
 
-LEONARD NTEONWE
-
-URBAN UNIVERSITY COLLEGE LIMITED
-
-![](img/chatgpt-cashflow-mastery-image_rsrc2NU.jpg)
-
-版权所有 © 2024 LEONARD NTE ONWE/Urban University College Limited
-
-所有权利保留
-
-本书所描绘的角色和事件是虚构的。任何与真实人物（无论生死）的相似性纯属巧合，并非作者有意为之。
-
-本书的任何部分不得以任何形式或通过任何手段（包括电子、机械、影印、录音或其他方式）进行复制、存储或传输，除非获得出版者的明确书面许可。
-
-ISBN-13: 9781234567890
-
-ISBN-10: 1477123456
-
-封面设计：Art Painter
-
-美国国会图书馆控制编号：2018675309
-
-在美国印刷
-
-致创新者、梦想家和开拓者 -
-
-希望这本书能成为你通往财务自由和被动收入精通的催化剂。
-
-献给我的挚爱家人和朋友，他们坚定不移的支持和鼓励激发了我帮助他人的热情。
-
-以及 ChatGPT，这位非凡的人工智能助手，其变革性能力启发了本实用指南的创建。愿它成为技术与人类独创力结合力量的见证。
-
-本书献给所有敢于挑战现状、重新定义与金钱的关系、开辟通往富裕和独立生活道路的人。
-
-希望这些页面中的教训能照亮前进的道路，赋予你解锁 ChatGPT 的全部潜力并利用被动收入创造的无限可能。
-
-- Leonard NteOnwe
-
-"真正的天才不在于追求财富，而在于掌握其创造。因为正是通过有意识地培养被动收入渠道，我们才能开启通往财务自由和人类精神解放的钥匙。"
-
-- Leonard NteOnwe, "ChatGPT Cashflow Mastery"
-
-目录
-
-扉页
-
-版权
-
-献词
-
-题词
-
-引言
-
-序言
-
-序言
-
-前言
-
-未命名
-
-第一章：
-
-第二章：
-
-第三章：
-
-第四章：
-
-第五章：
-
-第六章：
-
-第七章：
-
-第八章：
-
-第九章：
-
-第十章：
-
-第十一章：
-
-第十二章：
-
-第十三章：
-
-结语
-
-后记
-
-致谢
-
-关于作者
-
-本书作者的作品
-
-附录：
-
-关键术语和概念词汇表
-
-索引
-
-未命名
 
 引言
 

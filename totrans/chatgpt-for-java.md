@@ -1,36 +1,19 @@
-![封面图片](img/chatgpt-for-java-979-8-8688-0116-7_CoverFigure.jpg)《ChatGPT for Java》的封面
 
-# ChatGPT for Java
+# 面向 Java 的 ChatGPT
+
+> 原文：[ChatGPT for Java](https://annas-archive.org/md5/7a4932eedd6dc20d65da7649ce9a5142)
+> 
+> 译者：[飞龙](https://github.com/wizardforcel)
+> 
+> 协议：[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+![封面图片](img/chatgpt-for-java-979-8-8688-0116-7_CoverFigure.jpg)
 
 ## ChatGPT 和 Open AI API 的实战开发者指南
 
-前言由 Private AI 的联合创始人兼首席执行官 Patricia Thaine 撰写![封面图片](img/chatgpt-for-java-607613_1_En_BookFrontmatter_Figa_HTML.png)
+## 关于作者 Bruce Hopkins
 
-Apress 标志。
-
-布鲁斯·霍普金斯
-
-本 Apress 出版社由注册公司 APress Media, LLC 出版，该公司是 Springer Nature 的一部分。
-
-注册公司地址为：1 New York Plaza, New York, NY 10004, U.S.A.
-
-前言
-
-在过去几年中，我有幸认识布鲁斯，亲眼目睹了他将尖端概念和问题转化为来自不同背景和能力的程序员能够理解的能力。布鲁斯的经验特别适合将许多最新的 AI 技术，如 ChatGPT，分解成开发者可以在日常问题解决中使用的核心组件。他是《Bluetooth for Java》的合著者，这本书在蓝牙进入市场后仅四年就出版了，他还是为需要其最新发明被开发者采用的各大科技公司撰写的大量技术指南的作者。
-
-作为一家由微软支持的 AI 公司 Private AI 的联合创始人和 CEO，我有幸与世界各地的开发者、经理和 C 级高管交谈，不仅关于数据的负责任使用实施，还关于他们对生成式 AI 的疑问，要解决哪些问题，以及从哪里开始。像 ChatGPT 这样的技术如此新颖，使其能够表现得如此出色的底层模型架构——即 Transformer 架构——仅在 2017 年的一篇名为“Attention Is All You Need”的研究论文中首次出现。因此，管理者们所面临的大量关键问题也是开发者们热衷于深入探讨的问题，包括“我能用这项技术做什么？”，“我应该在何处以及如何实施它？”，“我应该从哪里开始？”，“有哪些陷阱？”，以及当大量关注点集中在新的发明上时，始终存在的疑问：“这只是一场炒作吗？”
-
-幸运的是，本书中具体地解决了许多这些问题，这是深入理解新技术实际用途的关键步骤。就像学习编程语言教会你以一种与使用自然语言完全不同的方式思考一样，学习如何充分利用 AI 会使你以一种与编程完全不同的方式思考。在自然语言中，关键是学习词汇、语法、句法和语义。在编程语言中，是逻辑、数学、句法和规模，以及更多关于世界第一原理的理解。在人工智能中，一切都关于数据和它们与手头任务的关系。你可以拥有世界上最强大的用于生成文本、导航道路、生成艺术等任务的模型，但如果你将它们应用于它们本不应完成的任务，准备失望吧。然而，如果你从根本上理解它们被构建来做什么，并相应地使用它们，准备惊讶吧。
-
-本书中的简洁、实用的示例不仅可以帮助你快速开始使用 ChatGPT 构建项目，还可以开始磨练你对如何思考这项技术的直觉。确实，虽然重点是使用 Java 进行工作，但任何编程语言的使用者都能从深入研究这项技术中受益。
-
-> Patricia Thaine
-> 
-> 联合创始人兼 CEO，Private AI
-> 
-> [www.private-ai.com](http://www.private-ai.com)
-
-目录第一章：为 Java 开发者介绍 ChatGPT1 本书面向谁？1 章节概述 2 立即下载代码！2 那么，ChatGPT 究竟是什么，为什么我需要使用 OpenAI API？2 正则表达式与 ChatGPT：战斗！5 分析问题#1：谁没有吃到冰淇淋，为什么？7 分析问题#2：哪个孩子可能感到很伤心？9 为了更好地了解 ChatGPT API，让我们忘掉一些词汇 10 模型。模型？模型！！！10 当我们谈论标记时，想想 StringTokenizer 而不是访问令牌 15 温度全在于创造力 16 从 OpenAI 游乐场开始 171. 系统 192. 用户 203. 助手（可选）204. 添加消息（可选）215. 查看代码（可选）216. 模型（可选）217. 温度（可选）228. 最大长度（可选）22 现在试试！通过“系统”角色进行实验 22 结论 23 第二章：将 ChatGPT 作为您的 Java 配对程序员使用 25 创建您的第一个 Java ChatGPT 应用程序：ListModels.java26 模型列表端点 26 创建请求 26 处理 JSON 响应 27 模型（JSON）27 聊天端点 32 创建请求 32 聊天（JSON）33 处理响应 42 聊天完成（JSON）43 等等，我的提示中有多少个标记？46ChatGPT 标记计数器 46 创建下一个 Java 应用程序：ChatGPTClient.java48 结论 56 第三章：在企业中使用 AI！为 Slack 消息创建文本摘要器 57 那么，提示工程是什么？58 使用建造者模式更新 ChatGPTClient.java（和相关类）58ChatGPT 来了，要夺走每个人的工作（其实不是）64 考察一个现实世界的问题：软件公司的客户支持 64 提示工程 101：文本摘要 68 提示#1：“tl;dr”69 提示#2：“用不超过 3 句话解释”71 提示#3：“我是一名经理。向我解释发生了什么”72 提示#4：“给我提供下一步的建议”74 让我们谈谈真正的提示工程 77 注册 Slack 机器人应用程序 77 通过设置范围来指定您的机器人可以（和不能）做什么 80 确认您的设置 82 查看 OAuth 和权限页面 82 将您的 Slack 机器人应用程序安装到工作区 83 获取您的 Slack 机器人（访问）令牌 85 邀请您的机器人到您的频道 86 找到您的频道 ID87 使用您的 Slack 机器人应用程序自动从频道获取消息 87 设置您的依赖项 87 使用 ChannelReaderSla​ckBot.java 从 Slack 以编程方式读取消息 91 留给读者的练习 96 结论 97 第四章：多模态 AI：使用 Whisper 和 DALL·E 3 创建播客可视化器 99 介绍 OpenAI 的 Whisper 模型 102Whisper 模型的特性和局限性 105 转录端点 108 创建请求 108 请求体（multipart 表单数据）109 创建一个分割音频文件的实用应用程序：AudioSplitter.java111 创建音频转录器：WhisperClient.java116 用播客玩玩，试试看 122 元问题：提示工程 GPT-4 为 DALL·E 编写提示 126 创建图像端点 128 创建请求 128 创建图像（JSON）129 处理响应 131 图像（JSON）132 创建图像生成器：DALLEClient.java132DALL·E 提示工程和最佳实践 136DALL·E 黄金法则#1：熟悉 DALL·E 可以生成的图像类型 137DALL·E 黄金法则#2：在前景和背景中描述您想要的内容 138 结论 139 留给读者的练习 140 第五章：使用 Discord 和 Java 创建自动化的社区管理员机器人 141 选择 Discord 作为您的社区平台 142 创建比我们的 Slack 机器人更高级的机器人 143 创建比任何典型 Discord 机器人更高级的机器人 143 了解机器人的角色 144 我们的示例银行：Crook 的银行 144 首先：创建您自己的 Discord 服务器 145 创建问答频道 147 在 Discord 上注册新的机器人应用程序 148 指定机器人的通用信息 150 指定机器人的 OAuth2 参数 151 邀请您的机器人到您的服务器 153 获取您的机器人的 Discord ID 令牌并设置网关意图 155 在 Java 中创建一个问答机器人应用程序来回答频道的提问 158 设置您的依赖项 159 创建第一个 Discord 机器人：TechSupportBotDu​mb.java160 喜欢 Lambda 表达式简化代码 164 处理发送到 Discord 服务器的消息 165 成功！运行您的第一个 Discord 机器人：TechSupportBotDu​mb.java166 简化注册下一个 Discord 机器人应用程序的过程 167 在 Discord 上注册新的机器人应用程序 167 指定机器人的通用信息 168 指定机器人的 OAuth2 参数 168 邀请您的机器人到您的服务器 169 获取您的机器人的 Discord ID 令牌并设置网关意图 169 创建下一个 Discord 机器人：ContentModerator​BotDumb.java169 处理发送到 Discord 服务器的消息 173 再次成功！运行您的第二个 Discord 机器人：ContentModerator​BotDumb.java174 结论 174 留给读者的练习 175 第六章：为我们的 Discord 机器人添加智能，第一部分：使用聊天端点进行问答 177 使 TechSupportBot.java 更智能 178 注意从之前版本的客户支持机器人中做出的重要更改 185 对 onMessageReceive​d()方法的更新 186 分析 ChatGPTClientFor​QAandModeration.java186 使用 JSONPath 在 JSON 文件中快速提取内容 192 运行我们的智能问答机器人：TechSupportBot.java192 我们取得了巨大的成就……但有一个小瑕疵 195 更新系统消息到 ChatGPT 并再次尝试 196 结论 198 第七章：为我们的 Discord 机器人添加智能，第二部分：使用聊天和审核端点进行审核 199 审核端点 201 创建请求 202 创建审核（JSON）203 处理 JSON 响应 203 审核（JSON）204 为审核端点创建我们的客户端：ModerationClient​.java208 使 ContentModerator​Bot.java 更智能 213 注意从之前版本的内容审核机器人中做出的重要更改 219 对 onMessageReceive​d( )方法的更新 220 运行我们的智能内容审核机器人：ContentModerator​Bot.java221 结论 223 留给读者的练习 223 附录 1：OpenAI 模型列表 225 索引 229 关于作者 Bruce Hopkins![图片](img/chatgpt-for-java-607613_1_En_BookFrontmatter_Figb_HTML.jpg)
+![图片](img/chatgpt-for-java-607613_1_En_BookFrontmatter_Figb_HTML.jpg)
 
 布鲁斯·霍普金斯的照片。
 

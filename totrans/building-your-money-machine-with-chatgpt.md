@@ -1,6 +1,12 @@
 
 # 使用 ChatGPT 建立你的财富机器
 
+> 原文：[Building Your Money Machine with ChatGPT](https://annas-archive.org/md5/81921d90a4431833c2405cebdf0a0a44)
+> 
+> 译者：[飞龙](https://github.com/wizardforcel)
+> 
+> 协议：[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 
 ![](img/building-your-money-machine-with-chatgpt-image_rsrc10K.jpg)
 

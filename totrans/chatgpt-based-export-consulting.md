@@ -1,3 +1,11 @@
+# 基于 ChatGPT 的出口咨询
+
+> 原文：[ChatGPT-Based Export Consulting](https://annas-archive.org/md5/1d788d63b780955b5d4b2bcda7d73791)
+> 
+> 译者：[飞龙](https://github.com/wizardforcel)
+> 
+> 协议：[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 前言
 
 在国际贸易和商业咨询快速发展的领域中，人工智能的出现为该领域的专业人士开辟了前所未有的机会。作为一名拥有多年传统出口实践经验的 KOTRA 出口顾问，我亲眼见证了人工智能，特别是 ChatGPT，在革命性地改变我们处理出口咨询方式方面的变革力量。
