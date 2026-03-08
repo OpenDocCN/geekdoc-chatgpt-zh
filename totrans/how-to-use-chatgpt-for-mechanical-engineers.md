@@ -1,3 +1,11 @@
+# 机械工程师的 ChatGPT 使用指南
+
+> 原文：[How to Use ChatGPT for Mechanical Engineers ](https://annas-archive.org/md5/8c25c7b50e337c6e502b0a0819807600)
+> 
+> 译者：[飞龙](https://github.com/wizardforcel)
+> 
+> 协议：[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 第一章：机械工程师的 ChatGPT 入门
 
 近年来，人工智能已经彻底改变了包括工程在内的各个行业。作为一名机械工程师，利用 ChatGPT 这样的 AI 工具可以显著提高您的生产力、问题解决能力和创造力。ChatGPT 是由 OpenAI 的高级语言模型驱动的多功能工具，可以帮助机械工程师在广泛的任务中发挥作用，从头脑风暴设计想法到解决技术问题。在本指南中，我们将探讨如何有效地使用 ChatGPT 来简化您的流程，克服挑战，并在机械工程中开启新的可能性。

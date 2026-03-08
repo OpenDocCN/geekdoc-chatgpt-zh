@@ -1,3 +1,11 @@
+# ChatGPT 使用指南：精通高效交互的提示词工程
+
+> 原文：[How to ChatGPT: Mastering Prompt Engineering for Effective Interactions](https://annas-archive.org/md5/d900129f5114f317d01afe7b291d7cfd)
+> 
+> 译者：[飞龙](https://github.com/wizardforcel)
+> 
+> 协议：[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 # 前言
 
 在人工智能快速发展的领域中，与人工智能有效沟通的能力不仅是一种优势，已经成为一种必需品。“如何使用 ChatGPT：掌握提示工程以实现有效互动”在关键时刻出现，为新手和资深专业人士提供了在这个动态领域导航的必备指南。随着像 ChatGPT 这样的 AI 技术成为我们日常生活的一部分，从自动化任务到提供复杂问题解决解决方案，提示工程的艺术凸显为一种基本技能。

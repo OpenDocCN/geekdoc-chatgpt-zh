@@ -1,40 +1,14 @@
+# ChatGPT 赋能数字教育
+
+> 原文：[Empowering Digital Education with ChatGPT](https://annas-archive.org/md5/9019b4e05e1ffcf102fb938696f41505)
+> 
+> 译者：[飞龙](https://github.com/wizardforcel)
+> 
+> 协议：[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 ![](img/empowering-digital-education-with-chatgpt-cover.jpg)
 
 ![封面：利用 ChatGPT 赋能数字教育：从理论到实际应用，作者 ，由 Published by C R C Press, Taylor and Francis Group, Boca Raton, London, New York；C R C Press 是 Taylor and Francis Group 的子公司，是一家信息业务公司；Chapman and Hall 的书籍。](img/empowering-digital-education-with-chatgpt-cover.jpg)
-
-第一版出版于 2025 年
-
-由 CRC Press 出版
-
-2385 Executive Center Drive, Suite 320, Boca Raton, FL 33431
-
-由 CRC Press 出版
-
-4 Park Square, Milton Park, Abingdon, Oxon, OX14 4RN
-
-*CRC Press 是 Taylor & Francis Group, LLC 的子公司*
-
-© 2025 选择和编辑内容，Mohamed Lahby；各章节，贡献者
-
-已尽力出版可靠的数据和信息，但作者和出版者不能对所有材料的有效性或其使用的后果承担责任。作者和出版者已尝试追踪本出版物中复制的所有材料的版权所有者，并对未获得出版许可的版权所有者表示歉意。如果任何版权材料未得到认可，请写信告知我们，以便我们可以在未来的再版中进行纠正。
-
-除非根据美国版权法的规定，否则本书的任何部分不得以任何形式（包括影印、缩微胶片和录音等）通过任何电子、机械或其他已知或未来发明的手段重新印刷、复制、传输或使用，除非获得出版商的书面许可。
-
-如需获得从本作品中影印或电子使用材料的许可，请访问[www.copyright.com](http://www.copyright.com)或联系版权许可中心，Inc. (CCC)，222 Rosewood Drive, Danvers, MA 01923，978-750-8400。对于不在 CCC 上可用的作品，请联系 mpkbookspermissions@tandf.co.uk
-
-*商标声明*：产品或公司名称可能是商标或注册商标，仅用于识别和说明，无意侵犯。
-
-ISBN: 9781032716084 (精装书)
-
-ISBN: 9781032716107 (平装书)
-
-ISBN: 9781032716350 (电子书)
-
-DOI: [10.1201/9781032716350](https://doi.org/10.1201/9781032716350)
-
-排版使用 Times 字体
-
-由 Newgen Publishing UK 出版
 
 # 关于编辑
 

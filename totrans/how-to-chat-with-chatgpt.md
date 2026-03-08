@@ -1,58 +1,11 @@
--
 
-如何与 ChatGPT 聊天
+# 如何与 ChatGPT 聊天：非技术专业人士使用 AI 和 ChatGPT 的入门指南
 
-第 1 卷
-
-非技术专业人士使用 AI 和 ChatGPT 的入门指南
-
-KISMET DURSUN
-
-![](img/how-to-chat-with-chatgpt-image_rsrc2XC.jpg)
-
-如何与 ChatGPT 聊天：非技术专业人士每天使用 AI 的入门指南（如何与 ChatGPT 聊天，第 1 卷）
-
-版权所有 © 2024
-
-版权所有。未经出版商事先书面许可，本书的任何部分不得以任何形式或通过任何手段（包括影印、录音或其他电子或机械方法）进行复制、分发或传播，但版权法允许的简要引用和某些其他非商业用途除外。
-
-免责声明
-
-本书仅用于教育和信息目的。所提供的信息“按原样”提供，作者和出版商不对信息的完整性、准确性、可靠性、适用性或可用性做出任何明示或暗示的保证，无论这些信息、产品、服务或相关图形是否包含在本书中，无论用于何种目的。因此，您对这类信息的依赖完全由您自行承担风险。
-
-对于所有查询，包括许可事宜，请联系出版商：
-
-Girls Who Prompt | 洛杉矶
-
-hello@girlswhoprompt.com
-
-第一版 2024
-
-亲爱的妈妈和爸爸，
-
-谢谢您一直相信我，无论我的想法多么随机或疯狂。爸爸，我们想念你。
-
-目录
-
-引言
-
-第一章：认识 ChatGPT
-
-第二章：如何说 AI
-
-第三章：提升你的提示技巧
-
-第四章：ChatGPT 在工作中的应用
-
-第五章：幻觉、错误信息和偏见，哦，我的
-
-第六章：我们与 AI 的未来光明
-
-附录：ChatGPT-4 的新功能
-
-AI 术语表
-
-参考文献
+> 原文：[How to Chat with ChatGPT:](https://annas-archive.org/md5/cf857deab60983fe4d05d4b5e23e9138)
+> 
+> 译者：[飞龙](https://github.com/wizardforcel)
+> 
+> 协议：[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 引言
 

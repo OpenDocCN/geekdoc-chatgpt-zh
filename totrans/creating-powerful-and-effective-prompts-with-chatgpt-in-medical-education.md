@@ -1,58 +1,19 @@
+
+# 利用 ChatGPT 在医学教育中创建强大而有效的提示
+
+> 原文：[Creating Powerful and Effective Prompts with ChatGPT in Medical Education](https://annas-archive.org/md5/fca2adeaf229b10c3a773a56b26948c8)
+> 
+> 译者：[飞龙](https://github.com/wizardforcel)
+> 
+> 协议：[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 ![](img/creating-powerful-and-effective-prompts-with-chatgpt-in-medical-education-cover1.jpeg)
 
 ![](img/creating-powerful-and-effective-prompts-with-chatgpt-in-medical-education-image_rsrc14D.jpg) ![包含自动生成的描述的 Logo 图像](img/creating-powerful-and-effective-prompts-with-chatgpt-in-medical-education-image_rsrc14E.jpg)
 
-****利用 ChatGPT 在医学教育中创建强大而有效的提示**
-
 ****如何利用有效的 ChatGPT 提示革命性地改变医学教育**。本书指导您通过创建强大的提示，从确定目标到在临床案例中的实际应用。学习如何整合新兴技术，鼓励批判性思维，并持续改进您的教学方法。适合希望改变其课程的教师！
 
-****保罗·马尔科恩德斯·卡尔瓦略·朱尼奥尔**
-
-********2********0**********2********4**********
-
-****本书由保罗·马尔科恩德斯·卡尔瓦略·朱尼奥尔为教育研究所编写，并免费提供给对专业发展感兴趣的教师。**
-
-****目录文件**
-
-****联邦大学塞阿拉 - 图书馆系统**
-
-****由目录模块自动生成，基于作者提供的数据**
-
-![图片](img/creating-powerful-and-effective-prompts-with-chatgpt-in-medical-education-image_rsrc14F.jpg) © 由作者授权仅用于教学活动，以及任何盈利或非盈利目的的复制均未经授权。在引用文档的部分内容时，必须提及作者。
-
-**总结**
-
-**第一章** 有效提示在医学教育中的重要性
-
-**第二章** 目标识别
-
-**第三章** 医学教育中的情境化
-
-**第四章** 以逻辑方式构建内容
-
-**第五章** 细节和具体性的重要性
-
-**第六章** 在医学教育中激发批判性思维
-
-**第七章** 与当前实践和技术连接
-
-**第八章** 清晰和逻辑结构以及格式化
-
-**第九章** 提示写作中的综合和反思
-
-**第十章** 复习和调整：确保提示质量
-
-**第十一章** 药理学类别的提示的实际示例
-
-**第十二章** 临床案例：提示在实践中的应用
-
-**第十三章** 提示创作中的挑战和解决方案
-
-**第十四章** 工具和资源，用于改进提示
-
-**第十五章** 反馈和持续改进
-
-**结论**：**医学教育中促进因素的发展及其未来趋势**
+![图片](img/creating-powerful-and-effective-prompts-with-chatgpt-in-medical-education-image_rsrc14F.jpg)
 
 # **第一章**
 

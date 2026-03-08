@@ -1,3 +1,11 @@
+# 如何使用 AI ChatGPT Gemini Copilot 赚钱
+
+> 原文：[How to Make Money with AI ChatGPT Gemini Copilot](https://annas-archive.org/md5/a54b7898b4cff45b8763ee2149f7e339)
+> 
+> 译者：[飞龙](https://github.com/wizardforcel)
+> 
+> 协议：[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 # 简介
 
 本书旨在介绍使用 AI 赚钱的各种方式，包括生成被动收入。内容适合那些在 AI 中寻找新商业机会的人或对 AI 技术感兴趣的人。
@@ -19,32 +27,6 @@
 作者真诚地希望这本书能帮助读者开始他们的 AI 赚钱之旅，并在他们选择的事业或职业中取得成功。
 
 Natenapis Faraksa
-
-# 目录
-
-第一章：了解 AI 1 ● AI 的意义 2 ● AI 的类型 4 ● AI 的工作原理 5 ● AI 技术的益处 7 ● AI 技术趋势 8
-
-第二章：使用 AI 赚钱的 12 种方法 10 ● 方法 1：创建并销售 AI 生成的图像 11 ● 方法 2：在 AI 的帮助下创建并销售电子书 15 ● 方法 3：使用 AI 撰写销售小说 20 ● 方法 4：使用 AI 创建可销售的彩色书 25 ● 方法 5：使用 AI 创建在线课程进行销售 30 ● 方法 6：使用 AI 创建销售歌曲 35 ● 方法 7：在 39 上制作可销售的内容
-
-使用 AI 的 YouTube/TikTok
-
-● 方法 8：创建并销售 AI 提示词 43
-
-● 方法 9：创建自动化的 AI 聊天机器人 48
-
-对话
-
-● 方法 10：使用 AI 在线销售产品 53
-
-● 方法 11：建立销售联盟计划 58
-
-使用 AI 的产品
-
-● 方法 12：使用 AI 创建销售游戏 63
-
-第三章：使用 AI 赚钱的技巧 68 ● 使用 AI 赚钱的技巧 69 ● 推荐书籍，为 AI 打下基础 73
-
-第四章：结论 78
 
 # 章节
 

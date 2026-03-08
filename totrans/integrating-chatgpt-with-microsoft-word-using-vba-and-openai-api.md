@@ -1,10 +1,13 @@
+# 使用 OpenAI API 将 ChatGPT 与微软 Word 集成
+
+> 原文：[Integrating ChatGPT with Microsoft Word Using VBA and OpenAI API](https://annas-archive.org/md5/2046b05e49b1bd907bcb744b325d5244)
+> 
+> 译者：[飞龙](https://github.com/wizardforcel)
+> 
+> 协议：[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 ![图片](img/integrating-chatgpt-with-microsoft-word-using-vba-and-openai-api-image.png)
 
-© 2024 Michael L. Grant. 版权所有。
-
-将 ChatGPT 集成到 Microsoft Word 中
-
-使用 VBA 和 OpenAI API（Windows 版本）
 
 ## 简介
 
