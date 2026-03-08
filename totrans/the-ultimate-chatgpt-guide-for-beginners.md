@@ -1,56 +1,14 @@
+# ChatGPT 初学者终极指南
+
+
+> 原文：[The Ultimate ChatGPT Guide for Beginners ](https://annas-archive.org/md5/ad504e4bf2be0ed854ed000093974c3d)
+> 
+> 译者：[飞龙](https://github.com/wizardforcel)
+> 
+> 协议：[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 ![带有文本、书籍、图形设计的图像，自动生成的描述](img/the-ultimate-chatgpt-guide-for-beginners-image_rsrcD6.jpg)
 
-内容
-
-简介
-
-ChatGPT 中 AI 概述
-
-第一章：GPT-4 简介
-
-什么是 GPT-4？
-
-相较于 GPT-3 的主要改进
-
-GPT-4 的应用和潜力
-
-第二章：GPTs 和 GPT 商店
-
-什么是 GPTs？
-
-GPT 商店
-
-可用的 GPTs 类型
-
-定制 GPT 的优势
-
-第三章：Auto-GPT 的承诺
-
-什么是 Auto-GPT？
-
-Auto-GPT 是如何工作的
-
-定制提示框架
-
-框架的应用
-
-第五章：超越 ChatGPT – 其他大型语言模型（LLMs）
-
-什么是大型语言模型（LLMs）？
-
-大型语言模型的示例
-
-市场中对 LLMs 的应用
-
-LLMs 的未来
-
-第六章：额外的 AI 工具
-
-AI 工具的实际应用
-
-如何整合 AI 工具以增强结果
-
-结论
 
 # 简介
 

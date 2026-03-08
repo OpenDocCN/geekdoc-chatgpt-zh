@@ -1,22 +1,10 @@
-Sommario
+# 理解 ChatGPT、Gemini 和 Bard
 
-引言
-
-第一章：理解 AI 聊天机器人
-
-第二章：ChatGPT
-
-第三章：Gemini
-
-第四章：Bard
-
-第五章：比较 ChatGPT、Gemini 和 Bard
-
-第六章：开始使用 AI 聊天机器人
-
-第七章：AI 聊天机器人的未来
-
-结论
+> 原文：[Understanding ChatGPT, Gemini, and Bard: ](https://annas-archive.org/md5/7a6a6476cf7bdaf3ec8c54edf2d0caa6)
+> 
+> 译者：[飞龙](https://github.com/wizardforcel)
+> 
+> 协议：[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 引言
 

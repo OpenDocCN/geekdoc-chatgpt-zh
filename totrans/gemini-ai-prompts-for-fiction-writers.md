@@ -1,5 +1,5 @@
 
-# 虚构作家的 Gemini AI 提示词
+# 小说作家的 Gemini AI 提示词
 
 > 原文：[Gemini AI Prompts for Fiction Writers:](https://annas-archive.org/md5/f156d69dd792f352163ef6c949dc2467)
 > 
