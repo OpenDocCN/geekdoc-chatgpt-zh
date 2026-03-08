@@ -1,3 +1,12 @@
+# ChatGPT 收入蓝图
+
+
+> 原文：[The ChatGPT Income Blueprint](https://annas-archive.org/md5/e9e88eb9b5792bc94a46b1689ce4bbbd)
+> 
+> 译者：[飞龙](https://github.com/wizardforcel)
+> 
+> 协议：[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 引言：ChatGPT 在收入方面的力量
 
 欢迎来到 ChatGPT 收入蓝图，您的逐步指南，教您如何使用 ChatGPT 在线赚钱。我们生活在一个企业每月在内容、营销和客户服务上花费数千美元的世界，他们往往没有意识到 AI 的潜力。现在，多亏了像 ChatGPT 这样的工具，任何人都可以利用 AI 赚取稳定的收入，而无需具备广泛的技术或经验。

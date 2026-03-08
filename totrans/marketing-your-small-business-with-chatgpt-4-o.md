@@ -1,40 +1,13 @@
-使用 ChatGPT 4.o 营销你的小型企业
+# 使用 ChatGPT 4o 营销你的小型企业
+
+> 原文：[Marketing Your Small Business with ChatGPT 4.o ](https://annas-archive.org/md5/fc09a3b618fc12f8a56fe147acea1cb7)
+> 
+> 译者：[飞龙](https://github.com/wizardforcel)
+> 
+> 协议：[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ![图片](img/marketing-your-small-business-with-chatgpt-4-o-image_rsrc16E.jpg)
 
-作者：Terry C Power
-
-目录
-
-1.  ChatGPT 4.o 及其功能简介
-
-1.  理解您的市场：有效使用 ChatGPT 4.o 的基础
-
-1.  设计 ChatGPT 4.o 战略以增强客户参与度
-
-1.  使用 ChatGPT 4.o 建立品牌声音
-
-1.  利用 ChatGPT 4.o 实现卓越的客户服务
-
-1.  使用 ChatGPT 4.o 创建引人入胜的营销活动
-
-1.  ChatGPT 4.o 和社交媒体：完美搭配
-
-1.  使用 ChatGPT 4.o 生成想法和内容
-
-1.  利用 ChatGPT 4.o 简化销售流程
-
-1.  通过 ChatGPT 4.o 收集和分析反馈
-
-1.  优化您的 ChatGPT 4.o 设置以实现最大效率
-
-1.  ChatGPT 4.o 的高级技术和定制
-
-1.  ChatGPT 4.o 和 SEO：提升您的在线可见度
-
-1.  未来趋势：ChatGPT 4.o 之后的营销人工智能
-
-1.  案例研究：使用 ChatGPT 4.o 的成功小型企业
 
 ### 关于作者
 

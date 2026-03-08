@@ -1,92 +1,14 @@
-# 使用 ChatGPT 精通 Excel
+# 使用 ChatGPT 精通 Excel：自动化和效率指南
 
-## 自动化和效率指南
+> 原文：[Mastering Excel with ChatGPT: A Guide to Automation and Efficiency ](https://annas-archive.org/md5/131441760b9026da1d3ffaee8c123884)
+> 
+> 译者：[飞龙](https://github.com/wizardforcel)
+> 
+> 协议：[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 
 ![图片](img/mastering-excel-with-chatgpt-image_rsrc2U2.jpg)
 
-## 唐宇天
-
-# 目录
-
-1. Excel 入门
-
-Excel 界面概述
-
-基本导航和功能
-
-创建和保存工作簿
-
-理解工作表、单元格和范围
-
-2. 基本公式和函数
-
-公式简介
-
-常用函数（SUM、AVERAGE、COUNT 等）
-
-使用公式栏
-
-3. 数据管理
-
-数据输入技巧
-
-排序和筛选数据
-
-在 Excel 中使用表格
-
-数据验证
-
-4. 高级公式和函数
-
-嵌套函数
-
-查找函数（VLOOKUP、HLOOKUP、INDEX、MATCH）
-
-逻辑函数（IF、AND、OR）
-
-5. 数据分析工具
-
-数据透视表和数据透视图
-
-使用切片器和时间轴
-
-数据分析插件（分析工具包）
-
-6. 什么是 ChatGPT？
-
-人工智能和自然语言处理概述
-
-ChatGPT 如何协助 Excel 任务
-
-7. 设置 ChatGPT 用于 Excel
-
-如何访问和与 ChatGPT 交互
-
-理解与 AI 有效沟通的基本原理
-
-8. 自动化基本任务
-
-使用 ChatGPT 生成公式
-
-自动化重复数据输入
-
-创建模板和自动化报告
-
-9. 增强数据分析
-
-使用 ChatGPT 自动化数据清洗和准备
-
-使用 ChatGPT 提示生成高级分析
-
-自动化创建数据透视表和图表
-
-10. 优化 Excel 性能
-
-提高工作簿性能的技巧
-
-高效管理大型数据集
-
-第一章
 
 # Excel 入门
 

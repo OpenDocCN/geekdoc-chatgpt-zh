@@ -1,48 +1,15 @@
+# ChatGPT Java 编程实用指南
+
+> 原文：[Practical Java Programming with ChatGPT:](https://annas-archive.org/md5/d2af62694cb06957b1167a35690c370a)
+> 
+> 译者：[飞龙](https://github.com/wizardforcel)
+> 
+> 协议：[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+
 ![cover](img/practical-java-programming-with-chatgpt-cover.jpg)
 
 ![image](img/practical-java-programming-with-chatgpt-cover.jpg)
-
-# 实用 Java
-
-使用
-
-ChatGPT
-
-![](img/practical-java-programming-with-chatgpt-line.jpg)
-
-# 开发、原型设计和验证 Java
-
-通过集成 OpenAI API 进行应用
-
-利用生成式 AI 和 LLMs
-
-![](img/practical-java-programming-with-chatgpt-line.jpg)
-
-# Alan S. Bluck
-
-![](img/practical-java-programming-with-chatgpt-logo.jpg)
-
-[www.orangeava.com](http://www.orangeava.com)
-
-版权所有 © 2023 Orange Education Pvt Ltd，AVA™
-
-所有权利保留。未经出版者事先书面许可，本书的任何部分不得以任何形式或通过任何手段进行复制、存储在检索系统中或以任何方式传输，除非在评论或评论中嵌入的简短引用。
-
-在准备本书的过程中，我们已尽最大努力确保所提供信息的准确性。然而，本书中包含的信息销售时不附带任何明示或暗示的保证。作者、**Orange Education Pvt Ltd**及其经销商和分销商，不对因本书直接或间接造成的任何损害承担责任。
-
-**Orange Education Pvt Ltd**已努力通过适当使用大写字母提供本书中提到的所有公司和产品的商标信息。然而，**Orange Education Pvt Ltd**不能保证此信息的准确性。在本出版物中使用通用描述性名称、注册名称、商标、服务标志等，并不表示即使没有具体声明，此类名称也免于相关保护法律和法规的约束，因此可以自由使用。
-
-ChatGPT®是 OpenAI 公司的注册商标
-
-**首次出版：** 2023 年 11 月
-
-**出版商：** Orange Education Pvt Ltd，AVA™
-
-**地址：**德里达里甘杰 9 号，110002
-
-**ISBN：** 978-81-19416-79-0
-
-[www.orangeava.com](http://www.orangeava.com)
 
 # 献给
 

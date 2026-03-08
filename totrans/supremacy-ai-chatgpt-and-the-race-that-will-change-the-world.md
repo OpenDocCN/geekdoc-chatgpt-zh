@@ -1,40 +1,18 @@
+# 霸权：人工智能、ChatGPT 和将改变世界的竞赛
+
+> 原文：[Supremacy : AI, ChatGPT, and the Race That Will Change the World](https://annas-archive.org/md5/a5d75f598897ad8dceff6d69df67e787)
+> 
+> 译者：[飞龙](https://github.com/wizardforcel)
+> 
+> 协议：[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 ![封面：帕尔米·奥利森的《霸权：人工智能、ChatGPT 和将改变世界的竞赛》](img/supremacy-ai-chatgpt-and-the-race-that-will-change-the-world-9781250337757.jpg)![霸权：人工智能、ChatGPT 和将改变世界的竞赛](img/supremacy-ai-chatgpt-and-the-race-that-will-change-the-world-pgiii.jpg)
 
-开始阅读
 
-目录
-
-关于作者
-
-版权页
-
-**感谢您购买此书**
-
-**圣马丁出版社电子书。**
-
-为了接收特别优惠和额外内容，
-
-以及关于新书发布和其他精彩阅读的信息，
-
-签上我们的通讯录。
-
-![注册![注册](img/supremacy-ai-chatgpt-and-the-race-that-will-change-the-world-NewsletterSignup.jpg)](http://us.macmillan.com/newslettersignup?utm_source=ebook&utm_medium=adcard&utm_term=ebookreaders&utm_content=parmyolson_newslettersignup_macdotcom&utm_campaign=9781250337757)
-
-或者访问我们的网站
-
-[us.macmillan.com/newslettersignup](http://us.macmillan.com/newslettersignup?utm_source=ebook&utm_medium=adcard&utm_term=ebookreaders&utm_content=parmyolson_newslettersignup_macdotcom&utm_campaign=9781250337757)
-
-想要获取作者电子邮件更新，请点击[这里](http://us.macmillan.com/authoralerts?authorName=parmyolson&authorRefId=200123386&utm_source=ebook&utm_medium=adcard&utm_term=ebookreaders&utm_content=parmyolson_authoralertsignup_macdotcom&utm_campaign=9781250337757)。
-
-作者和出版社已将此电子书提供给您个人使用。您不得以任何方式将此电子书公开。**侵犯版权是违法的。如果您认为您正在阅读的此电子书的副本侵犯了作者的版权，请通知出版社：[us.macmillanusa.com/piracy](http://us.macmillanusa.com/piracy)。**
-
-致 Mani
-
-<hgroup>
 
 # 序言
 
-</hgroup>
+
 
 拿起这本书并阅读这几句话后，你可能想知道这是否是由人类写的。
 

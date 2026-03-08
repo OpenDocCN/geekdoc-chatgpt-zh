@@ -1,112 +1,16 @@
-CHATgpt 温馨悬疑系列作者
+# ChatGPT 之温馨悬疑系列作家
+
+> 原文：[THE CHATGPT COZY MYSTERY SERIES AUTHOR](https://annas-archive.org/md5/5fb19ccdf1ea82b53096bec3f5ad037f)
+> 
+> 译者：[飞龙](https://github.com/wizardforcel)
+> 
+> 协议：[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 
 如何使用 ChatGPT 写作温馨悬疑系列
 
-NINA HARRINGTON
-
 ![图片](img/the-chatgpt-cozy-mystery-series-author-image_rsrc42B.jpg)
 
-#### 目录
-
-撰写温馨悬疑系列
-
-与 ChatGPT 写作
-
-如何使用 ChatGPT 创作温馨谋杀悬疑系列
-
-第一部分：建立基础
-
-如何使用 ChatGPT 规划温馨谋杀悬疑系列
-
-决策一：主题和利基市场
-
-决策二：情感体验
-
-决策三：场景
-
-ChatGPT 和场景设置
-
-将系列锚定在其场景中
-
-为第一本书头脑风暴新故事想法
-
-让我们玩“如果”游戏 #1.
-
-让我们玩“如果”游戏 #2.
-
-决策四：为整个系列设计一个吸引人的钩子
-
-高概念故事想法的四个关键要素
-
-第二部分：你的侦探
-
-第三部分：系列角色弧
-
-在五本书系列中为侦探创建一个转型角色弧
-
-在长系列中为侦探创建一个角色弧
-
-第四部分：系列情节
-
-第五部分：超自然和历史系列
-
-创建超自然侦探
-
-规划超自然系列
-
-创建历史侦探
-
-规划历史系列
-
-第六部分：配角
-
-温馨悬疑系列中角色的等级
-
-配角和次要角色
-
-第七部分：连续角色
-
-第八部分：撰写第一本书
-
-第一起谋杀受害者
-
-嫌疑人
-
-ChatGPT 和副线剧情
-
-第九部分：故事结构
-
-如何使用谋杀悬疑故事结构
-
-谋杀悬疑故事结构
-
-如何使用故事结构
-
-构建完整概要
-
-24 章温馨悬疑模板
-
-使用情节大纲模板与 ChatGPT 一起使用
-
-ChatGPT 和故事概要
-
-第十部分：书名
-
-书名
-
-与 ChatGPT 和 AI 合作
-
-什么是 ChatGPT？
-
-开始使用 ChatGPT
-
-使用 ChatGPT 的挑战
-
-ChatGPT 系列提示库
-
-感谢
-
-关于作者
 
 撰写温馨悬疑系列
 
