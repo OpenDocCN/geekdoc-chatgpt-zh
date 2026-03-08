@@ -18208,11 +18208,18 @@
   id: totrans-2047
   prefs: []
   type: TYPE_NORMAL
+  zh: 根据经验，作者们普遍发现高等教育中的设计专业学生难以将研究数据转化为有价值的用户画像，他们制作出的用户画像常被通俗地称为“交友档案”式，缺乏深度，在设计项目中用处不大。为了解决这个问题，我们尝试使用大语言模型
+    ChatGPT 4.0 将研究数据转化为学生可以提问的用户画像。ChatGPT 本身并没有专门的用户画像功能。然而，给定一个明确的提示，有决心的教育者可以引导大语言模型以特定的方式回应。我们设计了一个基于
+    2023 年初在互联网上流传的“DAN”（现在做任何事）的提示，该提示会让 ChatGPT 进入一种用户画像模式，该模式会整合提供的研究数据，并且重要的是，会以我们的用户画像身份进行回应（coolaj86,
+    2023）。修改后的提示允许以对话风格对 ChatGPT 生成的用户画像进行提问，就像与一个真实的人交谈一样。随后，我们在大约 90 名工业设计专业二年级学生中测试了这种用户画像生成与考察方法，要求他们创建
+    ChatGPT 用户画像，并就日常习惯和对设计刺激的感受向这些画像提问。我们要求学生通过记录 ChatGPT 的文本输出并作为其设计作业的一部分提交来记录整个过程。学生们反馈，这个过程比创建传统的用户画像更有帮助、更相关。他们表达了对目标用户群体更深刻的共情，因为他们感觉自己与用户“交谈”过。在下一节中，我们将描述用户画像在设计研究中的应用、其问题与局限、我们为
+    ChatGPT 设计的用户画像提示，以及它如何（以及为何）有效。我们还将重点介绍学生应用中的一些有价值的产出。
 - en: 11.2.2 Personas in design
   id: totrans-2048
   prefs:
   - PREF_H3
   type: TYPE_NORMAL
+  zh: 11.2.2 设计中的用户画像
 - en: Personas provide many well-documented benefits within the design process, including
     enhanced communication between design teams and stakeholders, improved user-centric
     design outputs, and higher levels of designer empathy for the target user group

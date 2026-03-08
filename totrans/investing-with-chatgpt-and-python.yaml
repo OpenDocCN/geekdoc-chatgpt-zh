@@ -5194,85 +5194,104 @@
   id: totrans-875
   prefs: []
   type: TYPE_NORMAL
+  zh: 可视化有助于检测市场数据中的异常或断点，例如异常高的交易量或意外的价格变动。
 - en: Matplotlib's main functions
   id: totrans-876
   prefs: []
   type: TYPE_NORMAL
+  zh: Matplotlib 的主要函数
 - en: 'Plot (Tracer) :'
   id: totrans-877
   prefs: []
   type: TYPE_NORMAL
+  zh: 绘图（Tracer）：
 - en: The plot() function is used to plot lines or series of points. It is often used
     to plot price time series.
   id: totrans-878
   prefs: []
   type: TYPE_NORMAL
+  zh: '`plot()` 函数用于绘制线条或点序列，常用于绘制价格时间序列。'
 - en: '![](images/image-X8YGKKI0.jpg)'
   id: totrans-879
   prefs: []
   type: TYPE_IMG
+  zh: '![](images/image-X8YGKKI0.jpg)'
 - en: 'Bar :'
   id: totrans-880
   prefs: []
   type: TYPE_NORMAL
+  zh: 条形图：
 - en: The bar() function creates bar charts, useful for comparing trading volumes
     or returns over different periods.
   id: totrans-881
   prefs: []
   type: TYPE_NORMAL
+  zh: '`bar()` 函数创建条形图，适用于比较不同时期的交易量或回报。'
 - en: '![](images/image-RR78573L.jpg)'
   id: totrans-882
   prefs: []
   type: TYPE_IMG
+  zh: '![](images/image-RR78573L.jpg)'
 - en: 'Candlestick :'
   id: totrans-883
   prefs: []
   type: TYPE_NORMAL
+  zh: 蜡烛图：
 - en: Candlestick charts can be created with the mplfinance library (formerly mpl_finance),
     a Matplotlib extension for financial charts.
   id: totrans-884
   prefs: []
   type: TYPE_NORMAL
+  zh: 可以使用 mplfinance 库（原 mpl_finance）创建蜡烛图，这是 Matplotlib 的一个金融图表扩展。
 - en: '![](images/image-5CRYEEP6.jpg)'
   id: totrans-885
   prefs: []
   type: TYPE_IMG
+  zh: '![](images/image-5CRYEEP6.jpg)'
 - en: 'Subplots :'
   id: totrans-886
   prefs: []
   type: TYPE_NORMAL
+  zh: 子图：
 - en: The subplots() function creates several graphs in a single figure, useful for
     comparing different metrics or time periods.
   id: totrans-887
   prefs: []
   type: TYPE_NORMAL
+  zh: '`subplots()` 函数可在单个图形中创建多个图表，适用于比较不同的指标或时间段。'
 - en: '![](images/image-32TD2OJX.jpg)'
   id: totrans-888
   prefs: []
   type: TYPE_IMG
+  zh: '![](images/image-32TD2OJX.jpg)'
 - en: 'Scatter :'
   id: totrans-889
   prefs: []
   type: TYPE_NORMAL
+  zh: 散点图：
 - en: The scatter() function is used to create scatter plots, ideal for visualizing
     correlations between two variables.
   id: totrans-890
   prefs: []
   type: TYPE_NORMAL
+  zh: '`scatter()` 函数用于创建散点图，非常适合可视化两个变量之间的相关性。'
 - en: '![](images/image-LZPDYXZE.jpg)'
   id: totrans-891
   prefs: []
   type: TYPE_IMG
+  zh: '![](images/image-LZPDYXZE.jpg)'
 - en: Complete example in Python
   id: totrans-892
   prefs: []
   type: TYPE_NORMAL
+  zh: Python 完整示例
 - en: Here's a complete example using Matplotlib to visualize a stock's closing price
     data and trading volumes, as well as to add technical indicators such as moving
     averages.
   id: totrans-893
   prefs: []
   type: TYPE_NORMAL
+  zh: 这是一个使用 Matplotlib 可视化股票收盘价数据和交易量，并添加移动平均线等技术指标的完整示例。
 - en: '| import ccxt import pandas as pd import matplotlib.pyplot as plt import mplfinance
     as mpf from datetime import datetime # Initialize Binance API exchange = ccxt.binance()
     # Define trading pair and period symbol = ''BTC/USDT timeframe = ''1d'' start_date
@@ -5294,25 +5313,44 @@
   id: totrans-894
   prefs: []
   type: TYPE_TB
+  zh: '| import ccxt import pandas as pd import matplotlib.pyplot as plt import mplfinance
+    as mpf from datetime import datetime # 初始化 Binance API exchange = ccxt.binance()
+    # 定义交易对和周期 symbol = ''BTC/USDT timeframe = ''1d'' start_date = ''2014-01-01T00:00:00Z''
+    end_date = ''2014-07-01T00:00:00Z'' # 将日期转换为时间戳 start_timestamp = exchange.parse8601(start_date)
+    end_timestamp = exchange.parse8601(end_date) # 通过 Binance API 检索历史数据 ohlcv = exchange.fetch_ohlcv(symbol,
+    timeframe, since=start_timestamp, limit=1000) # 转换为 Pandas DataFrame data = pd.DataFrame(ohlcv,
+    columns=[''Date'', ''Open'', ''High'', ''Low'', ''Close'', ''Volume'']) data[''Date'']
+    = pd.to_datetime(data[''Date''], unit=''ms'') data.set_index(''Date'', inplace=True)
+    # 计算移动平均线 data[''MA20''] = data[''Close''].rolling(window=20).mean() data[''MA50'']
+    = data[''Close''].rolling(window=50).mean() # 绘制收盘价和移动平均线 plt.figure(figsize=(14,7))
+    plt.plot(data.index, data[''Close''], label=''收盘价'') plt.plot(data.index, data[''MA20''],
+    label=''20日移动平均线'') plt.plot(data.index, data[''MA50''], label=''50日移动平均线'') plt.xlabel(''日期'')
+    plt.ylabel(''价格'') plt.title(''收盘价与移动平均线'') plt.legend() plt.show() # 使用 mplfinance
+    绘制蜡烛图 mpf.plot(data, type=''candle'', style=''charles'', title=''BTC/USDT 蜡烛图'',
+    ylabel=''价格'', mav=(20,50), volume=True) |'
 - en: 'Code explanations :'
   id: totrans-895
   prefs: []
   type: TYPE_NORMAL
+  zh: 代码说明：
 - en: 'ccxt: Used to interact with the Binance API and retrieve historical trading
     data.'
   id: totrans-896
   prefs: []
   type: TYPE_NORMAL
+  zh: ccxt：用于与 Binance API 交互并检索历史交易数据。
 - en: 'fetch_ohlcv: Retrieves price data (Open, High, Low, Close, Volume) for the
     BTC/USDT pair over the specified period.'
   id: totrans-897
   prefs: []
   type: TYPE_NORMAL
+  zh: fetch_ohlcv：检索指定时间段内 BTC/USDT 交易对的价格数据（开盘价、最高价、最低价、收盘价、交易量）。
 - en: 'Moving averages: Calculation of 20-day and 50-day moving averages for technical
     analysis.'
   id: totrans-898
   prefs: []
   type: TYPE_NORMAL
+  zh: 移动平均线：计算 20 日和 50 日移动平均线以进行技术分析。
 - en: 'mplfinance: Used to display a candlestick chart of closing prices, with moving
     averages and volume.'
   id: totrans-899
@@ -8825,119 +8863,144 @@
   id: totrans-1523
   prefs: []
   type: TYPE_NORMAL
+  zh: 概述：Quandl 提供广泛的付费金融数据，包括股票价格、经济指数、替代数据等。付费订阅可获取更精细、最新的数据。
 - en: 'API: Quandl''s API is well documented and easy to use for retrieving various
     data sets.'
   id: totrans-1524
   prefs: []
   type: TYPE_NORMAL
+  zh: API：Quandl 的 API 文档完善且易于使用，可用于检索各种数据集。
 - en: 'Bloomberg :'
   id: totrans-1525
   prefs: []
   type: TYPE_NORMAL
+  zh: Bloomberg：
 - en: 'Overview: Bloomberg is a leading source of financial data, offering comprehensive,
     real-time information on the world''s markets. Bloomberg''s data services are
     widely used by financial institutions and professional traders.'
   id: totrans-1526
   prefs: []
   type: TYPE_NORMAL
+  zh: 概述：Bloomberg 是金融数据的主要来源，提供全球市场的全面、实时信息。Bloomberg 的数据服务被金融机构和专业交易员广泛使用。
 - en: 'API: Bloomberg''s API (Bloomberg Terminal) provides access to a wide range
     of financial data and market information.'
   id: totrans-1527
   prefs: []
   type: TYPE_NORMAL
+  zh: API：Bloomberg 的 API（Bloomberg Terminal）提供对各种金融数据和市场信息的访问。
 - en: 'Example of use: Access to the Bloomberg API requires a subscription to the
     Bloomberg terminal, and code examples are available via their official documentation.'
   id: totrans-1528
   prefs: []
   type: TYPE_NORMAL
+  zh: 使用示例：访问 Bloomberg API 需要订阅 Bloomberg 终端，代码示例可通过其官方文档获取。
 - en: 'IEX Cloud :'
   id: totrans-1529
   prefs: []
   type: TYPE_NORMAL
+  zh: IEX Cloud：
 - en: 'Overview: IEX Cloud offers fee-based financial data for equities, cryptocurrencies,
     and other financial instruments. Paid subscriptions provide access to real-time
     and historical data with fine granularity.'
   id: totrans-1530
   prefs: []
   type: TYPE_NORMAL
+  zh: 概述：IEX Cloud 提供股票、加密货币和其他金融工具的付费金融数据。付费订阅可获取细粒度的实时和历史数据。
 - en: 'API: The IEX Cloud API is flexible and well-documented, enabling the retrieval
     of detailed market data.'
   id: totrans-1531
   prefs: []
   type: TYPE_NORMAL
+  zh: API：IEX Cloud API 灵活且文档完善，能够检索详细的市场数据。
 - en: Practical use of data
   id: totrans-1532
   prefs:
   - PREF_H3
   type: TYPE_NORMAL
+  zh: 数据的实际应用
 - en: 'To take advantage of financial data, it''s crucial to integrate it into trading
     tools and algorithms. Here are some practical steps for designing data-driven
     trading tools:'
   id: totrans-1533
   prefs: []
   type: TYPE_NORMAL
+  zh: 要充分利用金融数据，将其集成到交易工具和算法中至关重要。以下是设计数据驱动交易工具的一些实用步骤：
 - en: 'Data Collection :'
   id: totrans-1534
   prefs: []
   type: TYPE_NORMAL
+  zh: 数据收集：
 - en: Use APIs to retrieve the necessary financial data. Data can be historical (for
     retrospective analysis and backtesting) or real-time (for live trading decisions).
   id: totrans-1535
   prefs: []
   type: TYPE_NORMAL
+  zh: 使用 API 检索必要的金融数据。数据可以是历史的（用于回顾性分析和回测）或实时的（用于实时交易决策）。
 - en: 'Data Analysis and Transformation :'
   id: totrans-1536
   prefs: []
   type: TYPE_NORMAL
+  zh: 数据分析和转换：
 - en: Clean and transform data to make it usable. Use libraries such as Pandas to
     manipulate DataFrames and perform statistical calculations and technical analyses.
   id: totrans-1537
   prefs: []
   type: TYPE_NORMAL
+  zh: 清理和转换数据以使其可用。使用 Pandas 等库来操作 DataFrame 并执行统计计算和技术分析。
 - en: 'Example:'
   id: totrans-1538
   prefs: []
   type: TYPE_NORMAL
+  zh: 示例：
 - en: import pandas as pd
   id: totrans-1539
   prefs: []
   type: TYPE_NORMAL
+  zh: import pandas as pd
 - en: Calculate a simple moving average
   id: totrans-1540
   prefs:
   - PREF_H1
   type: TYPE_NORMAL
+  zh: 计算简单移动平均线
 - en: data['SMA'] = data['Close'].rolling(window=20).mean()
   id: totrans-1541
   prefs: []
   type: TYPE_NORMAL
+  zh: data['SMA'] = data['Close'].rolling(window=20).mean()
 - en: 'Development of Trading Algorithms :'
   id: totrans-1542
   prefs: []
   type: TYPE_NORMAL
+  zh: 交易算法的开发：
 - en: Design and code trading algorithms based on technical indicators or machine
     learning models. Test algorithms with historical data to evaluate their performance.
   id: totrans-1543
   prefs: []
   type: TYPE_NORMAL
+  zh: 基于技术指标或机器学习模型设计和编码交易算法。使用历史数据测试算法以评估其性能。
 - en: 'Transaction automation :'
   id: totrans-1544
   prefs: []
   type: TYPE_NORMAL
+  zh: 交易自动化：
 - en: Use trading APIs to automate the execution of stock market or cryptocurrency
     orders based on signals generated by algorithms.
   id: totrans-1545
   prefs: []
   type: TYPE_NORMAL
+  zh: 使用交易 API 根据算法生成的信号自动执行股票市场或加密货币订单。
 - en: 'Monitoring and Optimization :'
   id: totrans-1546
   prefs: []
   type: TYPE_NORMAL
+  zh: 监控和优化：
 - en: Monitor algorithm performance in real time, and adjust according to market conditions
     and results. Use visualization tools to track key indicators and performance metrics.
   id: totrans-1547
   prefs: []
   type: TYPE_NORMAL
+  zh: 实时监控算法性能，并根据市场状况和结果进行调整。使用可视化工具跟踪关键指标和性能指标。
 - en: Financial data sources, whether free or paid for, are essential for designing
     and executing effective trading strategies. Free services such as Yahoo Finance
     and Binance offer easy access to basic data, while paid services such as Quandl
@@ -8948,11 +9011,14 @@
   id: totrans-1548
   prefs: []
   type: TYPE_NORMAL
+  zh: 金融数据源，无论是免费还是付费，对于设计和执行有效的交易策略都至关重要。Yahoo Finance 和 Binance 等免费服务提供对基本数据的便捷访问，而
+    Quandl 和 Bloomberg 等付费服务则提供高级分析和实时交易决策所需的更详细、更精细的数据。通过使用这些数据源并将其集成到交易工具中，交易者可以提高其表现并优化其投资策略。
 - en: Tool Design Strategy with AI ChatGPT
   id: totrans-1549
   prefs:
   - PREF_H2
   type: TYPE_NORMAL
+  zh: 使用 AI ChatGPT 的工具设计策略
 - en: In this final part of the book, we'll explore how to use AI, and more specifically
     ChatGPT, to design effective trading tools. We'll look at the development of tools
     for tracking stocks, generating signals, and taking or exiting automated positions.
