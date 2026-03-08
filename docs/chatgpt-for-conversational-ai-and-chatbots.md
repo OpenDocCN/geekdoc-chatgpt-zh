@@ -1010,7 +1010,7 @@ Output: Return as JSON in the following format-{"intent": {name},"utterance":{ut
 
 考虑到我们的聊天机器人用例，我们可能希望通过创建更多的意图来构建我们的意图集。例如，如果你的实时聊天数据有限，并且你希望扩展到其他意图，你可以使用 ChatGPT 执行一个任务，利用你现有的某些意图和话语来创建更多的意图和话语。
 
-让我们通过使用我们之前示例的输出来创建我们的提示，提示意图聚类，您可以在提示中看到**{****input_data}**占位符：
+让我们通过使用我们之前示例的输出来创建我们的提示，提示意图聚类，您可以在提示中看到{input_data}占位符：
 
 ```py
 Look at the following intents and utterances for a chatbot which will answer questions about a college, these JSON objects consist of an array of intent objects, each of which includes a name and a list of corresponding utterances.
