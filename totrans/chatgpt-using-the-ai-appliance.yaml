@@ -2,242 +2,301 @@
   id: totrans-0
   prefs: []
   type: TYPE_IMG
+  zh: '![图片](image_rsrc1G1.jpg)'
 - en: ChatGPT - Using the AI Appliance
   id: totrans-1
   prefs:
   - PREF_H2
   type: TYPE_NORMAL
+  zh: ChatGPT - 使用人工智能设备
 - en: Start Simply - Skip the AI Hype - Get Results Easily
   id: totrans-2
   prefs:
   - PREF_H2
   type: TYPE_NORMAL
+  zh: 简单开始 - 跳过AI炒作 - 轻松获得结果
 - en: Adam Russell
   id: totrans-3
   prefs:
   - PREF_H3
   type: TYPE_NORMAL
+  zh: Adam Russell
 - en: ChatGPT - Using the AI Appliance
   id: totrans-4
   prefs: []
   type: TYPE_NORMAL
+  zh: ChatGPT - 使用人工智能设备
 - en: Start Simply - Skip the AI Hype - Get Results Easily
   id: totrans-5
   prefs: []
   type: TYPE_NORMAL
+  zh: 简单开始 - 跳过AI炒作 - 轻松获得结果
 - en: Adam Russell
   id: totrans-6
   prefs: []
   type: TYPE_NORMAL
+  zh: Adam Russell
 - en: © 2023-2024 Tiligent Pty Ltd
   id: totrans-7
   prefs: []
   type: TYPE_NORMAL
+  zh: © 2023-2024 Tiligent Pty Ltd
 - en: Table of Contents
   id: totrans-8
   prefs:
   - PREF_H2
   type: TYPE_NORMAL
+  zh: 目录
 - en: '[Getting Engaged with this Book and its Author](#part0005.xhtml)'
   id: totrans-9
   prefs: []
   type: TYPE_NORMAL
+  zh: '[与本书及其作者建立联系](#part0005.xhtml)'
 - en: '[Notes about this version](#part0006.xhtml)'
   id: totrans-10
   prefs: []
   type: TYPE_NORMAL
+  zh: '[关于本版本的说明](#part0006.xhtml)'
 - en: '[Introduction](#part0007.xhtml)'
   id: totrans-11
   prefs: []
   type: TYPE_NORMAL
+  zh: '[引言](#part0007.xhtml)'
 - en: '[How to Read This Book](#part0008.xhtml)'
   id: totrans-12
   prefs: []
   type: TYPE_NORMAL
+  zh: '[如何阅读本书](#part0008.xhtml)'
 - en: '[Outline of this Book](#part0008.xhtml#a18R)'
   id: totrans-13
   prefs: []
   type: TYPE_NORMAL
+  zh: '[本书概要](#part0008.xhtml#a18R)'
 - en: '[Where to from here?](#part0008.xhtml#a18S)'
   id: totrans-14
   prefs: []
   type: TYPE_NORMAL
+  zh: '[从这里开始？](#part0008.xhtml#a18S)'
 - en: '[Artificial Intelligence: The New Generic Application](#part0009.xhtml)'
   id: totrans-15
   prefs: []
   type: TYPE_NORMAL
+  zh: '[人工智能：新的通用应用](#part0009.xhtml)'
 - en: '[Start with simplicity](#part0009.xhtml#a18U)'
   id: totrans-16
   prefs: []
   type: TYPE_NORMAL
+  zh: '[从简单开始](#part0009.xhtml#a18U)'
 - en: '[The Artificial Intelligence “Tipping Point”](#part0009.xhtml#a18V)'
   id: totrans-17
   prefs: []
   type: TYPE_NORMAL
+  zh: '[人工智能“临界点”](#part0009.xhtml#a18V)'
 - en: '[The Tipping Point Unpacked](#part0009.xhtml#a18W)'
   id: totrans-18
   prefs: []
   type: TYPE_NORMAL
+  zh: '[拆解临界点](#part0009.xhtml#a18W)'
 - en: '[Massive Reductions in Costs and Time to Deliver](#part0009.xhtml#a18X)'
   id: totrans-19
   prefs: []
   type: TYPE_NORMAL
+  zh: '[大幅降低成本和交付时间](#part0009.xhtml#a18X)'
 - en: '[ChatGPT: The AI Appliance for Everyone](#part0009.xhtml#a18Y)'
   id: totrans-20
   prefs: []
   type: TYPE_NORMAL
+  zh: '[ChatGPT：适合每个人的AI设备](#part0009.xhtml#a18Y)'
 - en: '[The Complexity and Opacity of GPT](#part0009.xhtml#a18Z)'
   id: totrans-21
   prefs: []
   type: TYPE_NORMAL
+  zh: '[GPT的复杂性和不透明性](#part0009.xhtml#a18Z)'
 - en: '[Characteristics of an Appliance](#part0009.xhtml#a190)'
   id: totrans-22
   prefs: []
   type: TYPE_NORMAL
+  zh: '[设备特征](#part0009.xhtml#a190)'
 - en: '[Crossing the Skills Bootstrapping Chasm](#part0009.xhtml#a191)'
   id: totrans-23
   prefs: []
   type: TYPE_NORMAL
+  zh: '[跨越技能自举鸿沟](#part0009.xhtml#a191)'
 - en: '[The ChatGPT Black Box Mindset](#part0009.xhtml#a192)'
   id: totrans-24
   prefs: []
   type: TYPE_NORMAL
+  zh: '[ChatGPT黑盒思维模式](#part0009.xhtml#a192)'
 - en: '[Unpacking the ChatGPT Black Box Mindset](#part0010.xhtml)'
   id: totrans-25
   prefs: []
   type: TYPE_NORMAL
+  zh: '[拆解ChatGPT黑盒思维模式](#part0010.xhtml)'
 - en: '[Six Components Enable One Mindset](#part0010.xhtml#a194)'
   id: totrans-26
   prefs: []
   type: TYPE_NORMAL
+  zh: '[六个组件促成一种思维模式](#part0010.xhtml#a194)'
 - en: '[Engage the Black-Box Interface](#part0010.xhtml#a195)'
   id: totrans-27
   prefs: []
   type: TYPE_NORMAL
+  zh: '[参与黑盒接口](#part0010.xhtml#a195)'
 - en: '[The Human-ChatGPT Black-box Interface](#part0010.xhtml#a196)'
   id: totrans-28
   prefs: []
   type: TYPE_NORMAL
+  zh: '[人与ChatGPT黑盒接口](#part0010.xhtml#a196)'
 - en: '[ChatGPT Characteristics](#part0010.xhtml#a197)'
   id: totrans-29
   prefs: []
   type: TYPE_NORMAL
+  zh: '[ChatGPT特征](#part0010.xhtml#a197)'
 - en: '[Conclusion](#part0010.xhtml#a198)'
   id: totrans-30
   prefs: []
   type: TYPE_NORMAL
+  zh: '[结论](#part0010.xhtml#a198)'
 - en: '[Play to ChatGPT Strengths](#part0010.xhtml#a199)'
   id: totrans-31
   prefs: []
   type: TYPE_NORMAL
+  zh: '[发挥ChatGPT的优势](#part0010.xhtml#a199)'
 - en: '[GPT Key Strengths](#part0010.xhtml#a19A)'
   id: totrans-32
   prefs: []
   type: TYPE_NORMAL
+  zh: '[GPT的关键优势](#part0010.xhtml#a19A)'
 - en: '[Conclusion](#part0010.xhtml#a19B)'
   id: totrans-33
   prefs: []
   type: TYPE_NORMAL
+  zh: '[结论](#part0010.xhtml#a19B)'
 - en: '[Understand Critical ChatGPT Constraints](#part0010.xhtml#a19C)'
   id: totrans-34
   prefs: []
   type: TYPE_NORMAL
+  zh: '[理解ChatGPT的关键限制](#part0010.xhtml#a19C)'
 - en: '[Focus on What the User can Control](#part0010.xhtml#a19D)'
   id: totrans-35
   prefs: []
   type: TYPE_NORMAL
+  zh: '[关注用户可以控制的内容](#part0010.xhtml#a19D)'
 - en: '[Deciding on the Strategy for ChatGPT Use in a User’s Problem Domain](#part0010.xhtml#a19E)'
   id: totrans-36
   prefs: []
   type: TYPE_NORMAL
+  zh: '[决定用户问题域中ChatGPT使用的策略](#part0010.xhtml#a19E)'
 - en: '[User Attitude & Expectations of ChatGPT](#part0010.xhtml#a19F)'
   id: totrans-37
   prefs: []
   type: TYPE_NORMAL
+  zh: '[用户对ChatGPT的态度和期望](#part0010.xhtml#a19F)'
 - en: '[Prompt Structure and Content](#part0010.xhtml#a19G)'
   id: totrans-38
   prefs: []
   type: TYPE_NORMAL
+  zh: '[提示结构及内容](#part0010.xhtml#a19G)'
 - en: '[Interaction Use Cases](#part0010.xhtml#a19H)'
   id: totrans-39
   prefs: []
   type: TYPE_NORMAL
+  zh: '[互动用例](#part0010.xhtml#a19H)'
 - en: '[ChatGPT Product Interaction](#part0010.xhtml#a19J)'
   id: totrans-40
   prefs: []
   type: TYPE_NORMAL
+  zh: '[ChatGPT产品互动](#part0010.xhtml#a19J)'
 - en: '[Use of ChatGPT Responses](#part0010.xhtml#a19K)'
   id: totrans-41
   prefs: []
   type: TYPE_NORMAL
+  zh: '[使用ChatGPT的响应](#part0010.xhtml#a19K)'
 - en: '[Adopt Curious Abundance](#part0010.xhtml#a19M)'
   id: totrans-42
   prefs: []
   type: TYPE_NORMAL
+  zh: '[采用好奇的丰富性](#part0010.xhtml#a19M)'
 - en: '[Adopt Black-box Governance](#part0010.xhtml#a19N)'
   id: totrans-43
   prefs: []
   type: TYPE_NORMAL
+  zh: '[采用黑盒治理](#part0010.xhtml#a19N)'
 - en: '[Interacting with ChatGPT](#part0011.xhtml)'
   id: totrans-44
   prefs: []
   type: TYPE_NORMAL
+  zh: '[与ChatGPT互动](#part0011.xhtml)'
 - en: '[Organic prompting](#part0011.xhtml#a19R)'
   id: totrans-45
   prefs: []
   type: TYPE_NORMAL
+  zh: '[有机提示](#part0011.xhtml#a19R)'
 - en: '[Why Not Just Start with Prompt Engineering?](#part0011.xhtml#a19S)'
   id: totrans-46
   prefs: []
   type: TYPE_NORMAL
+  zh: '[为什么不从提示工程开始？](#part0011.xhtml#a19S)'
 - en: '[The Foundations of Organic Prompting](#part0011.xhtml#a19T)'
   id: totrans-47
   prefs: []
   type: TYPE_NORMAL
+  zh: '[有机提示的基础](#part0011.xhtml#a19T)'
 - en: '[Principles of Organic Prompting](#part0011.xhtml#a19U)'
   id: totrans-48
   prefs: []
   type: TYPE_NORMAL
+  zh: '[有机提示的原则](#part0011.xhtml#a19U)'
 - en: '[Example of Organic Prompting](#part0011.xhtml#a19V)'
   id: totrans-49
   prefs: []
   type: TYPE_NORMAL
+  zh: '[有机提示的示例](#part0011.xhtml#a19V)'
 - en: '[Organic Prompt “Nudges”](#part0011.xhtml#a19W)'
   id: totrans-50
   prefs: []
   type: TYPE_NORMAL
+  zh: '[有机提示“推动”](#part0011.xhtml#a19W)'
 - en: '[When is Organic Prompting The Wrong Approach?](#part0011.xhtml#a19X)'
   id: totrans-51
   prefs: []
   type: TYPE_NORMAL
+  zh: '[何时有机提示不是正确的方法？](#part0011.xhtml#a19X)'
 - en: '[Grow with Advanced Organic Prompting](#part0011.xhtml#a19Y)'
   id: totrans-52
   prefs: []
   type: TYPE_NORMAL
+  zh: '[通过高级有机提示成长](#part0011.xhtml#a19Y)'
 - en: '[Satisficing is Satisfaction](#part0011.xhtml#a19Z)'
   id: totrans-53
   prefs: []
   type: TYPE_NORMAL
+  zh: '[满意即满意](#part0011.xhtml#a19Z)'
 - en: '[Organic Planning](#part0011.xhtml#a1A0)'
   id: totrans-54
   prefs: []
   type: TYPE_NORMAL
+  zh: '[有机规划](#part0011.xhtml#a1A0)'
 - en: '[Basic Interacting with ChatGPT](#part0011.xhtml#a1A1)'
   id: totrans-55
   prefs: []
   type: TYPE_NORMAL
+  zh: '[与ChatGPT的基本互动](#part0011.xhtml#a1A1)'
 - en: '[From Interaction to I-P-O](#part0011.xhtml#a1A2)'
   id: totrans-56
   prefs: []
   type: TYPE_NORMAL
+  zh: '[从互动到I-P-O](#part0011.xhtml#a1A2)'
 - en: '[A Shallow Dive Into GPT Functionality](#part0011.xhtml#a1A3)'
   id: totrans-57
   prefs: []
   type: TYPE_NORMAL
+  zh: '[浅入GPT功能](#part0011.xhtml#a1A3)'
 - en: '[Some (Not Unreasonable) Myths on GPT Operation](#part0011.xhtml#a1A4)'
   id: totrans-58
   prefs: []
   type: TYPE_NORMAL
+  zh: '[关于GPT操作的某些（并非不合理）神话](#part0011.xhtml#a1A4)'
 - en: '[Conclusion](#part0011.xhtml#a1A5)'
   id: totrans-59
   prefs: []
