@@ -1,98 +1,13 @@
-ChatGPT 在 Office 365
+# Office 365 中的 ChatGPT
+
+> 原文：[ChatGPT in Office 365](https://annas-archive.org/md5/a6933b72de4a09ec369ec86827cbc47d)
+> 
+> 译者：[飞龙](https://github.com/wizardforcel)
+> 
+> 协议：[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 这是最新的指南，通过解锁 Word、PowerPoint、Excel 以及更多 AI 的力量，从初学者到高级用户，大幅提升生产力。
 
-L I A M   C A R T E R
-
-文本版权©利亚姆·卡特
-
-版权所有。
-
-本指南的任何部分未经出版商书面许可，不得以任何形式进行复制。
-
-法律免责声明
-
-本书仅用于教育和信息目的。作者已尽最大努力确保本出版物中提供的信息的准确性和可靠性。然而，信息提供“现状”而不附带任何类型的保证。
-
-本书内容不构成专业建议或服务。本书提供有关 ChatGPT 与 Office 365 应用程序（包括 Word、Excel、PowerPoint 和 Teams）集成的通用信息。作者和出版商与 OpenAI 或微软公司无关联，本书中的观点仅代表作者，不代表 OpenAI 或微软公司。
-
-作者不对 ChatGPT 在 Office 365 中针对任何特定目的的有效性或适用性做出任何保证、担保或陈述。作者否认本书中任何错误或遗漏的责任，以及因使用或误用本书中包含的任何信息而造成的个人或实体的损失或损害。
-
-鼓励读者咨询专业顾问，以获得针对其具体情况的专业建议。本书中提供的信息的使用风险由读者自行承担。
-
-本书引用的所有商标、服务标志和商业名称均为其各自所有者的财产。这些所有者均未赞助、授权、认可或以其他方式批准本书。
-
-目录
-
-您的免费赠品
-
-前言
-
-现代工作场所中的生成式 AI
-
-第一章 1.2 节：生成式 AI 的历史
-
-第一章 1.3 节：ChatGPT：它是如何工作的
-
-第一章 1.4 节：如何编写最佳提示
-
-第一章 1.5 节：ChatGPT 的适用与不适
-
-第一章 1.6 节：DALL-E：从文本生成图片
-
-Microsoft Word 与 ChatGPT 集成
-
-第二章 2.1 节：在 Microsoft Word 中使用 Copilot 进行内容创作
-
-第二章 2.2 节：ChatGPT 与 Word 插件
-
-第二章 2.3 节：ChatGPT Plus 中 Word 的集成
-
-第二章 2.4 节：实际案例和用例
-
-在 PowerPoint 中使用 ChatGPT 增强演示
-
-第三章 3.1 节：PowerPoint 中的 Copilot Pro
-
-第三章 3.2 节：由 ChatGPT 驱动的 PowerPoint 插件
-
-第三章 3.3 节：在 ChatGPT Plus 中管理 PowerPoint
-
-第三章 3.4 节：现实应用和创意使用
-
-Excel - 使用 ChatGPT 进行数据管理
-
-第 4.1 章：Excel 中的 Copilot Pro 功能
-
-第 4.2 章：基于 ChatGPT 的 Excel 插件
-
-第 4.3 章：ChatGPT Plus 中的 Excel 文件
-
-第 4.4 章：案例研究：利用 AI 增强商业分析
-
-ChatGPT 增强的 Microsoft Teams 和 Outlook
-
-第 5.1 章：在 Teams 中集成 ChatGPT 以改善协作
-
-第 5.2 章：Fireflies.AI 在 Microsoft Teams 中的应用
-
-第 5.3 章：Copilot 在 Outlook 中的革命性电子邮件管理
-
-第 5.4 章：Copilot 在 Teams 和 Outlook 中的实际应用
-
-探索新领域：AI 驱动的 Microsoft 应用程序
-
-第 6.1 章：Microsoft 365 Chat 和 Copilot Studio
-
-第 6.2 章：深入了解 Microsoft Designer 及其 AI 功能
-
-第 6.3 章：OneNote 中的 Copilot：提高生产力
-
-第 6.4 章：AI 的未来
-
-结论
-
-感谢您！
 
 ## 您的免费赠品
 

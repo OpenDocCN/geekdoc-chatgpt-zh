@@ -1,30 +1,13 @@
+# ChatGPT 之精通 AI 对话
+
+
+> 原文：[ChatGPT: Mastering Conversations with Artificial Intelligence](https://annas-archive.org/md5/3fe3017e6ab8ffc28892ab9a4f41a367)
+> 
+> 译者：[飞龙](https://github.com/wizardforcel)
+> 
+> 协议：[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 ![black-swan.jpg](img/chatgpt-mastering-conversations-with-artificial-intelligence-black.png)
-
-© 2023 by Editura Lebăda Neagră
-
-*www.blackswanpublishing.ro*
-
-Editura Lebăda Neagră
-
-Iași，Str. Plopii fără Soț，nr. 45，700273
-
-ISBN ePub: 978-630-330-070-2
-
-ISBN PDF：978-630-330-071-9
-
-ISBN 印刷版：978-630-330-029-0
-
-封面和书中的图片是用 DALL‑E 3 生成的。
-
-前封面 – 使用凤凰花渲染的赛博格年轻女士头像，
-
-铜色和金色调色板。
-
-封底 – 广阔图书馆的侧视角度场景。
-
-这本书的数字版（电子书）受版权保护，仅限于在下载的阅读设备上私人使用。任何其他使用，包括借用或交换、完整或部分复制、复制、出租、向公众提供，包括通过互联网或计算机网络，永久或临时存储在具有信息检索功能的设备或系统上，除下载的设备外，转售或以任何形式进行商业销售，以及未经版权所有者书面许可的类似行为，均构成对知识产权法的侵犯，并按现行法律受到刑事和/或民事处罚。
-
-*献给 Eva 和 Sandra*
 
 # **关于作者**
 

@@ -1,44 +1,10 @@
-第一版
+# ChatGPT 提示词之书
 
-版权所有 © 2024 by Oliver Theobald
-
-所有权利保留。未经出版者事先书面许可，本书的任何部分不得以任何形式或任何手段（包括影印、录音或其他电子或机械方法）进行复制、分发或传播，但版权法允许的简要引用和某些其他非商业用途除外。
-
-如有疑问，请联系作者 oliver.theobald@scatterplotpress.com
-
-目录
-
-前言
-
-简介
-
-揭开 ChatGPT 的面纱
-
-开始使用 ChatGPT
-
-精确提示写作
-
-常用用例提示
-
-内容写作
-
-翻译任务
-
-个性化辅导
-
-AI 艺术提示
-
-训练提示
-
-角色提示
-
-结论
-
-提示速查表
-
-推荐资源
-
-作者其他书籍
+> 原文：[ChatGPT Prompts Book:](https://annas-archive.org/md5/e605cd34484443006294a95d8aaf8253)
+> 
+> 译者：[飞龙](https://github.com/wizardforcel)
+> 
+> 协议：[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 # 前言
 

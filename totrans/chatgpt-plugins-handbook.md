@@ -1,5 +1,11 @@
 # ChatGPT 插件手册
 
+> 原文：[ChatGPT Plugins Handbook](https://annas-archive.org/md5/a938479aa9419a985cf506a7fae75de4)
+> 
+> 译者：[飞龙](https://github.com/wizardforcel)
+> 
+> 协议：[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 ![](img/chatgpt-plugins-handbook-image_rsrcXB.jpg)Natenapis Faraksa
 
 # 引言
@@ -31,94 +37,6 @@ ChatGPT 是由 OpenAI 开发的一个具有广泛功能和特性的大规模 AI 
 作者希望这本书能成为那些对使用 ChatGPT 插件感兴趣的人的有用指南。
 
 Natenapis Faraksa
-
-# 目录
-
-第一章：关于人工智能和 ChatGPT 的基础知识 1
-
-● 什么是人工智能？ 2
-
-● 什么是 ChatGPT？ 6
-
-● 什么是提示？ 8
-
-第二章：了解 ChatGPT 插件 10
-
-● 什么是 ChatGPT 插件？ 11 ● ChatGPT 插件的好处 14
-
-● ChatGPT 插件的类型 17
-
-● ChatGPT 插件的功能 24
-
-第三章：使用 ChatGPT 插件 27
-
-● 注册前准备 28
-
-● 激活 ChatGPT 插件的步骤 32
-
-● 从 ChatGPT 插件商店安装插件的步骤 38
-
-● ChatGPT 插件的使用示例 40
-
-第四章：15 个可以使用 ChatGPT 插件的平台示例
-
-● 微软办公 47
-
-● 谷歌工作空间 51 ● Adobe 创意云 55
-
-● Canva 59
-
-● WordPress 63
-
-● Shopify 67
-
-● 亚马逊卖家中心 72
-
-● 领英 77
-
-● 推特 / X 82
-
-● Facebook 87
-
-● Instagram 92
-
-● TikTok 97
-
-● YouTube 102 ● Zoom 107 ● Google Meet 111
-
-第五章：介绍全球广泛使用的 100 个 ChatGPT 插件。 114 第六章：介绍帮助 15 种工作类型提高工作效率的 ChatGPT 插件。 151
-
-● 插件帮助 - 教育 152
-
-● 插件帮助 - 商业 155
-
-● 插件帮助 - 服务 158
-
-● 插件帮助 - 公共卫生 161
-
-● 插件帮助 - 法律 164
-
-● 插件帮助 - 金融 167
-
-● 插件帮助 - 研究 170
-
-● 插件帮助 - 写作 173
-
-● 插件帮助 - 设计 176
-
-● 插件帮助 - 音乐 179
-
-● 插件帮助 - 视频 182
-
-● 插件帮助 - 游戏 184
-
-● 插件帮助 - 计算机 186
-
-● 插件帮助 - 艺术 188
-
-● 插件帮助 - 创意 191
-
-第七章：结论 194
 
 # 章节
 
