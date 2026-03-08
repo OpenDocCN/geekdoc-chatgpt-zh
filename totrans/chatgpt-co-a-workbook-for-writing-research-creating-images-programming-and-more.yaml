@@ -1129,23 +1129,31 @@
   id: totrans-152
   prefs: []
   type: TYPE_NORMAL
+  zh: 这一事件也惊醒了欧盟内的"沉睡之犬"，ChatGPT 的使用在其他欧洲国家将在多大程度上受到限制，仍有待观察。如果你所在的国家存在此类问题，有一个简单的神奇解决方案：那就是使用
+    ***[VPN](#glos.xhtml#glos55)***（虚拟专用网络）。这可以欺骗你的互联网服务提供商，让其以为你居住在另一个国家。简单的谷歌搜索就能告诉你如何通过
+    VPN 服务商（通常需要付费）来规避上述障碍（即所谓的 ***[地理围栏](#glos.xhtml#glos22)***）（参见[图 1.13](#chapter1.xhtml#f1_13)
+    中的示例）。
 - en: '![A VPN service interface with a map of the United States highlighting various
     server locations, a sidebar listing countries, and options for recently used servers
     including the United States and Italy.](images/fig1_13.jpg)'
   id: totrans-153
   prefs: []
   type: TYPE_IMG
+  zh: '![一个 VPN 服务界面，显示美国地图并高亮标出多个服务器位置，侧边栏列出了国家列表，以及最近使用的服务器选项，包括美国和意大利。](images/fig1_13.jpg)'
 - en: '[FIGURE 1.13](#chapter1.xhtml#b1fig1_13) A VPN provider (in this case NordVPN)
     can be used to bypass geographic blocks on Internet services. In this case, a
     VPN server in New York is used for the connection.'
   id: totrans-154
   prefs: []
   type: TYPE_NORMAL
+  zh: '[图 1.13](#chapter1.xhtml#b1fig1_13) VPN 服务商（此处为 NordVPN）可用于绕过互联网服务的地理封锁。图中，连接使用了位于纽约的
+    VPN 服务器。'
 - en: 1.4 A ZOO FULL OF BOTS
   id: totrans-155
   prefs:
   - PREF_H2
   type: TYPE_NORMAL
+  zh: 1.4 AI 机器人的"动物园"
 - en: ChatGPT is just the tip of the iceberg of generative AI bots. There is hardly
     a discipline that has not been revolutionized by the generation of text, image,
     sound and video material by ***generative AI.*** Accordingly, new, specialized
@@ -1157,11 +1165,14 @@
   id: totrans-156
   prefs: []
   type: TYPE_NORMAL
+  zh: ChatGPT 只是生成式 AI 机器人的冰山一角。通过***生成式人工智能***生成文本、图像、声音和视频材料，几乎没有哪个领域未被其彻底革新。因此，在
+    AI 领域这片沃土上，新的、专业化的工具正呈指数级涌现。在本书中，我们将只关注最重要的专业工具。在本节中，我将通过一些入门示例简要介绍其中部分工具。在后续章节中，我们将结合具体案例更深入地探讨这些工具的使用。
 - en: 1.4.1 DeepL
   id: totrans-157
   prefs:
   - PREF_H3
   type: TYPE_NORMAL
+  zh: 1.4.1 DeepL
 - en: DeepL is an established AI translation tool from Germany that has become indispensable
     in the professional environment. DeepL uses AI algorithms to produce context-sensitive
     translations of a quality that comes very close to professional human translation.
@@ -1169,6 +1180,8 @@
   id: totrans-158
   prefs: []
   type: TYPE_NORMAL
+  zh: DeepL 是一款来自德国的成熟 AI 翻译工具，在专业环境中已不可或缺。它利用 AI 算法生成上下文相关的翻译，其质量已非常接近专业的人工翻译。使用
+    DeepL 无需注册。
 - en: Go to *[www.deepl.com/translator](http://www.deepl.com/translator)* and test
     the tool by entering a foreign-language text on the left-hand side (see [Figure
     1.15](#chapter1.xhtml#f1_15)). You can also copy this from a website or another
@@ -1177,28 +1190,34 @@
   id: totrans-159
   prefs: []
   type: TYPE_NORMAL
+  zh: 访问 *[www.deepl.com/translator](http://www.deepl.com/translator)*，通过在左侧输入一段外语文本来测试该工具（参见[图
+    1.15](#chapter1.xhtml#f1_15)）。你也可以从网站或其他来源复制文本到输入框中。理想情况下，你最好能理解所使用的外语，以便对翻译质量有个印象。
 - en: '![A screenshot of the DeepL translation tool interface, showing text in German
     on the left being translated into English on the right, with a focus on a professional
     environment context.](images/fig1_15.jpg)'
   id: totrans-160
   prefs: []
   type: TYPE_IMG
+  zh: '![DeepL 翻译工具界面的截图，左侧显示德语文本正被翻译成右侧的英语，内容聚焦于专业环境语境。](images/fig1_15.jpg)'
 - en: '[FIGURE 1.15](#chapter1.xhtml#b1fig1_15) DeepL usually recognizes the language
     of the text entered on the left-hand side automatically and translates it simultaneously.
     The quality of the translation is first class.'
   id: totrans-161
   prefs: []
   type: TYPE_NORMAL
+  zh: '[图 1.15](#chapter1.xhtml#b1fig1_15) DeepL 通常能自动识别左侧输入文本的语言并同时进行翻译。其翻译质量堪称一流。'
 - en: If your native language is not English, you can use DeepL to generate English
     prompts. ChatGPT and Midjourney are best at handling English prompts.
   id: totrans-162
   prefs: []
   type: TYPE_NORMAL
+  zh: 如果你的母语不是英语，可以使用 DeepL 来生成英文提示词。ChatGPT 和 Midjourney 最擅长处理英文提示词。
 - en: 1.4.2 DeepL Write
   id: totrans-163
   prefs:
   - PREF_H3
   type: TYPE_NORMAL
+  zh: 1.4.2 DeepL Write
 - en: 'The new offspring of the Cologne-based company helps with the stylistic correction
     of texts. The interface of DeepL Write is reminiscent of the translator presented
     in the last section, but has a slightly different focus: DeepL Write checks entered
@@ -13761,22 +13780,26 @@
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 代码解释器（插件），[11](#chapter1.xhtml#p11), [204](#chapter6.xhtml#p204), [270](#chapter8.xhtml#p270)–[273](#chapter8.xhtml#p270)
 - en: Code optimization, [203](#chapter6.xhtml#p203)
   id: totrans-1914
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 代码优化，[203](#chapter6.xhtml#p203)
 - en: Coders, AI for, [191](#chapter6.xhtml#p191)
   id: totrans-1915
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 面向程序员的AI，[191](#chapter6.xhtml#p191)
 - en: advanced users, programming for, [205](#chapter6.xhtml#p205)–[206](#chapter6.xhtml#p205)
   id: totrans-1916
   prefs:
   - PREF_IND
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 面向高级用户的编程，[205](#chapter6.xhtml#p205)–[206](#chapter6.xhtml#p205)
 - en: access to ChatGPT via API, [213](#chapter6.xhtml#p213)–[217](#chapter6.xhtml#p213)
   id: totrans-1917
   prefs:
@@ -13784,6 +13807,7 @@
   - PREF_IND
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 通过API访问ChatGPT，[213](#chapter6.xhtml#p213)–[217](#chapter6.xhtml#p213)
 - en: hacking with ChatGPT, [217](#chapter6.xhtml#p217)–[222](#chapter6.xhtml#p217)
   id: totrans-1918
   prefs:
@@ -13791,6 +13815,7 @@
   - PREF_IND
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 使用ChatGPT进行黑客攻击，[217](#chapter6.xhtml#p217)–[222](#chapter6.xhtml#p217)
 - en: intelligent IDEs, [206](#chapter6.xhtml#p206)–[210](#chapter6.xhtml#p206)
   id: totrans-1919
   prefs:
@@ -13798,6 +13823,7 @@
   - PREF_IND
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 智能集成开发环境，[206](#chapter6.xhtml#p206)–[210](#chapter6.xhtml#p206)
 - en: scripting, [211](#chapter6.xhtml#p211)–[213](#chapter6.xhtml#p211)
   id: totrans-1920
   prefs:
@@ -13805,12 +13831,14 @@
   - PREF_IND
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 脚本编写，[211](#chapter6.xhtml#p211)–[213](#chapter6.xhtml#p211)
 - en: AI and tables, [222](#chapter6.xhtml#p222)
   id: totrans-1921
   prefs:
   - PREF_IND
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 人工智能与表格，[222](#chapter6.xhtml#p222)
 - en: excel and ChatGpt, [223](#chapter6.xhtml#p223)–[228](#chapter6.xhtml#p223)
   id: totrans-1922
   prefs:
@@ -13818,6 +13846,7 @@
   - PREF_IND
   - PREF_UL
   type: TYPE_NORMAL
+  zh: Excel与ChatGPT，[223](#chapter6.xhtml#p223)–[228](#chapter6.xhtml#p223)
 - en: on-board tools, [222](#chapter6.xhtml#p222)–[223](#chapter6.xhtml#p222)
   id: totrans-1923
   prefs:
@@ -13825,12 +13854,14 @@
   - PREF_IND
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 内置工具，[222](#chapter6.xhtml#p222)–[223](#chapter6.xhtml#p222)
 - en: learning to program, [191](#chapter6.xhtml#p191)–[192](#chapter6.xhtml#p191)
   id: totrans-1924
   prefs:
   - PREF_IND
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 学习编程，[191](#chapter6.xhtml#p191)–[192](#chapter6.xhtml#p191)
 - en: classic algorithms, find and use, [195](#chapter6.xhtml#p195)–[200](#chapter6.xhtml#p195)
   id: totrans-1925
   prefs:
@@ -13838,6 +13869,7 @@
   - PREF_IND
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 查找并使用经典算法，[195](#chapter6.xhtml#p195)–[200](#chapter6.xhtml#p195)
 - en: debugging, code interpretation and documentation, [200](#chapter6.xhtml#p200)–[204](#chapter6.xhtml#p200)
   id: totrans-1926
   prefs:
@@ -13845,6 +13877,7 @@
   - PREF_IND
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 调试、代码解释与文档编写，[200](#chapter6.xhtml#p200)–[204](#chapter6.xhtml#p200)
 - en: execute code directly in ChatGPT, [204](#chapter6.xhtml#p204)–[205](#chapter6.xhtml#p204)
   id: totrans-1927
   prefs:
@@ -13852,6 +13885,7 @@
   - PREF_IND
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 在ChatGPT中直接执行代码，[204](#chapter6.xhtml#p204)–[205](#chapter6.xhtml#p204)
 - en: first steps, [192](#chapter6.xhtml#p192)–[195](#chapter6.xhtml#p192)
   id: totrans-1928
   prefs:
@@ -13859,110 +13893,132 @@
   - PREF_IND
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 第一步，[192](#chapter6.xhtml#p192)–[195](#chapter6.xhtml#p192)
 - en: Consequentialism, [301](#chapter9.xhtml#p301)
   id: totrans-1929
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 结果主义，[301](#chapter9.xhtml#p301)
 - en: Consultant, [165](#chapter5.xhtml#p165)–[168](#chapter5.xhtml#p165)
   id: totrans-1930
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 顾问，[165](#chapter5.xhtml#p165)–[168](#chapter5.xhtml#p165)
 - en: Consulting, [165](#chapter5.xhtml#p165)
   id: totrans-1931
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 咨询，[165](#chapter5.xhtml#p165)
 - en: Conversation partners, [229](#chapter7.xhtml#p229)
   id: totrans-1932
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 对话伙伴，[229](#chapter7.xhtml#p229)
 - en: AI-based decision-making, [231](#chapter7.xhtml#p231)–[233](#chapter7.xhtml#p231)
   id: totrans-1933
   prefs:
   - PREF_IND
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 基于AI的决策，[231](#chapter7.xhtml#p231)–[233](#chapter7.xhtml#p231)
 - en: amusement with AI, [234](#chapter7.xhtml#p234)–[236](#chapter7.xhtml#p234)
   id: totrans-1934
   prefs:
   - PREF_IND
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 与AI的娱乐，[234](#chapter7.xhtml#p234)–[236](#chapter7.xhtml#p234)
 - en: discuss with bot, [229](#chapter7.xhtml#p229)–[231](#chapter7.xhtml#p229)
   id: totrans-1935
   prefs:
   - PREF_IND
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 与机器人讨论，[229](#chapter7.xhtml#p229)–[231](#chapter7.xhtml#p229)
 - en: solve puzzles, [232](#chapter7.xhtml#p232)–[234](#chapter7.xhtml#p232)
   id: totrans-1936
   prefs:
   - PREF_IND
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 解谜，[232](#chapter7.xhtml#p232)–[234](#chapter7.xhtml#p232)
 - en: Copilot, *see* [Microsoft Copilot](#index.xhtml#ieidx_224)
   id: totrans-1937
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: Copilot，*参见* [Microsoft Copilot](#index.xhtml#ieidx_224)
 - en: Copyright, [122](#chapter4.xhtml#p122), [304](#chapter9.xhtml#p304)
   id: totrans-1938
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 版权，[122](#chapter4.xhtml#p122), [304](#chapter9.xhtml#p304)
 - en: Copyright law, [29](#chapter1.xhtml#p29)
   id: totrans-1939
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 版权法，[29](#chapter1.xhtml#p29)
 - en: Correction aid, [99](#chapter3.xhtml#p99)–[103](#chapter3.xhtml#p99)
   id: totrans-1940
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 辅助修正，[99](#chapter3.xhtml#p99)–[103](#chapter3.xhtml#p99)
 - en: Countif function, [226](#chapter6.xhtml#p226)
   id: totrans-1941
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: Countif函数，[226](#chapter6.xhtml#p226)
 - en: Craft sector, [162](#chapter5.xhtml#p162)–[165](#chapter5.xhtml#p162)
   id: totrans-1942
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 手工艺领域，[162](#chapter5.xhtml#p162)–[165](#chapter5.xhtml#p162)
 - en: Craiyon, [26](#chapter1.xhtml#p26), [*26*](#chapter1.xhtml#p26), [124](#chapter4.xhtml#p124),
     [127](#chapter4.xhtml#p127)
   id: totrans-1943
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: Craiyon，[26](#chapter1.xhtml#p26), [*26*](#chapter1.xhtml#p26), [124](#chapter4.xhtml#p124),
+    [127](#chapter4.xhtml#p127)
 - en: Crawler, [243](#chapter7.xhtml#p243)
   id: totrans-1944
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 爬虫，[243](#chapter7.xhtml#p243)
 - en: Curriculum creation, [77](#chapter3.xhtml#p77)
   id: totrans-1945
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 课程创建，[77](#chapter3.xhtml#p77)
 - en: Custom Instructions, [275](#chapter8.xhtml#p275)
   id: totrans-1946
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 自定义指令，[275](#chapter8.xhtml#p275)
 - en: D
   id: totrans-1947
   prefs: []
   type: TYPE_NORMAL
+  zh: D
 - en: Dahl, Roald, [241](#chapter7.xhtml#p241)–[242](#chapter7.xhtml#p241)
   id: totrans-1948
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 罗尔德·达尔，[241](#chapter7.xhtml#p241)–[242](#chapter7.xhtml#p241)
 - en: DALL-E, [9](#chapter1.xhtml#p9), [25](#chapter1.xhtml#p25), [*25*](#chapter1.xhtml#p25),
     [25](#chapter1.xhtml#p25)–[26](#chapter1.xhtml#p25), [30n2](#chapter1.xhtml#n1_2),
     [121](#chapter4.xhtml#p121)–[127](#chapter4.xhtml#p121)
@@ -13970,27 +14026,35 @@
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: DALL-E，[9](#chapter1.xhtml#p9), [25](#chapter1.xhtml#p25), [*25*](#chapter1.xhtml#p25),
+    [25](#chapter1.xhtml#p25)–[26](#chapter1.xhtml#p25), [30n2](#chapter1.xhtml#n1_2),
+    [121](#chapter4.xhtml#p121)–[127](#chapter4.xhtml#p121)
 - en: DAN (Do Anything Now) prompt, [282](#chapter8.xhtml#p282)–[283](#chapter8.xhtml#p282)
   id: totrans-1950
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: DAN（现在做任何事）提示，[282](#chapter8.xhtml#p282)–[283](#chapter8.xhtml#p282)
 - en: Data analysis tool, [109](#chapter3.xhtml#p109)–[110](#chapter3.xhtml#p109),
     [191](#chapter6.xhtml#p191), [272](#chapter8.xhtml#p272)
   id: totrans-1951
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 数据分析工具，[109](#chapter3.xhtml#p109)–[110](#chapter3.xhtml#p109), [191](#chapter6.xhtml#p191),
+    [272](#chapter8.xhtml#p272)
 - en: Data extraction, [66](#chapter2.xhtml#p66)–[67](#chapter2.xhtml#p66)
   id: totrans-1952
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 数据提取，[66](#chapter2.xhtml#p66)–[67](#chapter2.xhtml#p66)
 - en: Data leak, [304](#chapter9.xhtml#p304)
   id: totrans-1953
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 数据泄露，[304](#chapter9.xhtml#p304)
 - en: Data protection, [30](#chapter1.xhtml#p30)
   id: totrans-1954
   prefs:

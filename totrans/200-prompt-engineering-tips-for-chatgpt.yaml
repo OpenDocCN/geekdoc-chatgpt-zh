@@ -505,12 +505,14 @@
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: 过于复杂的问题：包含多个部分的复杂问题可能会让AI感到困惑。请将其分解为更简单、单一部分的问题。
 - en: 'Assuming Prior Knowledge: Do not assume the AI has prior knowledge of previous
     interactions. Each question should be self-contained and clear.'
   id: totrans-46
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: 假设先验知识：不要假设AI对之前的交互有先验知识。每个问题都应该是自包含且清晰的。
 - en: ConclusionUsing direct questions is a vital strategy in prompt engineering.
     Direct questions enhance clarity, precision, efficiency, and relevance, making
     it easier to obtain accurate and useful information from ChatGPT. By identifying
@@ -521,10 +523,12 @@
   id: totrans-47
   prefs: []
   type: TYPE_NORMAL
+  zh: 结论使用直接问题是提示工程中的一个重要策略。直接问题能增强清晰度、精确性、效率和相关性，使你更容易从ChatGPT获得准确有用的信息。通过明确你的目标、保持简洁、使用简单语言、一次专注于一个问题，并指定你需要的答案类型，你可以构建出能产生高质量回答的直接问题。避免模糊和过于复杂的问题将进一步提高你与ChatGPT交互的效果。
 - en: '* * *'
   id: totrans-48
   prefs: []
   type: TYPE_NORMAL
+  zh: '* * *'
 - en: 'Chapter 3: Context MattersIn the realm of prompt engineering, context plays
     a crucial role in shaping the responses you receive from ChatGPT. Providing adequate
     context ensures that the AI understands the background and framework of your query,
@@ -534,69 +538,81 @@
   id: totrans-49
   prefs: []
   type: TYPE_NORMAL
+  zh: 第三章：上下文的重要性在提示工程领域，上下文对于塑造你从ChatGPT获得的回答起着至关重要的作用。提供充分的上下文能确保AI理解你查询的背景和框架，从而得到更准确、更相关的答案。本章将探讨上下文的重要性，以及如何有效地将其融入你的提示中。上下文的重要性
 - en: 'Understanding: Context helps the AI understand the nuances and specifics of
     your query. It provides the necessary background information for accurate interpretation.'
   id: totrans-50
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: 理解：上下文帮助AI理解你查询的细微差别和具体细节。它为准确解读提供了必要的背景信息。
 - en: 'Relevance: By framing your question within a specific context, you ensure that
     the AI’s response is relevant and tailored to your needs.'
   id: totrans-51
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: 相关性：通过在特定上下文中构建你的问题，你可以确保AI的回答是相关的，并符合你的需求。
 - en: 'Depth: Context allows the AI to provide more comprehensive and in-depth answers,
     as it has a clearer picture of the scenario or topic.'
   id: totrans-52
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: 深度：上下文使AI能够提供更全面、更深入的答案，因为它对场景或主题有更清晰的了解。
 - en: 'Avoiding Ambiguity: Providing context reduces the chances of ambiguous or misinterpreted
     responses, leading to more precise answers.'
   id: totrans-53
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: 避免歧义：提供上下文可以减少回答模糊或被误解的可能性，从而得到更精确的答案。
 - en: 'How to Provide ContextTo effectively provide context in your prompts, consider
     the following strategies:'
   id: totrans-54
   prefs: []
   type: TYPE_NORMAL
+  zh: 如何提供上下文为了在你的提示中有效地提供上下文，请考虑以下策略：
 - en: 'Set the Scene: Describe the situation, background, or scenario related to your
     question. This can include relevant events, conditions, or settings.'
   id: totrans-55
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: 设定场景：描述与你的问题相关的情境、背景或场景。这可以包括相关的事件、条件或环境。
 - en: 'Include Key Details: Mention important details that are essential for understanding
     the query. These details can be historical, technical, or situational.'
   id: totrans-56
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: 包含关键细节：提及对理解查询至关重要的关键细节。这些细节可以是历史的、技术的或情境性的。
 - en: 'Define Terms: Clarify any specific terms or jargon that are part of your question.
     This ensures that the AI accurately understands and responds to the query.'
   id: totrans-57
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: 定义术语：澄清问题中涉及的任何特定术语或行话。这能确保AI准确理解并回应查询。
 - en: 'Specify Relationships: Explain any relationships between different elements
     in your question. This helps the AI grasp the connections and dependencies.'
   id: totrans-58
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: 明确关系：解释问题中不同元素之间的任何关系。这有助于AI把握联系和依赖关系。
 - en: 'Provide Examples: Use examples to illustrate the context. Examples can clarify
     complex scenarios and guide the AI in generating accurate responses.'
   id: totrans-59
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: 提供示例：使用示例来说明上下文。示例可以阐明复杂场景，并指导AI生成准确的回答。
 - en: Examples of Contextual Prompts
   id: totrans-60
   prefs: []
   type: TYPE_NORMAL
+  zh: 上下文提示示例
 - en: 'General Prompt: "Explain the causes of climate change." Contextual Prompt:
     "Explain the causes of climate change, focusing on the industrial revolution and
     the increase in greenhouse gas emissions."'
@@ -604,6 +620,7 @@
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: 通用提示："解释气候变化的原因。" 上下文提示："解释气候变化的原因，重点关注工业革命和温室气体排放的增加。"
 - en: 'General Prompt: "Describe the impact of World War II." Contextual Prompt: "Describe
     the impact of World War II on European economies in the decade following the war."'
   id: totrans-62
@@ -3303,10 +3320,12 @@
   id: totrans-440
   prefs: []
   type: TYPE_NORMAL
+  zh: 结论在提示中使用假设是提示工程中的一项强大技巧，它能增强探索性、创造性思维、问题解决能力和参与度。通过提出"如果……会怎样"的问题，做到清晰具体、定义参数、询问结果并鼓励创造性，您可以构建出有效利用假设来探索不同可能性和场景的提示。避免诸如过于复杂的场景、模糊的条件以及忽视可行性等陷阱，将进一步提升您与ChatGPT互动的效果。
 - en: '* * *'
   id: totrans-441
   prefs: []
   type: TYPE_NORMAL
+  zh: '* * *'
 - en: 'Chapter 21: Ask for ClarificationsAsking for clarifications in your prompts
     is a crucial technique in prompt engineering that ensures you obtain clear, accurate,
     and relevant information. When the AI''s response is ambiguous or incomplete,
@@ -3317,75 +3336,88 @@
   id: totrans-442
   prefs: []
   type: TYPE_NORMAL
+  zh: 第21章：请求澄清在提示中请求澄清是提示工程中的一项关键技术，它能确保您获得清晰、准确且相关的信息。当AI的回应模糊或不完整时，请求澄清有助于完善答案并解决任何不确定性。本章将探讨请求澄清的重要性，以及如何有效地将这一技巧融入您的提示中。请求澄清的重要性
 - en: 'Accuracy: Clarifications help ensure that the information provided is accurate
     and aligns with your query.'
   id: totrans-443
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: 准确性：澄清有助于确保所提供的信息准确无误，并与您的查询保持一致。
 - en: 'Relevance: By requesting clarifications, you can ensure that the response is
     directly relevant to your needs.'
   id: totrans-444
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: 相关性：通过请求澄清，您可以确保回应与您的需求直接相关。
 - en: 'Clarity: Clarifications help eliminate ambiguities and make the information
     easier to understand.'
   id: totrans-445
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: 清晰性：澄清有助于消除歧义，使信息更容易理解。
 - en: 'Thoroughness: Asking for clarifications encourages the AI to provide more detailed
     and comprehensive answers.'
   id: totrans-446
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: 全面性：请求澄清能促使AI提供更详细、更全面的答案。
 - en: 'How to Ask for ClarificationsTo effectively ask for clarifications in your
     prompts, consider the following strategies:'
   id: totrans-447
   prefs: []
   type: TYPE_NORMAL
+  zh: 如何请求澄清：要在提示中有效请求澄清，请考虑以下策略：
 - en: 'Identify Ambiguities: Pinpoint any ambiguous or unclear parts of the AI''s
     response that need further explanation.'
   id: totrans-448
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: 识别模糊之处：明确指出AI回应中任何需要进一步解释的模糊或不清晰部分。
 - en: 'Be Specific: Clearly state what you need clarified, specifying the exact points
     or details that require further information.'
   id: totrans-449
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: 具体明确：清楚地说明您需要澄清的内容，明确指出需要进一步信息的要点或细节。
 - en: 'Use Follow-Up Questions: Pose follow-up questions to delve deeper into specific
     aspects of the response.'
   id: totrans-450
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: 使用后续问题：提出后续问题，以更深入地探讨回应的特定方面。
 - en: 'Request Examples: Ask for examples to illustrate complex concepts or points
     that need clarification.'
   id: totrans-451
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: 请求示例：请求示例来说明需要澄清的复杂概念或要点。
 - en: 'Confirm Understanding: Request confirmation that the AI has understood your
     query correctly before providing further details.'
   id: totrans-452
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: 确认理解：在提供更多细节之前，请求确认AI是否正确理解了您的查询。
 - en: Examples of Asking for Clarifications
   id: totrans-453
   prefs: []
   type: TYPE_NORMAL
+  zh: 请求澄清的示例
 - en: 'General Prompt: "Explain the process of photosynthesis." Clarification Prompt:
     "Can you clarify the role of chlorophyll in the light-dependent reactions of photosynthesis?"'
   id: totrans-454
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: 通用提示："解释光合作用的过程。" 澄清提示："您能澄清叶绿素在光合作用光依赖反应中的作用吗？"
 - en: 'General Prompt: "Describe the benefits of exercise." Clarification Prompt:
     "You mentioned that exercise improves mental health. Can you provide more details
     on how exercise affects mental well-being?"'
@@ -3393,6 +3425,7 @@
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: 通用提示："描述锻炼的好处。" 澄清提示："您提到锻炼能改善心理健康。能否提供更多关于锻炼如何影响心理健康的细节？"
 - en: 'General Prompt: "What are the causes of climate change?" Clarification Prompt:
     "You listed several causes of climate change. Can you explain how deforestation
     specifically contributes to climate change?"'
@@ -3400,16 +3433,19 @@
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: 通用提示："气候变化的原因有哪些？" 澄清提示："您列出了气候变化的几个原因。您能解释一下森林砍伐具体是如何导致气候变化的吗？"
 - en: Common Pitfalls to Avoid
   id: totrans-457
   prefs: []
   type: TYPE_NORMAL
+  zh: 需要避免的常见陷阱
 - en: 'Vague Requests for Clarification: Avoid vague or general requests for clarification.
     Be specific about what you need clarified to ensure accuracy.'
   id: totrans-458
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: 模糊的澄清请求：避免模糊或笼统的澄清请求。具体说明您需要澄清的内容，以确保准确性。
 - en: 'Ignoring Ambiguities: Do not ignore ambiguous or unclear parts of the response.
     Address them promptly to ensure a comprehensive understanding.'
   id: totrans-459
@@ -8269,10 +8305,12 @@
   id: totrans-1133
   prefs: []
   type: TYPE_NORMAL
+  zh: 结论在你的提示中使用比较是提示工程中的一项宝贵技巧，可以增强清晰度、洞察力、决策支持和理解。通过明确概念、具体化、使用比较性语言、提供背景信息以及请求详细比较，你可以确保ChatGPT提供清晰且符合你需求的相关比较。避免诸如过于宽泛的比较、缺乏背景信息以及语言不清晰等陷阱，将进一步提高你与ChatGPT互动的有效性。
 - en: '* * *'
   id: totrans-1134
   prefs: []
   type: TYPE_NORMAL
+  zh: '* * *'
 - en: 'Chapter 54: Request InsightsRequesting insights in your prompts is a valuable
     technique in prompt engineering that helps uncover deeper understanding, interpretations,
     and perspectives on various topics. Insights provide nuanced information that
@@ -8282,69 +8320,81 @@
   id: totrans-1135
   prefs: []
   type: TYPE_NORMAL
+  zh: 第54章：请求洞见在提示中请求洞见是提示工程中的一项宝贵技巧，有助于揭示对各种主题的更深层理解、解读和视角。洞见提供细致入微的信息，可以增强你的理解并为决策提供信息。本章将探讨请求洞见的重要性，以及如何有效地将这一技巧融入你的提示中。请求洞见的重要性
 - en: 'Depth: Insights offer a deeper understanding of a topic, revealing underlying
     principles, patterns, or implications.'
   id: totrans-1136
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: 深度：洞见能提供对主题更深入的理解，揭示潜在原理、模式或影响。
 - en: 'Interpretation: They provide interpretations and perspectives that help you
     make sense of complex or ambiguous information.'
   id: totrans-1137
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: 解读：它们提供解读和视角，帮助你理解复杂或模糊的信息。
 - en: 'Decision-Making: Insights inform decision-making by highlighting key factors,
     risks, and opportunities.'
   id: totrans-1138
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: 决策支持：洞见通过强调关键因素、风险和机遇来为决策提供信息。
 - en: 'Engagement: Requesting insights encourages a more interactive and engaging
     exploration of the topic, fostering curiosity and learning.'
   id: totrans-1139
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: 参与度：请求洞见能鼓励对主题进行更具互动性和吸引力的探索，从而激发好奇心和促进学习。
 - en: 'How to Request InsightsTo effectively request insights in your prompts, consider
     the following strategies:'
   id: totrans-1140
   prefs: []
   type: TYPE_NORMAL
+  zh: 如何请求洞见要在提示中有效请求洞见，请考虑以下策略：
 - en: 'Identify the Topic: Clearly state the topic or question you want insights on,
     ensuring that the AI understands the focus of your query.'
   id: totrans-1141
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: 明确主题：清晰说明你希望获得洞见的主题或问题，确保AI理解你查询的重点。
 - en: 'Be Specific: Specify any particular aspects or details you are interested in,
     such as trends, implications, or underlying principles.'
   id: totrans-1142
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: 具体化：明确你感兴趣的特定方面或细节，例如趋势、影响或潜在原理。
 - en: 'Use Direct Language: Use straightforward and direct language to request insights,
     ensuring that the AI understands your request.'
   id: totrans-1143
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: 使用直接语言：使用直截了当的语言请求洞见，确保AI理解你的请求。
 - en: 'Provide Context: Include any relevant context or background information that
     can help frame the insights.'
   id: totrans-1144
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: 提供背景：包含任何相关的背景信息，以帮助构建洞见的框架。
 - en: 'Ask for Interpretations: Request interpretations or perspectives to gain a
     deeper understanding of the topic.'
   id: totrans-1145
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: 请求解读：请求解读或视角，以更深入地理解主题。
 - en: Examples of Requesting Insights
   id: totrans-1146
   prefs: []
   type: TYPE_NORMAL
+  zh: 请求洞见的示例
 - en: 'General Prompt: "Explain the benefits of renewable energy." Insight Prompt:
     "Can you provide insights into how the adoption of renewable energy sources can
     impact global energy markets in the next decade?"'
@@ -8352,6 +8402,7 @@
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: 通用提示："解释可再生能源的好处。" 洞见提示："你能提供关于采用可再生能源在未来十年如何影响全球能源市场的洞见吗？"
 - en: 'General Prompt: "Describe the impact of climate change." Insight Prompt: "Can
     you provide insights into the long-term implications of climate change on biodiversity
     and ecosystems?"'
@@ -8359,6 +8410,7 @@
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: 通用提示："描述气候变化的影响。" 洞见提示："你能提供关于气候变化对生物多样性和生态系统长期影响的洞见吗？"
 - en: 'General Prompt: "What are the key features of a democratic government?" Insight
     Prompt: "Can you provide insights into how the principles of a democratic government
     influence social and economic development?"'
@@ -8366,28 +8418,33 @@
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: 通用提示："民主政府的主要特征是什么？" 洞见提示："你能提供关于民主政府原则如何影响社会经济发展的洞见吗？"
 - en: Common Pitfalls to Avoid
   id: totrans-1150
   prefs: []
   type: TYPE_NORMAL
+  zh: 需要避免的常见陷阱
 - en: 'Vague Requests: Avoid vague or general requests for insights. Be specific about
     what you need to ensure clarity and relevance.'
   id: totrans-1151
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: 模糊请求：避免模糊或笼统的见解请求。具体说明你需要什么，以确保清晰度和相关性。
 - en: 'Lack of Context: Omitting relevant context can lead to incomplete or inaccurate
     insights. Provide enough background information to frame the insights.'
   id: totrans-1152
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: 缺乏背景信息：省略相关背景信息可能导致见解不完整或不准确。提供足够的背景信息来构建见解。
 - en: 'Ignoring Interpretations: Do not overlook the importance of interpretations.
     Asking for interpretations can provide deeper understanding and context.'
   id: totrans-1153
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: 忽视解读：不要忽视解读的重要性。请求解读可以提供更深层次的理解和背景信息。
 - en: ConclusionRequesting insights is a valuable practice in prompt engineering that
     enhances depth, interpretation, decision-making, and engagement. By identifying
     the topic, being specific, using direct language, providing context, and asking
@@ -8398,10 +8455,12 @@
   id: totrans-1154
   prefs: []
   type: TYPE_NORMAL
+  zh: 结论在提示词工程中，请求见解是一种有价值的实践，它能增强深度、解读、决策和参与度。通过明确主题、具体化、使用直接语言、提供背景信息以及请求解读，你可以确保ChatGPT提供符合你需求的、细致入微且相关的见解。避免诸如请求模糊、缺乏背景信息以及忽视解读等陷阱，将进一步提升你与ChatGPT互动的效果。
 - en: '* * *'
   id: totrans-1155
   prefs: []
   type: TYPE_NORMAL
+  zh: '* * *'
 - en: 'Chapter 55: Ask for ContrastsAsking for contrasts in your prompts is a powerful
     technique in prompt engineering that helps highlight differences and distinctions
     between concepts, objects, or scenarios. Contrasts provide clear insights and
@@ -8411,69 +8470,81 @@
   id: totrans-1156
   prefs: []
   type: TYPE_NORMAL
+  zh: 第55章：请求对比在提示词工程中，请求对比是一种强大的技巧，有助于突显概念、对象或情境之间的差异和区别。通过强调事物之间的不同之处，对比能提供清晰的见解并加深理解。本章将探讨请求对比的重要性，以及如何有效地将这一技巧融入你的提示词中。请求对比的重要性
 - en: 'Clarity: Contrasts help clarify differences and distinctions, making complex
     concepts easier to understand.'
   id: totrans-1157
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: 清晰性：对比有助于澄清差异和区别，使复杂概念更易于理解。
 - en: 'Insight: They provide deeper insights by highlighting what sets different elements
     apart, enhancing comprehension.'
   id: totrans-1158
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: 见解：通过突显不同元素之间的区别，对比提供了更深入的见解，增强了理解。
 - en: 'Decision-Making: Contrasts facilitate informed decision-making by clearly presenting
     the advantages and disadvantages of different options.'
   id: totrans-1159
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: 决策制定：通过清晰地呈现不同选项的优缺点，对比有助于做出明智的决策。
 - en: 'Understanding: They enhance overall understanding by providing a comparative
     perspective, showing how different elements relate to each other.'
   id: totrans-1160
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: 理解：通过提供比较视角，展示不同元素如何相互关联，对比增强了整体理解。
 - en: 'How to Ask for ContrastsTo effectively ask for contrasts in your prompts, consider
     the following strategies:'
   id: totrans-1161
   prefs: []
   type: TYPE_NORMAL
+  zh: 如何请求对比为了在你的提示词中有效地请求对比，请考虑以下策略：
 - en: 'Identify the Elements: Clearly state the concepts, objects, or scenarios you
     want to contrast, ensuring that the AI understands the focus of your query.'
   id: totrans-1162
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: 明确元素：清晰地说明你想要对比的概念、对象或情境，确保AI理解你查询的重点。
 - en: 'Be Specific: Specify the aspects or criteria for contrast, such as functionality,
     effectiveness, pros and cons, etc.'
   id: totrans-1163
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: 具体化：明确对比的方面或标准，例如功能性、有效性、优缺点等。
 - en: 'Use Comparative Language: Use comparative language (e.g., "contrast," "differences,"
     "distinctions") to clearly frame your request.'
   id: totrans-1164
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: 使用比较性语言：使用比较性语言（例如，"对比"、"差异"、"区别"）来清晰地构建你的请求。
 - en: 'Provide Context: Include any relevant context or background information that
     can help frame the contrast.'
   id: totrans-1165
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: 提供背景信息：包含任何相关的背景信息，以帮助构建对比。
 - en: 'Ask for Detailed Contrasts: Request detailed contrasts to explore different
     aspects and their respective implications.'
   id: totrans-1166
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: 请求详细对比：请求详细对比，以探索不同方面及其各自的影响。
 - en: Examples of Asking for Contrasts
   id: totrans-1167
   prefs: []
   type: TYPE_NORMAL
+  zh: 请求对比的示例
 - en: 'General Prompt: "Explain the benefits of renewable energy." Contrast Prompt:
     "Can you contrast the benefits of solar energy versus wind energy in terms of
     cost, efficiency, and environmental impact?"'
@@ -8481,6 +8552,7 @@
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: 通用提示："解释可再生能源的好处。" 对比提示："你能从成本、效率和环境影响方面对比太阳能和风能的好处吗？"
 - en: 'General Prompt: "Describe the process of photosynthesis." Contrast Prompt:
     "Can you contrast the process of photosynthesis in plants with the process of
     cellular respiration in animals?"'
@@ -22287,35 +22359,41 @@
   id: totrans-3064
   prefs: []
   type: TYPE_NORMAL
+  zh: 第147章：请求历史比较在提示中请求历史比较是提示工程中的一项重要技巧，它帮助你理解当前事件、概念或现象如何与历史事件相关或不同。历史比较提供了背景和洞察，增强了理解力和相关性。本章将探讨请求历史比较的重要性，以及如何有效地将这一技巧融入你的提示中。请求历史比较的重要性
 - en: 'Context: Historical comparisons provide context by showing how current events
     or concepts relate to past ones.'
   id: totrans-3065
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: 背景：历史比较通过展示当前事件或概念如何与过去相关来提供背景。
 - en: 'Insight: They offer insights into patterns, trends, and the evolution of ideas
     or events over time.'
   id: totrans-3066
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: 洞察：它们提供了对模式、趋势以及思想或事件随时间演变的洞察。
 - en: 'Understanding: Historical comparisons enhance understanding by highlighting
     similarities and differences between past and present.'
   id: totrans-3067
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: 理解：历史比较通过强调过去与现在的异同来增强理解。
 - en: 'Perspective: They provide a broader perspective, helping to situate specific
     topics within a larger historical narrative.'
   id: totrans-3068
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: 视角：它们提供了更广阔的视角，帮助将特定主题置于更宏大的历史叙事中。
 - en: 'How to Ask for Historical ComparisonsTo effectively ask for historical comparisons
     in your prompts, consider the following strategies:'
   id: totrans-3069
   prefs: []
   type: TYPE_NORMAL
+  zh: 如何请求历史比较为了在你的提示中有效地请求历史比较，请考虑以下策略：
 - en: 'Identify the Topic: Clearly state the current event, concept, or phenomenon
     you want to compare with historical ones, ensuring that the AI understands the
     focus of your query.'
@@ -22323,34 +22401,40 @@
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: 确定主题：明确陈述你想要与历史事件比较的当前事件、概念或现象，确保AI理解你查询的重点。
 - en: 'Specify the Historical Period: Define the historical period you are interested
     in, including specific years, decades, or eras.'
   id: totrans-3071
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: 指定历史时期：定义你感兴趣的历史时期，包括具体的年份、年代或时代。
 - en: 'Use Direct Language: Use straightforward and direct language to request historical
     comparisons, ensuring that the AI understands your request.'
   id: totrans-3072
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: 使用直接语言：使用直接明了的语言来请求历史比较，确保AI理解你的请求。
 - en: 'Provide Context: Include any relevant context or background information that
     can help frame the historical comparisons.'
   id: totrans-3073
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: 提供背景信息：包含任何相关的背景信息，以帮助构建历史比较的框架。
 - en: 'Ask for Specific Aspects: Request comparisons on specific aspects, such as
     causes, effects, or outcomes, to ensure a focused analysis.'
   id: totrans-3074
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: 询问具体方面：请求比较具体方面，如原因、影响或结果，以确保分析有针对性。
 - en: Examples of Asking for Historical Comparisons
   id: totrans-3075
   prefs: []
   type: TYPE_NORMAL
+  zh: 请求历史比较的示例
 - en: 'General Prompt: "Explain the benefits of renewable energy." Historical Comparison
     Prompt: "Can you compare the current adoption of renewable energy sources with
     the adoption of coal during the Industrial Revolution?"'
@@ -22358,6 +22442,7 @@
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: 通用提示："解释可再生能源的好处。" 历史比较提示："你能比较当前可再生能源的采用情况与工业革命时期煤炭的采用情况吗？"
 - en: 'General Prompt: "Describe the impact of climate change." Historical Comparison
     Prompt: "Can you compare the current impact of climate change on global weather
     patterns with historical climate events, such as the Little Ice Age?"'
@@ -22365,6 +22450,7 @@
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: 通用提示："描述气候变化的影响。" 历史比较提示："你能比较当前气候变化对全球天气模式的影响与历史气候事件（如小冰期）的影响吗？"
 - en: 'General Prompt: "What are the key features of a democratic government?" Historical
     Comparison Prompt: "Can you compare the key features of modern democratic governments
     with those of ancient Athens'' democracy?"'
@@ -22372,22 +22458,26 @@
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: 通用提示："民主政府的主要特征是什么？" 历史比较提示："你能比较现代民主政府的主要特征与古雅典民主的主要特征吗？"
 - en: Common Pitfalls to Avoid
   id: totrans-3079
   prefs: []
   type: TYPE_NORMAL
+  zh: 需要避免的常见陷阱
 - en: 'Vague Requests: Avoid vague or general requests for historical comparisons.
     Be specific about what you need to ensure clarity and relevance.'
   id: totrans-3080
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: 模糊的请求：避免提出模糊或笼统的历史比较请求。明确你需要什么，以确保清晰度和相关性。
 - en: 'Lack of Context: Omitting relevant context can lead to incomplete or inaccurate
     comparisons. Provide enough background information to frame the historical comparisons.'
   id: totrans-3081
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: 缺乏背景：省略相关背景可能导致不完整或不准确的比较。提供足够的背景信息来构建历史比较的框架。
 - en: 'Overloading with Details: While historical comparisons are useful, providing
     too many details can overwhelm the response. Focus on the most relevant aspects.'
   id: totrans-3082
