@@ -1,3 +1,11 @@
+# AI 驱动的投资：使用 CHatGPT 解锁股票机密
+
+> 原文：[AI-Powered Investing: Unlocking Stock Secrets with ChatGPT](https://annas-archive.org/md5/c2af929cd1b729454955c250a09ba72f)
+> 
+> 译者：[飞龙](https://github.com/wizardforcel)
+> 
+> 协议：[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 # **引言**
 
 **股票市场是艺术与科学的混合体。**这是一个你需要直觉和分析的地方。**决策是基于数据的**。

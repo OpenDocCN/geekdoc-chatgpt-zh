@@ -1,10 +1,11 @@
-人工智能驱动副业
+# 人工智能驱动副业：100 个提示帮助你赚取额外收入
 
-100 个提示帮助你赚取额外收入
+> 原文：[AI-Powered Side Hustles: 100 Prompts to Help You Earn Extra Income](https://annas-archive.org/md5/aee931006492ed2d4bd693231b92f38d)
+> 
+> 译者：[飞龙](https://github.com/wizardforcel)
+> 
+> 协议：[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-T. Stein
-
-自出版
 
 引言
 

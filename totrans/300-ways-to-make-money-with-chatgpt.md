@@ -1,3 +1,11 @@
+# 300 个使用 CHatGPT 赚钱的方法
+
+> 原文：[300 Ways to Make Money With ChatGPT](https://annas-archive.org/md5/73c15496a23cb2348a24a28bbdaec3f6)
+> 
+> 译者：[飞龙](https://github.com/wizardforcel)
+> 
+> 协议：[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 ![封面](img/300-ways-to-make-money-with-chatgpt-cover.jpeg)
 
 ![图片](img/300-ways-to-make-money-with-chatgpt-image_rsrc498.jpg)
