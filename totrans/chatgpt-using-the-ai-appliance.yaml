@@ -1,0 +1,4149 @@
+- en: '![](image_rsrc1G1.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: ChatGPT - Using the AI Appliance
+  prefs:
+  - PREF_H2
+  type: TYPE_NORMAL
+- en: Start Simply - Skip the AI Hype - Get Results Easily
+  prefs:
+  - PREF_H2
+  type: TYPE_NORMAL
+- en: Adam Russell
+  prefs:
+  - PREF_H3
+  type: TYPE_NORMAL
+- en: ChatGPT - Using the AI Appliance
+  prefs: []
+  type: TYPE_NORMAL
+- en: Start Simply - Skip the AI Hype - Get Results Easily
+  prefs: []
+  type: TYPE_NORMAL
+- en: Adam Russell
+  prefs: []
+  type: TYPE_NORMAL
+- en: © 2023-2024 Tiligent Pty Ltd
+  prefs: []
+  type: TYPE_NORMAL
+- en: Table of Contents
+  prefs:
+  - PREF_H2
+  type: TYPE_NORMAL
+- en: '[Getting Engaged with this Book and its Author](#part0005.xhtml)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Notes about this version](#part0006.xhtml)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Introduction](#part0007.xhtml)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[How to Read This Book](#part0008.xhtml)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Outline of this Book](#part0008.xhtml#a18R)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Where to from here?](#part0008.xhtml#a18S)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Artificial Intelligence: The New Generic Application](#part0009.xhtml)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Start with simplicity](#part0009.xhtml#a18U)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[The Artificial Intelligence “Tipping Point”](#part0009.xhtml#a18V)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[The Tipping Point Unpacked](#part0009.xhtml#a18W)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Massive Reductions in Costs and Time to Deliver](#part0009.xhtml#a18X)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[ChatGPT: The AI Appliance for Everyone](#part0009.xhtml#a18Y)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[The Complexity and Opacity of GPT](#part0009.xhtml#a18Z)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Characteristics of an Appliance](#part0009.xhtml#a190)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Crossing the Skills Bootstrapping Chasm](#part0009.xhtml#a191)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[The ChatGPT Black Box Mindset](#part0009.xhtml#a192)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Unpacking the ChatGPT Black Box Mindset](#part0010.xhtml)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Six Components Enable One Mindset](#part0010.xhtml#a194)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Engage the Black-Box Interface](#part0010.xhtml#a195)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[The Human-ChatGPT Black-box Interface](#part0010.xhtml#a196)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[ChatGPT Characteristics](#part0010.xhtml#a197)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Conclusion](#part0010.xhtml#a198)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Play to ChatGPT Strengths](#part0010.xhtml#a199)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[GPT Key Strengths](#part0010.xhtml#a19A)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Conclusion](#part0010.xhtml#a19B)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Understand Critical ChatGPT Constraints](#part0010.xhtml#a19C)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Focus on What the User can Control](#part0010.xhtml#a19D)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Deciding on the Strategy for ChatGPT Use in a User’s Problem Domain](#part0010.xhtml#a19E)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[User Attitude & Expectations of ChatGPT](#part0010.xhtml#a19F)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Prompt Structure and Content](#part0010.xhtml#a19G)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Interaction Use Cases](#part0010.xhtml#a19H)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[ChatGPT Product Interaction](#part0010.xhtml#a19J)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Use of ChatGPT Responses](#part0010.xhtml#a19K)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Adopt Curious Abundance](#part0010.xhtml#a19M)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Adopt Black-box Governance](#part0010.xhtml#a19N)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Interacting with ChatGPT](#part0011.xhtml)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Organic prompting](#part0011.xhtml#a19R)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Why Not Just Start with Prompt Engineering?](#part0011.xhtml#a19S)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[The Foundations of Organic Prompting](#part0011.xhtml#a19T)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Principles of Organic Prompting](#part0011.xhtml#a19U)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Example of Organic Prompting](#part0011.xhtml#a19V)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Organic Prompt “Nudges”](#part0011.xhtml#a19W)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[When is Organic Prompting The Wrong Approach?](#part0011.xhtml#a19X)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Grow with Advanced Organic Prompting](#part0011.xhtml#a19Y)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Satisficing is Satisfaction](#part0011.xhtml#a19Z)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Organic Planning](#part0011.xhtml#a1A0)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Basic Interacting with ChatGPT](#part0011.xhtml#a1A1)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[From Interaction to I-P-O](#part0011.xhtml#a1A2)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[A Shallow Dive Into GPT Functionality](#part0011.xhtml#a1A3)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Some (Not Unreasonable) Myths on GPT Operation](#part0011.xhtml#a1A4)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Conclusion](#part0011.xhtml#a1A5)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Practical Suggestions for Focusing on What the User Can Control](#part0011.xhtml#a1A6)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Do This:](#part0011.xhtml#a1A7)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Don’t Do This:](#part0011.xhtml#a1A8)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Conclusion](#part0011.xhtml#a1A9)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Myths, Mistakes, and Biases](#part0011.xhtml#a1AA)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Anthropomorphisation](#part0011.xhtml#a1AB)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Hallucination in AI Systems](#part0011.xhtml#a1AC)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[ChatGPT and the Phenomenon of “Lying”](#part0011.xhtml#a1AD)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[How should you engage with ChatGPT?](#part0011.xhtml#a1AE)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[More from Adam Russell](#part0012.xhtml)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[About the Author](#part0013.xhtml)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Career Summary](#part0013.xhtml#a1AH)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Copyright](#part0014.xhtml)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: List of Figures
+  prefs:
+  - PREF_H2
+  type: TYPE_NORMAL
+- en: '[Perfection](#part0009.xhtml#a1F1)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Comparative AI Application Deployment Speeds (adapted from Andrew Ng)](#part0009.xhtml#a1EZ)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[AI Tipping Point Visualised](#part0009.xhtml#a1FD)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Skills Bootstrapping (Adapted from Kathy Sierra)](#part0009.xhtml#a1EY)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[The Skills Boostrapping Chasm](#part0009.xhtml#a1F5)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Stuck in the “Suck Zone” (Adapted from Kathy Sierra)](#part0009.xhtml#a1DU)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[GPT Black-box Mindset - Summary](#part0010.xhtml#a1F7)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Black-box Mindset #1](#part0010.xhtml#a1EM)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Original Turing Test](#part0010.xhtml#a1F6)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[ChatGPT Black-box Interface](#part0010.xhtml#a1EK)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Simplest ChatGPT Interaction Concept](#part0010.xhtml#a1ED)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Engage Black Box Interface Functions](#part0010.xhtml#a1EV)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[GPT Strengths Summary](#part0010.xhtml#a1EH)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[NLP Functions](#part0010.xhtml#a1FA)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[GPT Critical Constraints: Summary](#part0010.xhtml#a1EC)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Black-box Mindset #4](#part0010.xhtml#a1F8)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[GPT What the user can control- Summary](#part0010.xhtml#a1F3)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Interaction Use Case Context](#part0010.xhtml#a1EG)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[ChatGPT Plus Version UI](#part0010.xhtml#a1E0)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[The OpenAI Playground User Interface](#part0010.xhtml#a1ET)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Black-box Mindset #5](#part0010.xhtml#a1DN)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[GPT Curious Abundance - Summary](#part0010.xhtml#a1EN)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Black-box Mindset #6](#part0010.xhtml#a1E4)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[GPT Black-box Governance - Summary](#part0010.xhtml#a1DZ)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Basic ChatGPT Interaction](#part0011.xhtml#a1FE)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Extended ChatGPT Interaction](#part0011.xhtml#a1DP)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Simple I-P-O Concept](#part0011.xhtml#a1E1)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Extended IPO model in context](#part0011.xhtml#a1DX)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[The simplest black-box interface to ChatGPT](#part0011.xhtml#a1DT)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[The Database Expectation (Data + Deterministic Reponse)](#part0011.xhtml#a1FC)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[The API Expectation (Data + Deterministic Reponse)](#part0011.xhtml#a1EE)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[The HTTP GET Expectation (Data + Deterministic Reponse)](#part0011.xhtml#a1EF)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Imaginary Word Probability Model](#part0011.xhtml#a1E5)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[GPT Response of Mashed-up Words](#part0011.xhtml#a1EP)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[GPT Responses Can Be Variable](#part0011.xhtml#a1ER)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Getting Engaged with this Book and its Author
+  prefs:
+  - PREF_H1
+  type: TYPE_NORMAL
+- en: Now that you have your copy of the book, bootstrap its value by getting engaged
+    with other people and resources on the same topic.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Message: You can post me a comment or question via my publisher (BrainJuice.Media)
+    using their [Feedback Form](https://bjl.ink/contact). Ask me anything. I’ll answer
+    as quickly as I can. (Remember to select the book in the “Topic” field)'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Facebook Group: Join my private [Facebook Group](https://www.facebook.com/groups/adamoneverything)
+    which is for anyone who is interested in the topics I’m writing about. That’s
+    the main place I interact with folks.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Author Page: My [My BrainJuice.Media Author Page](https://bjl.ink/adam) is
+    the jumping point for all my current content, both published and “in the works”.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Blog: I publish blogposts on Medium.com on my [AdamOnProjects Blog](https://adamonprojects.com/).'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Mailing List: If you haven’t already joined, sign up for my [mailing list](https://bjl.ink/engage),
+    on Brainjuice.Media’s website (my publisher). You’ll get information on new books,
+    courses, and other content when I make it available. I’ll update you on interesting
+    deals, as well as information on upcoming events and other activities in the world
+    of Adam On Projects.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Social Media: you can track me down on the internets:'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: '[X (formerly known as Twitter)](https://twitter.com/adamonprojects/)'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: '[LinkedIn](https://www.linkedin.com/in/adamonprojects/)'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: Notes about this version
+  prefs:
+  - PREF_H1
+  type: TYPE_NORMAL
+- en: This is version 1.00 of the First Edition of this book.
+  prefs: []
+  type: TYPE_NORMAL
+- en: It has benefited from content written and updated for other ChatGPT books, and
+    retrofitted here.
+  prefs: []
+  type: TYPE_NORMAL
+- en: I’ve also balanced the content against other books, to ensure there is unique
+    content here, albeit with the same message.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Almost everything in the book as been edited, reorganised or both.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Please let me know if you find any errors.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Introduction
+  prefs:
+  - PREF_H1
+  type: TYPE_NORMAL
+- en: ChatGPT simplifies access to powerful AI technology, making it available to
+    almost anyone. This book embraces a “Start with Simplicity” approach to help you
+    leverage ChatGPT effectively.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Think of ChatGPT as an AI appliance. Like any appliance, it requires some basic
+    understanding to use effectively. While ChatGPT is not an Artificial General Intelligence
+    (AGI), it can solve specific problems with impressive efficiency.
+  prefs: []
+  type: TYPE_NORMAL
+- en: The key to using ChatGPT successfully lies in adopting a “Black-box Mindset”.
+    This approach allows you to focus on the inputs and outputs you can control, without
+    needing to understand the complex inner workings of the AI. By concentrating on
+    what you can control, you can achieve better results and improve your skills over
+    time.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'In this book, you’ll learn how to:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Approach ChatGPT with a black box mindset.
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: Start with simple techniques and add complexity as needed.
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: Identify the best problems for ChatGPT to solve.
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: Our goal is to help you use ChatGPT effectively without getting lost in AI jargon.
+    Let’s begin your journey to mastering ChatGPT with simplicity.
+  prefs: []
+  type: TYPE_NORMAL
+- en: How to Read This Book
+  prefs:
+  - PREF_H1
+  type: TYPE_NORMAL
+- en: I’ve attempted to make the content in this book a logical journey through the
+    exciting but often confusing—and frustrating–world of using ChatGPT. Please review
+    the book outline below, and then consider the content that you can use after you’ve
+    finished the book.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Outline of this Book
+  prefs:
+  - PREF_H2
+  type: TYPE_NORMAL
+- en: This section gives you the top-level narrative of the book, and a summary of
+    the key propositions / takeaways
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'The first chapter, "Artificial Intelligence: The New Generic Application",
+    outlines the “AI Tipping Point” and why that is critical to your understanding
+    of ChatGPT, introduces the concept of a “AI Appliance” and how it is the foundation
+    for the Black-box Mindset, which I then introduce in concept, setting the scene
+    for the next chapter.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: The second chapter, "Unpacking the ChatGPT Black Box Mindset", describes the
+    Black-box Mindset in more detail, and unpacks the six components that provide
+    you an end-to-end view of the entire ChatGPT interaction landscape. These include
+    understanding the key strengths of ChatGPT, the over-arching constraints of how
+    ChatGPT works, the things that you as a user can control.
+  prefs: []
+  type: TYPE_NORMAL
+- en: The third chapter, "Interacting with ChatGPT", outlines additional material
+    that will help you apply the Black-box Mindset of interacting with ChatGPT, including
+    a shallow view of ChatGPT operation, busting some myths about ChatGPT and the
+    main area that you can control.
+  prefs: []
+  type: TYPE_NORMAL
+- en: These three chapters will give you a full, end-to-end slice through the application
+    of ChatGPT to your particular problem area, and provide you with conceptual frameworks
+    and tools to analyse and discuss how you should approach using ChatGPT.
+  prefs: []
+  type: TYPE_NORMAL
+- en: They will set you on up to not only apply ChatGPT productively right now, but
+    to access more advanced knowledge about ChatGPT application areas.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Where to from here?
+  prefs:
+  - PREF_H2
+  type: TYPE_NORMAL
+- en: After you’ve finished this book, you’ll have more useful and practical knowledge
+    than the average ChatGPT user. You can continue this journey by reading more advanced
+    content. For example, check out the following titles. You can find these on my
+    [Leanpub Profile Page](https://leanpub.com/u/adamonprojects).
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[“Advanced ChatGPT Application Primer”](https://bjl.ink/GptAP): a complete
+    and detailed description of everything you need to know about ChatGPT and applying
+    it to your problem domain.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Adam on: Advanced ChatGPT for Agile Project Managers: Extends the “Black Box”
+    approach to the practice of Agile Project Management.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Artificial Intelligence: The New Generic Application'
+  prefs:
+  - PREF_H1
+  type: TYPE_NORMAL
+- en: '![](image_rsrc1G2.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: “AI is the new electricity”—Andrew Ng, AI Researcher, Entrepreneur and Thought
+    Leader
+  prefs: []
+  type: TYPE_NORMAL
+- en: Andrew Ng argues that Artificial Intelligence is a general-purpose technology,
+    meaning that it is not useful for just one thing, but useful for many things.
+  prefs: []
+  type: TYPE_NORMAL
+- en: In this chapter I want to give you a flavour of this powerful capability and
+    propose a different way that we should think of applications like ChatGPT.
+  prefs: []
+  type: TYPE_NORMAL
+- en: I argue that the analogy for ChatGPT is an appliance that uses the AI electricity.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Start with simplicity
+  prefs:
+  - PREF_H2
+  type: TYPE_NORMAL
+- en: '![Perfection](image_rsrc1G3.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: Figure 1\. Perfection
+  prefs: []
+  type: TYPE_NORMAL
+- en: The proposition of this book is that successfully using ChatGPT is an exercise
+    in uncovering the practical simplicity in our interactions with ChatGPT. If you
+    read articles about ChatGPT online you’ll be bombarded with multiple messages
+    that obscure this practical simplicity. Either the statements are over-simplistic
+    in making claims about what ChatGPT can do by leaving out critical and non-trivial
+    integration concerns. Or the messages are incredibly complex and dive deep into
+    the internals of the GPT AI engine.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'I believe that practical use of ChatGPT can avoid the latter: you don’t really
+    need to know much about GPT internals. First, because you don’t need to know them
+    to make effective use of the tool and second because much of the information you
+    read is misleading, wrong or poorly explained.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: On the other hand, you do need to know just the right about about the practical
+    integration of ChatGPT into your work processes. What I mean by “just the right
+    amount” is that the information must be balanced against the simplicity or complexity
+    of your use cases. In the early stages of your ChatGPT experience, you need to
+    know no more than is related to the tools and data that you use.
+  prefs: []
+  type: TYPE_NORMAL
+- en: The Artificial Intelligence “Tipping Point”
+  prefs:
+  - PREF_H3
+  type: TYPE_NORMAL
+- en: Artificial Intelligence has been around for decades but has sped up out of sight
+    these short months since OpenAI released ChatGPT.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Use of ChatGPT and its competitors is exploding. And so, it seems, is its misuse.
+    People are flocking to use it based on vague claims, assumptions, prejudices,
+    and false expectations. Whilst many people are surprised and pleased by the value
+    that ChatGPT helps them create, others find their expectations are not met.
+  prefs: []
+  type: TYPE_NORMAL
+- en: The release of ChatGPT in November 2022 was a “tipping point” in AI enablement,
+    after which consumers’ engagement with AI capabilities changes materially. The
+    ChatGPT browser-based interface made AI technology available to anyone interested
+    and attracted enormous interest.
+  prefs: []
+  type: TYPE_NORMAL
+- en: “And the more you look, the more you see what has changed with this model —
+    and why it seems like a tipping point. … ChatGPT, now open to everyone, has made
+    an important transition.”—Ethan Mollick in “[ChatGPT Is a Tipping Point for AI”
+    (hbr.org 14th December 2022)](https://hbr.org/2022/12/chatgpt-is-a-tipping-point-for-ai).
+  prefs: []
+  type: TYPE_NORMAL
+- en: What is the Tipping Point?
+  prefs: []
+  type: TYPE_NORMAL
+- en: The Tipping Point Unpacked
+  prefs:
+  - PREF_H3
+  type: TYPE_NORMAL
+- en: 'Prior to the “Tipping Point” the use of AI in any business or technology are
+    was limited by at least one (and usually two) non-trivial enablers:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Development of an AI software solution
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: Training of the AI model
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: At the “Tipping Point” of AI these factors were turn on their heads.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Cost of Implementation
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'The cost of AI solutions includes many factors, for example:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Developer cost to design, code, and test the solution. This varies with the
+    platform and integration environment, which progressively have provided more built-in
+    capabilities and therefore less custom code.
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Cost of the platform: some are open source and some proprietary, but as we
+    all know “open source” doesn’t mean “no cost”.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Infrastructure cost: the non-trivial cost of computing infrastructure, whether
+    physical or virtualised.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Time to market: time is a cost, not the least of which includes the overhead
+    burden that someone must carry while the solution is developed. There can also
+    be huge costs if market windows are missed.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Model training: the cost of training the model: data licence costs, infrastructure
+    costs, and people costs are the big three.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: Model Training
+  prefs: []
+  type: TYPE_NORMAL
+- en: All Machine Learning (“ML”) solutions require training on data that covers the
+    intended use of the solution.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Before the “Tipping Point”, solution developers or specialised customer personnel
+    trained AI models on the data that was directly related to the use case an organisation
+    was trying to solve with the AI solution.
+  prefs: []
+  type: TYPE_NORMAL
+- en: If the AI integration platform chosen was a product, the development process
+    would have involved conducting model training. However, whether the situation
+    permitted the trained models to be made available or not relied on the specific
+    circumstances.
+  prefs: []
+  type: TYPE_NORMAL
+- en: What OpenAI and other GenAI platform vendors did was to train their models on
+    increasingly massive amounts of data from a broad range of sources without any
+    specific application use case in mind. Or, if they perhaps had reference use cases
+    in mind, it was a very broad set.
+  prefs: []
+  type: TYPE_NORMAL
+- en: This model “pre-training” involves training of the model the vendor performs
+    on the AI platform before release. For example, OpenAI say they trained GPT on
+    all the Wikipedia data, which includes millions of pages and hundreds of thousands
+    of categories and links.
+  prefs: []
+  type: TYPE_NORMAL
+- en: The result of the massive pre-training is that the product is available for
+    immediate use by anyone, at least in theory. Andrew Ng provided an interesting
+    quantification of this below.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Massive Reductions in Costs and Time to Deliver
+  prefs:
+  - PREF_H3
+  type: TYPE_NORMAL
+- en: 'After the “Tipping Point” there was a massive reduction in time-to-deliver
+    for AI solutions, as you can see in the chart below (derived from Andrew Ng’s
+    video presentation “[Opportunities in AI](https://youtu.be/5p248yoa3oE)”), the
+    value propositions are compelling: when applied to the right kind of problem.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: For example, Andrew Ng reported that ChatGPT reduced the cost of developing
+    and deploying an AI application by at least two (2) orders of magnitude, from,
+    for example, 140 working days to 1-2 days, as shown in the figure below.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![Comparative AI Application Deployment Speeds (adapted from Andrew Ng)](image_rsrc1G4.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: Figure 2\. Comparative AI Application Deployment Speeds (adapted from Andrew
+    Ng)
+  prefs: []
+  type: TYPE_NORMAL
+- en: But where is the “sweet spot” for application development? I’m sure Andrew Ng
+    meant software development, but is that all? How do you figure out what applications
+    have the greatest affinity for appliances like ChatGPT? How many ways can consumer
+    users of OpenAI’s ChatGPT apply it to their problem domains?
+  prefs: []
+  type: TYPE_NORMAL
+- en: The tool is not without its downsides, but the barrier to entry is effectively
+    zero, and the barriers there may be largely in the knowledge and perception of
+    the product rather than technical or inherent to the product.
+  prefs: []
+  type: TYPE_NORMAL
+- en: OpenAI rode (drove?) these two curves along their natural evolutionary trajectories
+    to achieve the “tipping point”, where the pre-training massively outstripped the
+    probable scope of interest of any one individual or team, and reduced the cost
+    of implementation to almost zero.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![AI Tipping Point Visualised](image_rsrc1G5.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: Figure 3\. AI Tipping Point Visualised
+  prefs: []
+  type: TYPE_NORMAL
+- en: Note that those evolutionary curves are for illustrative purposes only. There
+    are no specific units on the y-axis and you can’t generate a trendline. The only
+    objective fact in the chart is the date of ChatGPT release.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Conclusion
+  prefs:
+  - PREF_H4
+  type: TYPE_NORMAL
+- en: The transition marked by the release of ChatGPT signifies a fundamental shift
+    in AI technology, from specialised, narrow applications to versatile, highly capable
+    systems. This “tipping point” has made AI more accessible, powerful, and integrated
+    into everyday business and personal tasks, shaping the future landscape of technology
+    and human interaction.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'ChatGPT: The AI Appliance for Everyone'
+  prefs:
+  - PREF_H2
+  type: TYPE_NORMAL
+- en: OpenAI’s ChatGPT has dramatically increased public access to artificial intelligence
+    (AI). It simplifies AI interaction, offering both opportunities and challenges,
+    and can be thought of as an AI appliance accessible to anyone via the internet.
+  prefs: []
+  type: TYPE_NORMAL
+- en: The Complexity and Opacity of GPT
+  prefs:
+  - PREF_H3
+  type: TYPE_NORMAL
+- en: GPT (Generative Pre-trained Transformer) is a sophisticated and complex machine.
+    While some aspects of its architecture and functionality are transparent, a significant
+    portion remains proprietary and opaque.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Many existing articles and papers that try to explain ChatGPT either become
+    too technical or rely on superficial explanations. These pieces often end up confusing
+    the user rather than clarifying how ChatGPT works. Even when experts do attempt
+    to unpack the technology, like Stephen Wolfram’s detailed analysis, the depth
+    and complexity make it difficult for the average user to grasp.
+  prefs: []
+  type: TYPE_NORMAL
+- en: There’s a high level of misunderstanding about what ChatGPT can and cannot do.
+    This is partly because explanations often mix up answers to multiple questions,
+    like “How does ChatGPT work?”, “How was it built?”, and “What is Artificial Intelligence?”.
+    Marketing factors also contribute to this confusion.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Just like a household appliance, ChatGPT has a simplified user interface and
+    specific functionalities. It’s designed for a broad user base and hides its internal
+    complexities.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Characteristics of an Appliance
+  prefs:
+  - PREF_H3
+  type: TYPE_NORMAL
+- en: 'Specific Functional Profile: It does what it claims to do.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Simplified User Interface: Only essential controls are exposed.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Hidden Internal Technology: What’s “under the hood” remains largely concealed.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Target Audience: Aimed at the public, not just tech-savvy users.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: However, ChatGPT is not a perfect appliance because of its probabilistic nature
+    and sometimes incorrect responses. Despite the marketing and user interfaces simplifying
+    the experience, the range of its functionalities remains limited.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Knowing the inner workings of ChatGPT is mostly irrelevant for users. What matters
+    more is understanding what it does well and how to maximise its utility for your
+    specific needs.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Crossing the Skills Bootstrapping Chasm
+  prefs:
+  - PREF_H2
+  type: TYPE_NORMAL
+- en: We all start out as novices at anything we do. And when we start out, we all
+    “suck” at it. But with the proper practice and help, we get better. Kathy Sierra
+    describes this as starting in the “Suck Zone”. I’ve extended this idea to ChatGPT
+    and call this process “Skills Bootstrapping”, because much of what we learn with
+    ChatGPT emerges from the interaction cycle. We use the experience of recent interactions
+    to bootstrap our skills for upcoming cycles. The problem is that without direction
+    it can be a random activity.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![Skills Bootstrapping (Adapted from Kathy Sierra)](image_rsrc1G6.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: Figure 4\. Skills Bootstrapping (Adapted from Kathy Sierra)
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'You can see that Kathy loosely divides ability (aka expertise) into three zones:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '“Suck” Zone: beginners and others who generally “suck” at the skill.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: '“Competent” Zone: people who have overcome the “Suck Threshold” and become
+    confident and productive.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: '“Badass” Zone: someone highly proficient — “world-class” at this skill.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: '“Along the way they’ll hit many milestones, some more crucial than others.
+    But of all points on the curve, the two most important are crossing the Suck Threshold
+    and crossing the Badass Threshold.” in “Badass: Making Users Awesome” (p. 67).
+    O’Reilly Media. Kindle Edition.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: The emphasis here is on the word “right”. Using the tool won’t help you escape
+    what Kathy Sierra calls “The Suck Zone”. Try different learning strategies to
+    make the progress shown in the above diagram.
+  prefs: []
+  type: TYPE_NORMAL
+- en: If we don’t have some help with our approach to progressive development of ChatGPT
+    skills, then we risk being blocked by the “chasm” - the vast gap between very
+    basic skills and getting out of the “suck zone”.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![The Skills Boostrapping Chasm](image_rsrc1G7.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: Figure 5\. The Skills Boostrapping Chasm
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'The Skills Boostrapping Chasm gap is a transitional blocker that most people
+    experience: we have just enough skills to make ChatGPT “work” - to input prompts
+    and get results, but we don’t have enough skills to prevent poor use or even mis-use.
+    In other words we know enough to get ourselves into trouble but not enough to
+    get out of trouble.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'This chasm is caused as much by frustration as by lack of skill. This is particularly
+    the case if people try to get too far ahead with their knowledge of ChatGPT internals
+    or by attempting to learn Prompt Engineering too soon. Another way is to buy lists
+    of prompts: it’s fine if they work but if they need tweaking to work in your environment
+    or particular use case, perhaps you don’t have the skill to make the change effectively.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: The result of not “Crossing the Chasm” is being stuck in the “Suck Zone” because
+    the frustration and poor results outweigh the time and effort you’re prepared
+    to put in.
+  prefs: []
+  type: TYPE_NORMAL
+- en: The way across the skills bootstrapping chasm is by getting help that is targeted
+    and appropriate to the precise stage and circumstances of each user. This includes
+    such things as coaches or mentors, high-quality courses, and, of course, high-quality
+    books like this one.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![Stuck in the “Suck Zone” (Adapted from Kathy Sierra)](image_rsrc1G8.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: Figure 6\. Stuck in the “Suck Zone” (Adapted from Kathy Sierra)
+  prefs: []
+  type: TYPE_NORMAL
+- en: The ChatGPT Black Box Mindset
+  prefs:
+  - PREF_H2
+  type: TYPE_NORMAL
+- en: A “black box” is a system whose internal operations are not understood by the
+    user. Users only interact with it through its inputs and outputs.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Adopting a “black box” mindset with ChatGPT has several advantages. It frees
+    us from misconceptions, allows us to focus on what we can control, and facilitates
+    a better understanding of ChatGPT’s strengths and weaknesses.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'This is a very simple concept, but it can be a double-edged sword, introducing
+    downsides as well as upsides:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: It opens a market for people wanting to explain the internals, even if they
+    themselves don’t fully understand it.
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: It leads to user-generated myths and misunderstandings about what’s happening
+    inside the box.
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: It opens up the potential for “Cargo Cult AI,” where people form incorrect theories
+    about what’s happening inside the box.
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: The first step to use ChatGPT effectively is to accept its complexity as a unit
+    and embrace it as a black box. This enables us to focus on the inputs and outputs,
+    which are within our control.
+  prefs: []
+  type: TYPE_NORMAL
+- en: A substantial part of the current market offerings for ChatGPT revolves around
+    prompts. However, these often ignore guidelines about evaluating the outputs or
+    understanding the variations in responses due to ChatGPT’s probabilistic nature.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Understanding how to better control inputs and evaluate outputs is crucial for
+    optimising ChatGPT’s utility. It’s not just about making the process seem “plug-and-play.”
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'While you can pursue a deeper understanding of how GPT, AI, and ML work, such
+    knowledge isn’t necessary for the practical use of ChatGPT as an AI appliance.
+    A “black box” approach can often be more beneficial, helping you focus on what
+    you can control: the inputs and the outputs.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: I will unpack the components of the ChatGPT “Black-box Mindset” in the next
+    section.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Unpacking the ChatGPT Black Box Mindset
+  prefs:
+  - PREF_H1
+  type: TYPE_NORMAL
+- en: We can describe the Black Box Mindset to the ChatGPT AI Appliance as comprising
+    six factors.
+  prefs: []
+  type: TYPE_NORMAL
+- en: This chapter gives an overview and then unpacks each of these factors in more
+    detail.
+  prefs: []
+  type: TYPE_NORMAL
+- en: For a more advanced dive into the six factors, including practical hints and
+    prompt examples, please refer to my book [“Advanced ChatGPT Application Primer”](https://bjl.ink/GptAP).
+  prefs: []
+  type: TYPE_NORMAL
+- en: Six Components Enable One Mindset
+  prefs:
+  - PREF_H2
+  type: TYPE_NORMAL
+- en: 'The Black Box ChatGPT Interaction Framework guides users in effectively leveraging
+    ChatGPT’s capabilities while addressing inherent limitations and ensuring responsible
+    usage within organisations. This framework encompasses six key components that
+    collectively enable users to interact with ChatGPT in a productive, ethical and
+    informed manner. The six components are: Engage the Black-Box Interface, Play
+    to ChatGPT Strengths, Understand Critical ChatGPT Constraints, Focus on What the
+    User Can Control, Adopt Curious Abundance, and Implement Black-Box Governance.
+    The figure below summarises these components.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![GPT Black-box Mindset - Summary](image_rsrc1G9.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: Figure 7\. GPT Black-box Mindset - Summary
+  prefs: []
+  type: TYPE_NORMAL
+- en: 1\. Engage the Black-Box Interface
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'The “GPT Black-box Interface” is the GPT equivalent of the Turing Test, which
+    I wrote about in GPT Doctrine #2\. Your interaction with GPT is based only on
+    your inputs and GPT’s outputs. You ignore (or perhaps suppress) what happens on
+    the other side of the interface. It could be a person, a troop of monkeys, or
+    an alien mother-ship. You don’t care. You care about what you get as output for
+    its use and to inform your future inputs. The Black-Box interface is the ultimate
+    in empiricism.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 2\. Play to ChatGPT Strengths
+  prefs: []
+  type: TYPE_NORMAL
+- en: To harness ChatGPT’s full potential, users must play to its strengths. ChatGPT
+    excels in natural language processing, human-like interactions, and self-improving
+    capabilities. By focusing on these strengths, users can effectively use the model
+    for various applications, such as content creation, customer support, and data
+    analysis. Recognising and leveraging these strengths ensures that interactions
+    with ChatGPT are both efficient and effective. ChatGPT’s strengths are as amazing
+    as its weaknesses are surprising. We must not mistake a strength at a superficial
+    level as being an indication of underlying capability that just doesn’t exist.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 3\. Understand Critical ChatGPT Constraints
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Just was we must be aware of GPT’s strengths and not kid ourselves of their
+    origins, we must also be objective and mindful of GPT’s significant weaknesses.
+    I call them ‘constraints’ because they are indicators of where not to use ChatGPT
+    - guidelines to avoid certain kins of problems lest we get blocked with substandard
+    results. In the “Black-box Mindset”, we understand four critical sets of constraints
+    that you must keep in mind when structuring your use of GPT. These constraints
+    are 1) No Sentient Knowledge, 2) Non-deterministic responses, 3) Response Limitations
+    and 4) Errors in Plain Sight (e.g. Bias and Non-explainability). (I’ll expand
+    on these in a later yarn). More recently, we can probably add a fifth constraint:
+    infrastructure performance and availability. Since DevDay in 2023, the OpenAI
+    platform has been highly variable in its performance. (That’s a neutral way of
+    saying, some days it sucks!) One day, I’ll ask GPT to process a mass of data and
+    get almost an instant response. On other days, it’s unusable on even simple tasks.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 4\. Focus on What the User Can Control
+  prefs: []
+  type: TYPE_NORMAL
+- en: There are three factors that you, as a user, have complete control over when
+    using GPT. These are 1) Problem Selection, 2) Prompt Structure and Content and
+    3) How you use the responses. Everything else is built into the GPT architecture
+    or under the control of OpenAI or, more recently, other software partners such
+    as plugin builders and GPTs developers. The “Black-box Mindset” helps you understand
+    the three things you have control over, and leverage them for your best outcomes.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 5\. Adopt Curious Abundance
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'The “Black-box Mindset” includes a curious questioning openness to the fact
+    that GPT is constantly evolving and that we don’t always know everything about
+    what it does or how it does it. “Curious Abundance” underscores the almost magical
+    nature of GPT: we can never say with any certainty that we know everything about
+    its capabilities. Not only is OpenAI continually tweaking the models and developing
+    new capabilities, but there is evidence of a “Ghost in the Machine” that surprises
+    us with things we never expected.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 6\. Implement Black-Box Governance
+  prefs: []
+  type: TYPE_NORMAL
+- en: Where GPT is used in enterprise environments of any sort, we need to consider
+    some level of governance. Governance is — broadly speaking — the set of policies,
+    procedures, and tools that help organisations protect themselves from negative
+    events, such as security breaches. The term “Black-box Governance” is almost a
+    contradiction because governance is ultimately about risk management (RM), and
+    with RM, you want to know as much about the risk parameters as possible. But we
+    play with the cards OpenAI deals us. Some things are improving, but some things,
+    like “Explainability”, are unlikely ever to be addressed in GPT because of architectural
+    constraints.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Conclusion
+  prefs: []
+  type: TYPE_NORMAL
+- en: The Black Box ChatGPT Interaction Framework provides a comprehensive approach
+    to engaging with ChatGPT. By addressing each of the six key components, users
+    and organisations can enhance the effectiveness, reliability, and ethical use
+    of ChatGPT. This framework empowers users to navigate the complexities of interacting
+    with a black-box AI model, ensuring their use of ChatGPT is innovative and responsible.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Engage the Black-Box Interface
+  prefs:
+  - PREF_H2
+  type: TYPE_NORMAL
+- en: In this section, we cover the first component of the ChatGPT “Black-box” Mindset.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![Black-box Mindset #1](image_rsrc1GA.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: 'Figure 8\. Black-box Mindset #1'
+  prefs: []
+  type: TYPE_NORMAL
+- en: The Human-ChatGPT Black-box Interface
+  prefs:
+  - PREF_H3
+  type: TYPE_NORMAL
+- en: The “Black-box interface” is a concept that simplifies Human-ChatGPT interaction
+    by focusing on inputs and outputs while disregarding the GPT engine’s complex
+    internals. This empirical approach helps users leverage ChatGPT’s strengths effectively
+    and objectively. The Black-box Interface is the ChatGPT extension of the “Imitation
+    Game” conceived by Alan Turing.
+  prefs: []
+  type: TYPE_NORMAL
+- en: In the original “Imitation Game”, also called the “Turing Test”, the concept
+    was for a person (C) to interact with something on the other side of a wall, by
+    sending written messages back and forth through a slot. The challenge was for
+    the person (C) to determine whether another person (B) was on the other side of
+    the wall, or it was a computer (A).
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![Original Turing Test](image_rsrc1GB.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: Figure 9\. Original Turing Test
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Image Credit: [Juan Alberto Sánchez Margallo - File:Test_de_Turing.jpg, CC
+    BY 2.5](https://commons.wikimedia.org/w/index.php?curid=57298943).'
+  prefs: []
+  type: TYPE_NORMAL
+- en: The Black-box interface is the natural extension of this, because we don’t care
+    what’s on the other side of the wall. Our purpose is to solve problems or perform
+    other functions based on the responses we receive.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![ChatGPT Black-box Interface](image_rsrc1GC.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: Figure 10\. ChatGPT Black-box Interface
+  prefs: []
+  type: TYPE_NORMAL
+- en: Engaging with ChatGPT via the Black-box interface involves understanding the
+    model’s operational dynamics without necessarily knowing its internal workings.
+  prefs: []
+  type: TYPE_NORMAL
+- en: So, we end up with the simplest of interaction concepts for ChatGPT, one which
+    ignores what goes on “inside the box”.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![Simplest ChatGPT Interaction Concept](image_rsrc1GD.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: Figure 11\. Simplest ChatGPT Interaction Concept
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'This topic is covered in greater detail in the chapter “Advanced Black-box
+    Mindset #1 - Engaging with the Black-box Interface” in the book [“Advanced ChatGPT
+    Application and Operations Guide”](https://bjl.ink/GptAP).'
+  prefs: []
+  type: TYPE_NORMAL
+- en: ChatGPT Characteristics
+  prefs:
+  - PREF_H3
+  type: TYPE_NORMAL
+- en: Let’s review the key characteristics of ChatGPT that sit behind the fluff and
+    hyperbole. What really makes it tick?
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![Engage Black Box Interface Functions](image_rsrc1GE.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: Figure 12\. Engage Black Box Interface Functions
+  prefs: []
+  type: TYPE_NORMAL
+- en: ChatGPT is just a SaaS
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'On the other side of the ChatGPT interface is just a computer program, delivered
+    in a “Software as a Service” model. Sure it’s powerful, but it’s just a SaaS:
+    it has features and feature gaps; it has distinct strengths and weaknesses. The
+    platform has bugs and outages. Its developers and operators are humans who mostly
+    do awesome things but also make mistakes. We’ve lived with SaaS products for decades,
+    and ChatGPT is not much different in that respect. In some ways, it is potentially
+    more vulnerable than other because it has grown so fast.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: SaaS is Incredibly Powerful and Complex and New
+  prefs: []
+  type: TYPE_NORMAL
+- en: The GPT technology stack is enormously complex system that took many months
+    and gazillions of dollars to build. Only a few people in the world truly understand
+    how it works, although many think they do—a sort of LLM Dunning-Kruger effect.
+    Many of the ideas and opinions about ChatGPT capabilities are based on Artificial
+    Intelligence and computing concepts from before the [AI “Tipping Point”](#part0009.xhtml#a18V)
+    and so are potentially incorrect, misleading or flat-out unhelpful.
+  prefs: []
+  type: TYPE_NORMAL
+- en: ChatGPT SaaS provides almost Zero guidance on use
+  prefs: []
+  type: TYPE_NORMAL
+- en: The user interface to the ChatGPT client is beautifully simple—it’s just a text
+    box into which we type natural language. There’s no real vendor guidance on how
+    to use it, just a bunch of highly technical descriptions of the internals and
+    a limited description of capabilities. There are gazillions of information sources
+    all over the world. These sources of information often lack accuracy and quality
+    production, with many full of hype and unvalidated assertions. It seems there
+    is an assumption that using natural language for an interface requires less guidance
+    – folks will just “figure it out”.
+  prefs: []
+  type: TYPE_NORMAL
+- en: We’re Seduced by Natural Language
+  prefs: []
+  type: TYPE_NORMAL
+- en: By tapping into natural language, ChatGPT taps into something primal in our
+    brains, which probably makes ChatGPT seem far more intelligent and capable than
+    it is. How humans structure language maps directly into how we think (or at least
+    how we think we think). Society has conditioned us to associate excellent language
+    use with intelligence and other positive attributes. It’s difficult to avoid this
+    reaction when we encounter machine responses even moderately eloquent. Language
+    is also culture, so ChatGPT also taps into our cultural sense of belonging. Through
+    the magic of natural language, ChatGPT both persuades us that it is highly intelligent
+    and taps into our anthropomorphic tendencies.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Conclusion
+  prefs:
+  - PREF_H3
+  type: TYPE_NORMAL
+- en: ChatGPT is no doubt extremely powerful, but its design sings us a siren song
+    towards misunderstanding the product and misapplication of our efforts. Engaging
+    with ChatGPT via the Black-box interface will help us avoid the siren call.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Play to ChatGPT Strengths
+  prefs:
+  - PREF_H2
+  type: TYPE_NORMAL
+- en: To harness ChatGPT’s full potential, users must play to its strengths. ChatGPT
+    excels in natural language processing, human-like interactions, and self-improving
+    capabilities. By focusing on these strengths, users can effectively use the model
+    for various applications, such as content creation, customer support, and data
+    analysis. Recognising and leveraging these strengths ensures that interactions
+    with ChatGPT are both efficient and effective.
+  prefs: []
+  type: TYPE_NORMAL
+- en: The diagram below illustrates the key strengths and capabilities of GPT (Generative
+    Pre-trained Transformer) models, emphasising their multifaceted proficiency in
+    handling natural language tasks.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![GPT Strengths Summary](image_rsrc1GF.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: Figure 13\. GPT Strengths Summary
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'This topic is covered in greater detail in the chapter “Advanced Black-box
+    Interface #2 - Play to ChatGPT Strengths” in the book [“Advanced ChatGPT Application
+    and Operations Guide”](https://bjl.ink/GptAP).'
+  prefs: []
+  type: TYPE_NORMAL
+- en: GPT Key Strengths
+  prefs:
+  - PREF_H3
+  type: TYPE_NORMAL
+- en: Natural Language Processing
+  prefs: []
+  type: TYPE_NORMAL
+- en: GPT-4 exhibits a remarkable understanding of human language. It can generate
+    human-like text that is contextually relevant, grammatically correct, and coherent
+    over long passages. This makes it a powerful tool for a variety of tasks, such
+    as drafting project documentation, generating code, and facilitating communication
+    among stakeholders.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Natural Language Processing includes four key functions: Prompt Language Parsing,
+    Separation of Concerns, Content Completion & Transformation, and Output Language
+    Moderation.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![NLP Functions](image_rsrc1GG.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: Figure 14\. NLP Functions
+  prefs: []
+  type: TYPE_NORMAL
+- en: Human-like Interactions
+  prefs: []
+  type: TYPE_NORMAL
+- en: GPT models can simulate interactions that are coherent, contextually relevant,
+    and personalised. The key aspects include the ability to interact with Plausible
+    conversations, Personalised responses, and Real-time generation.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Plausible: GPT models generate responses that are plausible and contextually
+    appropriate.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Personalised: Personalisation is a critical aspect of human-like interactions.
+    GPT models can tailor responses based on user preferences, previous interactions,
+    and specific contextual information.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Real-time: The ability to generate responses in real-time is essential for
+    maintaining the flow of conversation.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: The ChatGPT responses are not “canned” - they are generated directly in response
+    to the inputs each user provides over the course of a conversation.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Much of this “humanity” is down to the strengths of NLP, as I described in the
+    section on Engaging the Black-box Interface [We’re Seduced by Natural Language](#part0010.xhtml#a195).
+    If ChatGPT responds erratically, we often interpret this in a human context, such
+    as “it’s lying” or “it’s having a bad day”.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Self-improving Capability
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'This capability is essential for maintaining and improving the quality and
+    relevance of the outputs generated by the model. The key components of this capability
+    include: Self-learning, Model updates, and In-session improvement.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Self-learning: GPT models can learn from interactions and experiences.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Model Updates: Periodic updates to the model are crucial for its improvement.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'In-session Improvement: In-session improvement refers to the model’s ability
+    to enhance its performance within a single interaction session.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Conclusion
+  prefs:
+  - PREF_H3
+  type: TYPE_NORMAL
+- en: ChatGPT users will get better results by ensuring that your use of ChatGPT plays
+    to these strengths, and not the limitations and weaknesses that we will outline
+    in the next section.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Understand Critical ChatGPT Constraints
+  prefs:
+  - PREF_H2
+  type: TYPE_NORMAL
+- en: Despite its strengths, GPT-4 has certain limitations that users need to be aware
+    of. In the figure below, we observe an overview of the critical constraints associated
+    with GPT models.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![GPT Critical Constraints: Summary](image_rsrc1GH.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: 'Figure 15\. GPT Critical Constraints: Summary'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'These limitations are summarised below. This topic is covered in greater detail
+    in the chapter “Advanced Black-box Interface #3 - Avoid ChatGPT Constraints” in
+    the book [“Advanced ChatGPT Application and Operations Guide”](https://bjl.ink/GptAP).'
+  prefs: []
+  type: TYPE_NORMAL
+- en: No Sentient Knowledge
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'This constraint is fundamental to understanding the boundaries of what GPT
+    models can and cannot do, including:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Messages Have No Semantic Meaning
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: GPT is Not Generic AI or AGI
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: Understanding the “No Sentient Knowledge” constraint is crucial for effectively
+    using ChatGPT. While the model excels in generating human-like text, users must
+    be aware of its limitations and exercise caution in applications requiring deep
+    understanding or critical decision-making. This awareness helps set realistic
+    expectations and ensures responsible use of the technology.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Response Variability
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'This constraint highlights the nature of the model’s output, which can be influenced
+    by various factors leading to inconsistent or varied responses. Understanding
+    this variability is crucial for users to set expectations and leverage the model
+    effectively, including:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Responses are Probabilistic, Not Logic-driven
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: The Same Prompt Will Not Always Generate the Same Result
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: Recognising and managing response variability is essential for effectively using
+    ChatGPT. While this characteristic can introduce challenges, it also offers creative
+    and dynamic content generation opportunities. By understanding the factors that
+    contribute to variability and implementing appropriate strategies, users can harness
+    the strengths of ChatGPT while mitigating potential drawbacks.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Limited Depth Responses
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'This limitation affects the model’s performance, particularly in specialised
+    or highly technical fields. Understanding this constraint helps users set realistic
+    expectations and develop strategies to address or mitigate its impact, including:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Lack of Deep-level Expert Responses
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: Responses “Converge” at Mid-level Skill
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: While GPT models excel in generating human-like text and providing general information,
+    their limited depth in specialised responses is a critical constraint. By understanding
+    and addressing this limitation, users can effectively leverage GPT’s strengths
+    while ensuring the accuracy and comprehensiveness of the information in specialised
+    or technical contexts.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Platform Limits
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'These limits affect the model’s performance and usability in various applications.
+    Understanding these platform constraints is essential for effectively using GPT
+    models while managing expectations regarding their capabilities and limitations,
+    including:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Limited Context Window (Conversational Span)**
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: Limited Data Size
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: Recognising and managing the platform limits of GPT models is essential for
+    leveraging their capabilities effectively. By understanding the constraints related
+    to the context window and data size, users can develop strategies to mitigate
+    their impact, ensuring more coherent and useful interactions. These strategies
+    enable the effective application of GPT models across various use cases despite
+    the inherent platform limitations.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Limited Built-in External Integration
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'This constraint has significant implications for how GPT models can be used
+    in real-world applications, especially those requiring interaction with external
+    data sources and services, including:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Limited Connectivity
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: Manual Integration
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'With the release of GPT-4o, significant advancements have been made to address
+    the limited built-in external integration capabilities. Notably, GPT-4o introduces
+    the ability to connect to popular cloud storage services such as Google Drive
+    and Microsoft OneDrive. These recent additions substantially enhance the model’s
+    ability to interact with external systems and data sources, including:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Google Drive Integration
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: Microsoft OneDrive Integration
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: The limited built-in external integration has been a significant constraint
+    for GPT models, impacting their ability to interact with external systems and
+    data sources. However, these limitations are being addressed with the advancements
+    introduced in GPT-4o, including integrations with Google Drive and Microsoft OneDrive.
+    These improvements enhance the model’s functionality, simplify development processes,
+    and expand its applicability in various real-world scenarios.
+  prefs: []
+  type: TYPE_NORMAL
+- en: GPT Contingent Weaknesses
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'These weaknesses may not be inherent to the model itself but are consequences
+    of integrating ChatGPT into various workflows and processes. Understanding these
+    contingent weaknesses is essential for effectively managing and mitigating their
+    impact on productivity and overall system performance, including:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Additional Overhead of verifying responses
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: Unclear Security Policies
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: Bias and Ethical Considerations
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: Dependency on Model Updates
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: User Training and Adaptation
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: Recognising and managing GPT contingent weaknesses is crucial for effectively
+    integrating ChatGPT into workflows and business processes.. While the model offers
+    significant advantages in generating human-like text and automating tasks, the
+    indirect consequences, such as additional overhead, unclear security policies,
+    and the need for bias mitigation, must be addressed. By understanding these contingent
+    weaknesses and implementing appropriate strategies, organisations can maximise
+    the benefits of ChatGPT while minimising potential risks and inefficiencies.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Other ChatGPT Weaknesses
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'These weaknesses are diverse and can influence various aspects of its performance,
+    usability, and integration into broader systems and workflows, including:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Non-linear Dependency on Input
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: Other Bias
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: Non-autonomous Processing
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: Repetitive Responses
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: Overly Generalised Responses
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: Data Loss/Security Issues
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: Verbose Responses
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: Over-dependence on AI
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: Early Stage of Product Evolution
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: No Doctrine or Usage Guidelines
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: No Explainability / Audit
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: Addressing these additional weaknesses is essential for maximising the effectiveness
+    of ChatGPT. By understanding and managing these limitations, users can better
+    integrate the model into their workflows, ensure data security, mitigate bias,
+    and maintain human oversight. As the technology evolves, ongoing efforts to improve
+    transparency, develop usage guidelines, and enhance the model’s capabilities will
+    be crucial for its continued success and reliability.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Focus on What the User can Control
+  prefs:
+  - PREF_H2
+  type: TYPE_NORMAL
+- en: 'In this section, we cover the fourth component of the ChatGPT “Black-box” Mindset.
+    This topic is covered in greater detail in the chapter “Advanced Black-box Interface
+    #4 - Focus on what the user can control” in the book [“Advanced ChatGPT Application
+    and Operations Guide”](https://bjl.ink/GptAP).'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![Black-box Mindset #4](image_rsrc1GJ.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: 'Figure 16\. Black-box Mindset #4'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Despite ChatGPT’s black-box nature, users have significant control over their
+    interactions with the model. This component highlights the importance of user
+    control in strategy formulation, attitude and expectations, prompt structure and
+    content, interaction use cases, and response use. By focusing on these controllable
+    elements, users can optimise their interactions and derive maximum value from
+    ChatGPT.
+  prefs: []
+  type: TYPE_NORMAL
+- en: In this section, we will explore the various aspects of ChatGPT that users can
+    control to optimise their interactions and achieve desired outcomes. Understanding
+    these elements allows users to leverage the full potential of ChatGPT while managing
+    its limitations effectively. The key areas of user control are outlined in the
+    figure below and include strategy, attitude, and expectations, prompt structure
+    and content, GPT interaction, and the use of responses.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![GPT What the user can control- Summary](image_rsrc1GK.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: Figure 17\. GPT What the user can control- Summary
+  prefs: []
+  type: TYPE_NORMAL
+- en: Deciding on the Strategy for ChatGPT Use in a User’s Problem Domain
+  prefs:
+  - PREF_H3
+  type: TYPE_NORMAL
+- en: 'When integrating ChatGPT into a specific problem domain, it is essential to
+    develop a clear and effective strategy. Three key components should guide this
+    strategy: defining the objective, selecting the problem, and formulating an operational
+    strategy. Each of these components plays a critical role in ensuring that the
+    use of ChatGPT aligns with the user’s goals and delivers meaningful results.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: What is the Objective?
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'The first step in developing a strategy for using ChatGPT is clearly defining
+    the objective. To establish a clear objective, users should consider the following:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'SMART Goals: Ensure that the objectives are Specific, Measurable, Achievable,
+    Relevant, and Time-bound.'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'What is Enabled?: Understand the capabilities and limitations of ChatGPT in
+    the context of the problem domain.'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: By clearly defining the objective, users can create a focused roadmap for integrating
+    ChatGPT into their workflows.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Problem Selection
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Select the specific problems or tasks where ChatGPT can be effectively applied.
+    This involves identifying areas within the problem domain that can benefit most
+    from ChatGPT’s capabilities. To select the right problems, consider the following:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Assessing Relevance and Impact: Evaluate which problems are most relevant to
+    the objectives and will have the greatest impact if solved.'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Feasibility Analysis: Determine the feasibility of applying ChatGPT to the
+    selected problems.'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: By carefully selecting problems that align with the objectives and are feasible
+    to tackle, users can ensure that their efforts are both effective and efficient.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Operational Strategy
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Once the objectives and problems are defined, the final step is to develop
+    an operational strategy. A robust operational strategy ensures that the use of
+    ChatGPT is systematic and well-coordinated. Key aspects of an operational strategy
+    include:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Implementation Plan: Develop a detailed plan for integrating ChatGPT into the
+    workflows.'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Monitoring and Evaluation: Establish mechanisms for monitoring the performance
+    of ChatGPT and evaluating its impact.'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Risk Management: Identify potential risks and develop strategies to mitigate
+    them.'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: By developing a comprehensive operational strategy, users can ensure that the
+    integration of ChatGPT is well-executed and delivers the desired outcomes.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Conclusion
+  prefs: []
+  type: TYPE_NORMAL
+- en: Deciding on the strategy for using ChatGPT in a user’s problem domain involves
+    a systematic approach to defining objectives, selecting problems, and developing
+    an operational strategy.
+  prefs: []
+  type: TYPE_NORMAL
+- en: User Attitude & Expectations of ChatGPT
+  prefs:
+  - PREF_H3
+  type: TYPE_NORMAL
+- en: 'The success of integrating ChatGPT into various workflows heavily depends on
+    the user’s attitude and expectations. Properly managing these factors can significantly
+    enhance the effectiveness of interactions with the model. The topic breakdown
+    in the figure below highlights four critical areas that influence user attitude
+    and expectations: Accuracy, Relevance, Anthropomorphism, and Knowledge Scope.
+    Understanding and addressing these areas helps users set realistic expectations
+    and interact with ChatGPT more effectively.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Accuracy
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Accuracy refers to the correctness and reliability of the responses generated
+    by ChatGPT. Users should be aware of the following aspects:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Expectation Management: Users need to understand that while ChatGPT is highly
+    capable, it is not infallible.'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Verification: It is essential to verify the information provided by ChatGPT,
+    especially for tasks requiring high precision or involving sensitive data.'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: Relevance
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Relevance pertains to how well ChatGPT’s responses align with the user’s needs
+    and context. Key considerations include:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Contextual Prompts: Providing clear and specific prompts increases the relevance
+    of ChatGPT’s responses.'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Iterative Refinement: Users may need to refine their prompts and interact iteratively
+    with ChatGPT to achieve the desired relevance.'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: Anthropomorphism
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Anthropomorphism is the attribution of human characteristics to ChatGPT, which
+    can influence user expectations and interactions:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Understanding Limitations: Users should recognise that ChatGPT, despite its
+    human-like text generation, is not sentient and does not possess human understanding
+    or emotions.'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Interaction Style: While users may interact with ChatGPT conversationally,
+    they should remember that the model’s responses are generated through statistical
+    patterns rather than genuine comprehension.'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: Knowledge Scope
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'The scope of ChatGPT’s knowledge is another critical factor influencing user
+    expectations:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Training Data Boundaries: ChatGPT’s knowledge is based on its training data,
+    which includes information available until a certain point.'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Domain Expertise: While ChatGPT can provide valuable insights across various
+    domains, it is not a substitute for domain-specific experts.'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: Conclusion
+  prefs: []
+  type: TYPE_NORMAL
+- en: Managing user attitude and expectations is crucial for effectively using ChatGPT.
+    By understanding the model’s accuracy, ensuring relevance through contextual prompts,
+    recognising the limitations of anthropomorphism, and being aware of the knowledge
+    scope, users can set realistic expectations and interact with ChatGPT more effectively.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Prompt Structure and Content
+  prefs:
+  - PREF_H3
+  type: TYPE_NORMAL
+- en: 'The structure and content of prompts are critical components of user control
+    in interactions with ChatGPT. Well-crafted prompts can significantly enhance the
+    quality and relevance of the responses generated by the model. By understanding
+    and effectively using various elements of prompt design, users can optimise their
+    interactions with ChatGPT. The figure below breaks down the key aspects of prompt
+    structure and content into six categories: Prompt Intent, Prompt Data, Prompt
+    Context, Prompt Directives, Prompt Type, and Prompt Framework.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Prompt Intent
+  prefs: []
+  type: TYPE_NORMAL
+- en: The intent of the prompt defines the purpose or goal of the interaction. Clarifying
+    the intent helps guide ChatGPT to generate responses that align with the user’s
+    objectives.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Clarity and Specificity: Clearly stating the purpose of the prompt ensures
+    the model understands the user’s needs. Goal-Oriented Design: Designing prompts
+    with a clear end goal in mind helps streamline the interaction.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Prompt Data
+  prefs: []
+  type: TYPE_NORMAL
+- en: The data provided within the prompt plays a crucial role in shaping the response.
+    Including relevant and accurate data helps ChatGPT generate more precise and informed
+    answers.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Data Inclusion: Incorporate relevant facts, figures, and details within the
+    prompt to provide a solid foundation for the response. Data Accuracy: Ensure that
+    the data provided is accurate and up-to-date.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Prompt Context
+  prefs: []
+  type: TYPE_NORMAL
+- en: Context provides background information that helps ChatGPT understand the broader
+    scenario in which the prompt is situated. Including context enhances the relevance
+    and coherence of the responses.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Background Information: Providing background information related to the prompt
+    ensures that ChatGPT comprehensively understands the topic. Contextual Clarity:
+    Clearly defining the context within the prompt helps avoid ambiguity.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Prompt Directives
+  prefs: []
+  type: TYPE_NORMAL
+- en: Directives are instructions that guide ChatGPT on how to approach the prompt.
+    These can include specific tasks, formatting requirements, or stylistic preferences.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Task-Specific Instructions: Including explicit instructions on what the model
+    should do (e.g., summarise, compare, explain) helps focus the response. Formatting
+    and Style: Specifying formatting requirements or stylistic preferences.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Prompt Type
+  prefs: []
+  type: TYPE_NORMAL
+- en: Different types of prompts can elicit different types of responses from ChatGPT.
+    Understanding the various prompt types helps users choose the most effective approach
+    for their needs.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Open-Ended vs. Close-Ended: Open-ended prompts encourage expansive and detailed
+    responses, while close-ended prompts solicit specific, concise answers. Question-Based
+    vs. Instruction-Based: Question-based prompts invite informative responses, whereas
+    instruction-based prompts provide more direct guidance to the model.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Prompt Framework
+  prefs: []
+  type: TYPE_NORMAL
+- en: A structured framework for prompts ensures consistency and comprehensiveness
+    in interactions with ChatGPT. Developing a standardised approach to prompt design
+    enhances overall effectiveness.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Consistent Structure: A consistent structure for prompts helps streamline interactions
+    and ensures that all necessary elements are included. Iterative Refinement: Continuously
+    refining and improving prompt design based on feedback and results helps optimise
+    interactions as the use continues.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Conclusion
+  prefs: []
+  type: TYPE_NORMAL
+- en: Effective prompt structure and content are pivotal in leveraging the full potential
+    of ChatGPT. By focusing on the intent, data, context, directives, type, and framework
+    of prompts, users can significantly enhance the relevance, accuracy, and usefulness
+    of the responses generated by the model.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Interaction Use Cases
+  prefs:
+  - PREF_H3
+  type: TYPE_NORMAL
+- en: Interaction use cases for ChatGPT illustrate how different combinations of prompts,
+    data, and context can be used to achieve specific objectives. Each use case provides
+    a unique approach to engaging with the model, enabling users to tailor their interactions
+    to meet various needs effectively. Understanding these use cases helps users leverage
+    the full potential of ChatGPT.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Overview of Interaction Components
+  prefs:
+  - PREF_H4
+  type: TYPE_NORMAL
+- en: This section defines the key components in the ChatGPT interaction model. The
+    figure below breaks down the interaction use cases into several categories, each
+    describing a unique combination of prompt, data, and context.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![Interaction Use Case Context](image_rsrc1GM.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: Figure 18\. Interaction Use Case Context
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Prompts: These are text chunks instructing ChatGPT to perform some action or
+    trigger a response. They are mandatory for every interaction with ChatGPT.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Context: These are text chunks providing information that is common to multiple
+    prompts or sessions. This could include background information like an organisation
+    overview, project description, or stakeholder list. It could also include output
+    instructions, such as always outputting in markdown. Context is optional but can
+    greatly enhance the relevance and accuracy of ChatGPT’s responses. In the ChatGPT
+    web client, you can enter “Custom Instructions” that are statements you might
+    normally include in prompts, but apply to multiple prompts or even every interaction
+    session that you have with ChatGPT.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Data: These are information blocks we want ChatGPT to process or consider in
+    some way based on the Prompt instructions and modulated by any Context information
+    that is provided. Data is optional but can be crucial for tasks that require processing
+    or analysing specific information. In recent versions, OpenAI has deployed new
+    capabilities for accessing data, including direct URL access to resources located
+    on the public internet, and integration points with Google Drive and Microsoft
+    Onedrive. You can also upload files into the Context Window or paste the text
+    data into the prompt window.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Memory: OpenAI introduced ChatGPT “Memory” in 2024, which is used to store
+    current guidance from users on their objectives, context or data. It’s not clear
+    whether this is a new capability or simply some user interface “sugar” to help
+    users better understand GPT operation. Nonetheless, you will often see a response
+    along the lines of “Memory Updated” if you make a categorical statement or instruction
+    to GPT.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: Basic ChatGPT Interaction Data Patterns
+  prefs:
+  - PREF_H4
+  type: TYPE_NORMAL
+- en: There are eight (8) basic interaction patterns, summarised below, and expanded
+    in my book [“Advanced ChatGPT Application Primer”](https://bjl.ink/GptAP).
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Simple Text Completion (Prompt only): the user provides a straightforward prompt
+    with no additional context or data. ChatGPT completes the text based solely on
+    the input prompt.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Simple Text Completion with Context: The user provides a prompt along with
+    some contextual information to guide the response. This additional context helps
+    ChatGPT generate more relevant and precise outputs.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Prompt and Data: The user provides a prompt along with specific data that ChatGPT
+    should incorporate into its response. The data enhances the relevance and accuracy
+    of the output.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Prompt and Data with Context: In this scenario, the user provides a prompt,
+    specific data, and additional context. This comprehensive input allows ChatGPT
+    to generate detailed and contextually accurate responses.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Multi-Step No Context: This pattern involves a sequence of prompts without
+    additional context. Each step builds on the previous response to achieve a more
+    complex objective.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Multi-Step with Context: In this pattern, the multi-step interaction includes
+    context at each step, guiding ChatGPT to produce more coherent and connected responses.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Input Data in Context: This pattern involves providing specific data within
+    a contextual framework. The context helps ChatGPT understand the relevance of
+    the data and generate an appropriate response.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Multi-Step with Context/Data: In this comprehensive pattern, multiple steps,
+    context, and data are combined. Each step builds on the previous ones, incorporating
+    additional information and context to refine the responses.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Understanding and using various interaction use cases allows users to tailor
+    their engagements with ChatGPT to meet specific needs effectively. By combining
+    prompts, data, and context in different ways, users can optimise the relevance,
+    accuracy, and coherence of the responses generated by the model. These use cases
+    provide a structured approach to interacting with ChatGPT, enhancing its utility
+    across a wide range of applications.
+  prefs: []
+  type: TYPE_NORMAL
+- en: ChatGPT Product Interaction
+  prefs:
+  - PREF_H3
+  type: TYPE_NORMAL
+- en: Depending on your use case, you’ll be using one or more of these three black-box
+    interfaces, each requiring more knowledge of the internal structure and function
+    of the GPT platform.
+  prefs: []
+  type: TYPE_NORMAL
+- en: ChatGPT Consumer Interface
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: OpenAI Playground Interface
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: OpenAI API Interface
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: OpenAI Custom GPT Interace
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: I’ll briefly cover these below, leading to more complete “user guides” for some
+    of them in later parts of the book.
+  prefs: []
+  type: TYPE_NORMAL
+- en: ChatGPT Consumer Interface
+  prefs:
+  - PREF_H4
+  type: TYPE_NORMAL
+- en: 'This black-box interface is what I’ve been describing mainly in the preceding
+    sections. There are three sub-types of this interface:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Free ChatGPT
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: ChatGPT Plus
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: Enterprise ChatGPT
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: Free ChatGPT Interface
+  prefs:
+  - PREF_H5
+  type: TYPE_NORMAL
+- en: This falls into the broad category of the interface I’ve described so far in
+    this description.
+  prefs: []
+  type: TYPE_NORMAL
+- en: ChatGPT Plus Interface
+  prefs:
+  - PREF_H5
+  type: TYPE_NORMAL
+- en: 'ChatGPT Plus adds three important capabilities to the Free version:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'GPT-4 Model: you can select the most advanced model, which includes plugins.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Custom Instructions: you can generate components of your prompts that are common
+    to a chat session or series of sessions. You can include such things as the role
+    that you want GPT to adopt, additional context, specific input and output formats
+    and other inputs. The ChatGPT User Interface splits these custom instructions
+    into two sections. As far as I can determine, both these sections have the same
+    effect on your prompt execution as the “System” message in the TextCompletion
+    API (see below). I’ve found Custom Instructions very useful in my own work with
+    ChatGPT.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Beta Previews: ChatGPT Plus users are eligible to preview new features of ChatGPT
+    when they are in early release.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: The Plus edition of ChatGPT is a paid plan and provides many features and options.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![ChatGPT Plus Version UI](image_rsrc1GN.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: Figure 19\. ChatGPT Plus Version UI
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Elements of the ChatGPT Plus UI:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Interaction Area: The interaction area is where users type their prompts to
+    engage with ChatGPT.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Account Icon: The account icon, located at the top right corner, provides access
+    to user account settings and information.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Canned Prompts: The canned prompts section offers a selection of predefined
+    questions and tasks that users can click on to quickly initiate interactions with
+    ChatGPT.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Model Selector: The model selector allows users to choose between different
+    versions of the ChatGPT model, such as GPT-3.5 and GPT-4.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'New Session Icon: The new session icon facilitates starting a fresh conversation
+    with ChatGPT.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Show/Hide Sidebar Icon: The show/hide sidebar icon toggles the visibility of
+    the sidebar, which contains navigation and additional features.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Conversation History / Custom GPT Sidebar: The conversation history sidebar
+    displays previous interactions with ChatGPT, allowing users to revisit and reference
+    past conversations.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Accuracy Disclaimer: The accuracy disclaimer is a reminder to users that ChatGPT,
+    while powerful, can make mistakes.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Help Icon: The help icon provides access to support resources and documentation.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: Enterprise ChatGPT
+  prefs:
+  - PREF_H5
+  type: TYPE_NORMAL
+- en: As the name implies Enterprise ChatGPT is a product offer from OpenAI targeted
+    at organisations with multiple users of ChatGPT.
+  prefs: []
+  type: TYPE_NORMAL
+- en: At the time of writing, I don’t have any access to Enterprise ChatGPT, so I
+    can’t comment from an experience perspective. But from the OpenAI product description
+    pages, the differences are primarily in relation to data security, user management
+    and service levels. The actual user interface is the same as ChatGPT Plus. I won’t
+    elaborate any more on Enterprise ChatGPT. If I get more experience with it, then
+    perhaps I’ll come and update this blurb.
+  prefs: []
+  type: TYPE_NORMAL
+- en: OpenAI Playground Interface
+  prefs:
+  - PREF_H4
+  type: TYPE_NORMAL
+- en: The OpenAI Playground is a web-based interface that provides a user-friendly
+    environment to experiment with OpenAI’s language models, such as , GPT-4, GPT-4o
+    and its inevitable successors like GPT-5\. It is an invaluable tool for developers,
+    researchers, and professionals to test and debug their conversational AI use cases,
+    prompts, and other applications. This Playground is often the first point of contact
+    for many users before they integrate the OpenAI API into their own applications.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Thus, your internal model of GPT needs to be richer, for example understanding
+    the parameter functions and the three types of messages. The rest of the Appliance
+    AI Black-box approach is the same.
+  prefs: []
+  type: TYPE_NORMAL
+- en: I’m not going to go into detail on the OpenAI Playground here. But the parameters
+    are illustrated in the following diagram and described in more detail after that.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![The OpenAI Playground User Interface](image_rsrc1GP.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: Figure 20\. The OpenAI Playground User Interface
+  prefs: []
+  type: TYPE_NORMAL
+- en: There are two areas you can add messages that are submitted to ChatGPT for processing
+    (“completion”).
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'User Message: The input text that you provide to the model. (also called a
+    “prompt”)'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'System Message: An additional text input that is submitted to the model with
+    the prompt to give additional context.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'There are eight (8) parameters you can set that control how the GPT engine
+    processes the prompts and generates an answer:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Mode: this is a legacy parameter – leave it set to “Chat” unless you know what
+    you’re doing'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Model: Specifies which GPT model to use (e.g., `text-davinci-002`, `text-ada-002`).'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Temperature: Controls the randomness of the model’s output (Range: 0 to 1).'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Maximum Length: Limits the number of tokens in the model’s output. (also called
+    “max_tokens”)'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Stop Sequences: Character strings that will stop generating further tokens.
+    The returned text will not contain the stop sequence. You can enter up to 4 Stop
+    sequences.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'TopP: Filters the model’s vocabulary before sampling the next token. (Range:
+    0 to 1) (also called “top_p “)'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Frequency Penalty: Penalises or rewards frequently occurring tokens. (Range:
+    -2 to 2)'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Presence Penalty: Penalises or rewards new tokens. (Range: -2 to 2)'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: There are also several “Helper Functions” at the top right of the main work
+    screen.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Presets: configurations of the above parameter settings and messages that you’ve
+    previously saved.'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Save Button: a button to save a named version of the current configuration.'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'View Code Button: a button that shows a code version of the current configuration
+    that can be copied and pasted into a code editor.'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Share Button: allows you to share an existing configuration with others.'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'More functions: three horizontal dots. Currently only shows one menu item,
+    which is to activate a Content Filter pop-up.'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: The OpenAI Playground is a critical tool for anyone looking to integrate conversational
+    AI into professional workflows. Its user-friendly interface, combined with a range
+    of customisable parameters, offers a valuable platform for prompt engineering
+    and testing, essential for developing high-quality conversational interfaces.
+  prefs: []
+  type: TYPE_NORMAL
+- en: OpenAI API Interface
+  prefs:
+  - PREF_H4
+  type: TYPE_NORMAL
+- en: The OpenAI API interface provides both programmatic integration with the same
+    functionality as you find in the web user interface and app versions of ChatGPT,
+    but additional API endpoints as well.
+  prefs: []
+  type: TYPE_NORMAL
+- en: The OpenAI API is the gateway for developers to access OpenAI’s state-of-the-art
+    language models. It provides programmatic access to various functionalities beyond
+    what is available in the Playground. The TextCompletion endpoint is crucial for
+    integrating conversational AI into professional knowledge-worker activities. This
+    endpoint allows developers to tap into the language model’s capabilities for generating
+    human-like text based on provided prompts.
+  prefs: []
+  type: TYPE_NORMAL
+- en: I don’t think you need to add much more to the Black Box model for the OpenAI
+    API interface than you do for the OpenAI Playground interface. There are nuances
+    that specifically relate to API programming, such as Authentication, Rate Limits,
+    Error Messages, and the like, but the knowledge level required is about the same.
+  prefs: []
+  type: TYPE_NORMAL
+- en: The TextCompletion endpoint is the workhorse for many professional applications
+    involving conversational AI. Understanding its parameters and advanced techniques
+    allows for generating highly tailored and effective outputs, making it an indispensable
+    tool for anyone writing about or working with advanced ChatGPT functionalities
+    in professional settings.
+  prefs: []
+  type: TYPE_NORMAL
+- en: OpenAI Custom GPT Interace
+  prefs:
+  - PREF_H4
+  type: TYPE_NORMAL
+- en: The OpenAI Custom GPT Interace is a builder and configuration interface that
+    allows you to develop and maintain Custom GPTs, which are instances of the GPT
+    engine and ChatGPT chat interface with additional prompting that shapes the interaction
+    behaviour for a specific use case or application area.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Designing and implementing Custom GPTs in superficially very simple but covers
+    a very wide range of factors, and is beyond the scope of this book. Please search
+    the OpenAI website for more information. Youtube also has some excellent tutorials.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Summary
+  prefs:
+  - PREF_H4
+  type: TYPE_NORMAL
+- en: So, our black box model of ChatGPT is a probability-based text regurgitator.
+    We interact with it in a simplified human interaction model, in which the only
+    observable behaviour is the text it regurgitates. Having said all that, the outputs
+    we get from ChatGPT are often remarkable.
+  prefs: []
+  type: TYPE_NORMAL
+- en: If you adopt the “black box” model of ChatGPT, you’ll be in a much better position
+    to apply it to your knowledge or practice domain, because it will focus your attention
+    on the things you can control.
+  prefs: []
+  type: TYPE_NORMAL
+- en: By focusing on the things you can control, you will identify the areas where
+    you might need to improve, and by doing so, you will increase the quality and
+    value of the results you get from the AI Appliance.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Use of ChatGPT Responses
+  prefs:
+  - PREF_H3
+  type: TYPE_NORMAL
+- en: The use of ChatGPT responses is a crucial element of user control that significantly
+    impacts the effectiveness and utility of interactions with the model. Properly
+    managing how responses are used involves setting appropriate user expectations,
+    assessing the quality and relevance of the responses, and applying the responses
+    effectively within the user’s context.
+  prefs: []
+  type: TYPE_NORMAL
+- en: User Expectations
+  prefs: []
+  type: TYPE_NORMAL
+- en: Setting realistic and informed expectations about ChatGPT’s capabilities is
+    essential for making the most out of its responses. Understanding what the model
+    can and cannot do helps users align their goals and avoid disappointment.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Capability Awareness: Users should be aware of ChatGPT’s strengths and limitations.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Expectations Management: Managing expectations involves setting clear goals
+    for what users aim to achieve with ChatGPT.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Assessing Responses
+  prefs: []
+  type: TYPE_NORMAL
+- en: Effectively assessing the responses generated by ChatGPT is critical to ensure
+    that they are accurate, relevant, and useful. This process involves evaluating
+    the content based on several criteria.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Accuracy: Check the factual correctness of the information provided by ChatGPT.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Relevance: Determine whether the response is relevant to the prompt and the
+    context provided.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Coherence and Clarity: A well-structured and clear response is easier to understand
+    and apply.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Application of Responses
+  prefs: []
+  type: TYPE_NORMAL
+- en: Applying ChatGPT responses effectively involves integrating them into the user’s
+    workflows or decision-making processes. This step ensures that the responses are
+    used in a meaningful and productive manner.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Contextual Integration: Integrate the responses into the specific context of
+    the user’s work or project.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Decision Support: Use the responses as a support tool in decision-making processes.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Iterative Improvement: Engage in an iterative process of refinement and improvement.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Conclusion
+  prefs: []
+  type: TYPE_NORMAL
+- en: Effectively using ChatGPT responses involves managing user expectations, carefully
+    assessing the quality and relevance of the responses, and applying them appropriately
+    within the user’s context. This strategic approach to using ChatGPT responses
+    empowers users to leverage the model’s capabilities effectively and achieve their
+    goals more efficiently.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Adopt Curious Abundance
+  prefs:
+  - PREF_H2
+  type: TYPE_NORMAL
+- en: 'In this section, we summarise the fifth component of the ChatGPT “Black-box”
+    Mindset. This topic is covered in greater detail in the chapter “Advanced Black-box
+    Interface #5 - Adopt Curious Abundance” in the book [“Advanced ChatGPT Application
+    and Operations Guide”](https://bjl.ink/GptAP).'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![Black-box Mindset #5](image_rsrc1GR.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: 'Figure 21\. Black-box Mindset #5'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Adopting a mindset of Curious Abundance is key to effectively using ChatGPT.
+    This mindset combines curiosity, independence, rationality, confidence, and optimism.
+    Users with a Curious Abundance mindset are better equipped to explore ChatGPT’s
+    capabilities, critically assess its outputs, and innovate in their application
+    of the model. This proactive and positive approach leads to more meaningful and
+    productive interactions.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![GPT Curious Abundance - Summary](image_rsrc1GS.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: Figure 22\. GPT Curious Abundance - Summary
+  prefs: []
+  type: TYPE_NORMAL
+- en: (In)dependence
+  prefs: []
+  type: TYPE_NORMAL
+- en: The balance of independence and dependence is crucial for effective interaction
+    with ChatGPT. Users should be independent thinkers who rely on the model as a
+    tool rather than a crutch.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Self-Reliance: Users should approach ChatGPT as an aid in their decision-making
+    process, not as the sole source of truth. Critical Thinking: Engaging critically
+    with the information provided by ChatGPT is essential. Collaborative Use: Independence
+    does not mean isolation.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Rational / Empirical
+  prefs: []
+  type: TYPE_NORMAL
+- en: A rational and empirical mindset is vital for making informed and logical use
+    of ChatGPT’s capabilities. This involves basing decisions and actions on evidence
+    and reason.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Evidence-Based Approach: Users should prioritise evidence and empirical data
+    when interacting with ChatGPT. Logical Analysis: Rationality requires users to
+    apply logical analysis to the responses received. Objectivity: Maintaining objectivity
+    is key.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Confidence
+  prefs: []
+  type: TYPE_NORMAL
+- en: Confidence in using ChatGPT is necessary for maximising its potential. This
+    confidence comes from understanding the model’s capabilities and limitations and
+    using it assertively within those boundaries.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Informed Assurance: Confidence should be based on a thorough understanding
+    of ChatGPT’s strengths and weaknesses. Decisive Interaction: Confident users engage
+    decisively with ChatGPT, asking clear and purposeful questions. Resilience: Confidence
+    also involves resilience in the face of errors or suboptimal responses.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Optimism
+  prefs: []
+  type: TYPE_NORMAL
+- en: Optimism about the possibilities of ChatGPT fosters a positive and proactive
+    approach to its use. Optimistic users are more likely to explore and innovate,
+    pushing the boundaries of what the model can do.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Positive Expectation: Optimistic users expect positive outcomes from their
+    interactions with ChatGPT. Innovative Exploration: Optimism fuels innovation.
+    Constructive Attitude: An optimistic mindset encourages a constructive attitude
+    towards challenges and setbacks.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Conclusion
+  prefs: []
+  type: TYPE_NORMAL
+- en: Curious Abundance is the ideal mindset for users engaging with ChatGPT. This
+    mindset not only enhances the quality and relevance of the responses but also
+    fosters a productive and innovative approach to using ChatGPT, unlocking its full
+    potential as a powerful tool for various applications.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Adopt Black-box Governance
+  prefs:
+  - PREF_H2
+  type: TYPE_NORMAL
+- en: 'In this section, we summarise the sixth component of the ChatGPT “Black-box”
+    Mindset. This topic is covered in greater detail in the chapter “Advanced Black-box
+    Interface #6 - Implement Black-box Governance” in the book [“Advanced ChatGPT
+    Application and Operations Guide”](https://bjl.ink/GptAP).'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![Black-box Mindset #6](image_rsrc1GT.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: 'Figure 23\. Black-box Mindset #6'
+  prefs: []
+  type: TYPE_NORMAL
+- en: The deployment of ChatGPT in organisations brings significant benefits but also
+    introduces complexities that require careful governance. “Black-box Governance”
+    refers to a structured approach to managing the use of ChatGPT, ensuring its application
+    is transparent, ethical, and aligned with organisational policies and standards.
+    This chapter explores the key components of Black Box Governance, which include
+    Knowledge of Suppliers, Audit Responsibilities, Disclosure, and Citation, and
+    Quality and Use of Results. The figure below provides a detailed breakdown of
+    these components.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![GPT Black-box Governance - Summary](image_rsrc1GU.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: Figure 24\. GPT Black-box Governance - Summary
+  prefs: []
+  type: TYPE_NORMAL
+- en: Knowledge of Suppliers
+  prefs: []
+  type: TYPE_NORMAL
+- en: Understanding the suppliers and the policies governing their technology is foundational
+    for effective governance. This includes awareness of data sharing, copyright,
+    and security policies.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Data Sharing Policies: Organisations must be informed about how their data
+    is handled and shared by ChatGPT suppliers. Copyright Policies: It is crucial
+    to know the copyright policies related to the content generated by ChatGPT. Security
+    Policies: Understanding the security measures implemented by ChatGPT suppliers
+    is vital to safeguard organisational data.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Audit Responsibilities
+  prefs: []
+  type: TYPE_NORMAL
+- en: To maintain accountability and transparency, organisations need robust audit
+    mechanisms. This involves tracking, understanding, and explaining the use and
+    outcomes of ChatGPT.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Understanding and Explainability: Organisations should strive to understand
+    how ChatGPT generates responses and be able to explain these processes to stakeholders.
+    Audit Tracking: Implementing audit trails for interactions with ChatGPT is essential.
+    Other: Additional audit responsibilities may include regular reviews of ChatGPT
+    usage.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Disclosure and Citation
+  prefs: []
+  type: TYPE_NORMAL
+- en: Transparency in the use of ChatGPT is critical. This involves full disclosure
+    of AI involvement in content creation and proper citation of sources and contributions.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Full Disclosure: Organisations should disclose when and how ChatGPT is used,
+    particularly in content creation. How to Explain: Providing clear explanations
+    about the capabilities and limitations of ChatGPT is essential. How to Cite: Establishing
+    guidelines for citing ChatGPT’s contributions ensures that the use of AI-generated
+    content is properly acknowledged and traceable.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Quality and Use of Results
+  prefs: []
+  type: TYPE_NORMAL
+- en: Ensuring the quality and appropriate use of ChatGPT’s outputs involves verification,
+    validation, and addressing potential risks such as injection and errors.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Verification: Organisations should verify the accuracy and reliability of ChatGPT’s
+    responses before using them in decision-making processes. Validation: Validation
+    processes should be in place to assess the relevance and applicability of ChatGPT’s
+    outputs. Injection: Organisations need to be aware of and mitigate risks related
+    to data injection attacks. Errors: Establishing protocols for identifying and
+    correcting errors in ChatGPT’s responses is crucial.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Conclusion
+  prefs: []
+  type: TYPE_NORMAL
+- en: Black Box Governance is a comprehensive framework for managing the use of ChatGPT
+    in organisations. By focusing on knowledge of suppliers, audit responsibilities,
+    disclosure and citation, and the quality and use of results, organisations can
+    ensure that their use of ChatGPT is transparent, ethical, and aligned with their
+    strategic objectives. This approach enhances the trust and reliability of AI applications
+    and empowers organisations to leverage ChatGPT’s capabilities responsibly and
+    effectively.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Interacting with ChatGPT
+  prefs:
+  - PREF_H1
+  type: TYPE_NORMAL
+- en: Organic prompting
+  prefs:
+  - PREF_H2
+  type: TYPE_NORMAL
+- en: This section summarises an approach to ChatGPT interaction I call “Organic Prompting.”
+    This approach aligns with the strategic mindset of focusing on outcomes and impacts
+    rather than techniques and deliverables.
+  prefs: []
+  type: TYPE_NORMAL
+- en: In keeping with the primary proposition of this book, Organic Prompting starts
+    with simplicity and the question “what can I remove to achieve perfection?”
+  prefs: []
+  type: TYPE_NORMAL
+- en: Take what works for you and ignore the rest.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'But, I can already hear people asking: “What about Prompt Engineering?”. So,
+    let’s address this first.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Why Not Just Start with Prompt Engineering?
+  prefs:
+  - PREF_H3
+  type: TYPE_NORMAL
+- en: I assume that you’ve read articles or discussions on ChatGPT. In that case,
+    you’ve probably seen references to “Prompt Engineering,” a loosely defined practice
+    that defines rules and techniques for creating prompts for artificial intelligence
+    “chatbots” like ChatGPT.
+  prefs: []
+  type: TYPE_NORMAL
+- en: I have nothing against Prompt Engineering as a body of knowledge. Personally,
+    I’m very interested in the various prompt types and the reason that they work.
+  prefs: []
+  type: TYPE_NORMAL
+- en: “Prompt Engineering” emerged out of the long history of natural language interfaces
+    to older AI systems. There is much to be gained from Prompt Engineering, but it
+    is not a formal practice, and the term “Engineering” is a bit of overkill. In
+    my long experience in the information technology field, I’ve seen many emerging
+    practices have the word “engineering” slapped on them to give the impression of
+    something formalised, organised, and unified.
+  prefs: []
+  type: TYPE_NORMAL
+- en: The intent is there, but I’m always concerned with recommendations that focus
+    on the “what” and “how” of something rather than the “why”.
+  prefs: []
+  type: TYPE_NORMAL
+- en: If we focus too much on techniques in the prompt crafting for language models
+    like ChatGPT, we can forget the reasons we’re doing this in the first place.
+  prefs: []
+  type: TYPE_NORMAL
+- en: The whole point of the “Black-box Mindset” is to nudge people to think about
+    what they are trying to achieve by using ChatGPT and less about how it works.
+    Although prompting is the external interface between the world and ChatGPT, prompt
+    engineering exposes users to the internal operation and capabilities.
+  prefs: []
+  type: TYPE_NORMAL
+- en: It’s very common for users to micro-manage ChatGPT with overly technical and
+    prescriptive prompts. By over-specifying the prompt, users inadvertently constrain
+    the model’s potential to generate creative and effective outputs.
+  prefs: []
+  type: TYPE_NORMAL
+- en: You should assume that everything you put into a prompt is used by ChatGPT as
+    content when generating its responses – see section [“A Shallow Dive Into GPT
+    Functionality”](#part0011.xhtml#a1A3).
+  prefs: []
+  type: TYPE_NORMAL
+- en: Some circumstances undoubtedly require more complex prompts. But start simple
+    and scale up as needed.
+  prefs: []
+  type: TYPE_NORMAL
+- en: The Foundations of Organic Prompting
+  prefs:
+  - PREF_H3
+  type: TYPE_NORMAL
+- en: The foundation of “Organic Prompting” for ChatGPT is simplifying the interaction
+    between the user and the tool. It focuses on clear, context-driven prompts that
+    capture the intended outcome rather than the specifics of the process.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'User Accessibility: Organic Prompting lowers the barrier to entry for casual
+    or non-technical users who may not be adept at constructing complex prompts (yet).'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Efficiency: By focusing on outcomes, users can quickly and effectively communicate
+    their needs, potentially leading to faster and more relevant responses.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Quality of Results: It encourages the LLM to generate responses aligned with
+    the user’s end goals, which may improve the output’s usability and applicability.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Encourages Strategic Thinking: Organic Prompting encourages users to think
+    beyond the mere immediate generation of the response and more about the strategic
+    use of the information provided.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Flexibility: Organic Prompting allows AI more creative freedom to draw upon
+    its extensive training data to provide answers, often resulting in more innovative
+    and comprehensive solutions. A good rule of design is that a good design is easier
+    to change than a bad one, which applies to prompts as much as anything.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Scalability: Organic Prompting allows users to start at the most simple stage
+    and progress smoothly as their requirements and circumstances require. Simple
+    things are easy, but hard things are possible. There has been a natural progression
+    from organic prompting to other prompt frameworks and, ultimately, prompt engineering.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Principles of Organic Prompting
+  prefs:
+  - PREF_H3
+  type: TYPE_NORMAL
+- en: Organic Prompting is based on the premise that prompts don’t need complexity;
+    they need clarity and context. Prompts should be actionable. Organic Prompting
+    believes that the user is the only judge of the usefulness of ChatGPT’s responses.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Emergence Rocks
+  prefs: []
+  type: TYPE_NORMAL
+- en: Get started! Then, see what happens. The best prompts emerge from iterative
+    interactions. Avoid thinking you need to “get everything right in one go”. Run
+    everything through the model and observe the outcomes.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Acceptability is the only Quality
+  prefs: []
+  type: TYPE_NORMAL
+- en: The only measure of quality is whether the results from ChatGPT are acceptable
+    to you in your specific problem and situation.
+  prefs: []
+  type: TYPE_NORMAL
+- en: You can’t always get what you want, but sometimes you get what you need.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Simplicity Rules (and always has)
+  prefs: []
+  type: TYPE_NORMAL
+- en: The art of maximising the amount of work not done is essential. Clear prompts
+    are the cornerstone of effective communication with ChatGPT. Ask yourself, “Can
+    I remove anything and still get the same result or better?”
+  prefs: []
+  type: TYPE_NORMAL
+- en: Natural Language is Best
+  prefs: []
+  type: TYPE_NORMAL
+- en: Describe what you want as naturally as possible. Communicate with ChatGPT using
+    straightforward language but don’t agonise over it or spend time writing multiple
+    drafts outside of ChatGPT. Let the model do the magic! Write your prompts as you
+    would explain something to a colleague or family member.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Enablement Guides Process
+  prefs: []
+  type: TYPE_NORMAL
+- en: Describe what you want to enable through the interaction. After interacting
+    with ChatGPT and receiving its response, what do you want to be able to do that
+    you couldn’t do before? Think of active words like “understand,” “communicate,”
+    “analyse,” and “apply.” See how to use this in the breakout below.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Don’t describe the steps or how ChatGPT should solve the problem unless you
+    find that you can’t get an acceptable result without getting to that level of
+    detail.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Context Is Key
+  prefs: []
+  type: TYPE_NORMAL
+- en: Providing context allows ChatGPT to understand the prompt’s intention. Context
+    frames the problem space without dictating specific methods for the solution.
+  prefs: []
+  type: TYPE_NORMAL
+- en: One element of context is the role that you want ChatGPT to play.
+  prefs: []
+  type: TYPE_NORMAL
+- en: “By using ChatGPT I will be able to …. in a topic or problem area.”
+  prefs: []
+  type: TYPE_NORMAL
+- en: “With the information generated by ChatGPT I will be able to …. in a topic or
+    problem area.”
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Understand: Know a topic’s key concepts and principles and articulate similarities,
+    differences, and challenges.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Apply: implement practical techniques and tools.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Analyse: assess the situation critically and produce a summary or root cause,
+    or ask additional clarifying questions**.**'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Evaluate: assess the effectiveness and utility of different options and make
+    a choice or decision.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Create: design and write a new work such as an article, artwork, plan, or data
+    table.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Remember: recall and reference essential principles, best practices, facts,
+    and ideas.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Example of Organic Prompting
+  prefs:
+  - PREF_H3
+  type: TYPE_NORMAL
+- en: Say you’re writing a master’s dissertation and want some information on a particular
+    topic.
+  prefs: []
+  type: TYPE_NORMAL
+- en: You could get into very specific detail which projects your concerns
+  prefs: []
+  type: TYPE_NORMAL
+- en: “Write 500 words on the topic of how current legislation affects small-scale
+    solar power adoption. Write clearly and succinctly and avoid AI detection. Include
+    citations for the information and include a number of quotes. Include a “References”
+    list that includes the full details of citations in APA 7th edition format.”
+  prefs: []
+  type: TYPE_NORMAL
+- en: This form of prompt is very common and originates in the user’s mind that they
+    have to specify how ChatGPT should go about doing a task. The user is taking their
+    knowledge of a problem domain and projecting into ChatGPT the set of rules and
+    constraints that they feel are important. I’m sure this user will get some results.
+    Try pasting this into ChatGPT and see what you get.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Here’s an alternative approach, following the principles of Organic Prompting.
+    Instead of giving ChatGPT specific instructions like “avoid AI detection,” reframe
+    your prompt by stating the desired outcome.
+  prefs: []
+  type: TYPE_NORMAL
+- en: “I’m writing an academic paper on renewable energy policies for my master’s
+    dissertation at the University of [name]. I need insights on how current legislation
+    affects small-scale solar power adoption.”
+  prefs: []
+  type: TYPE_NORMAL
+- en: This is the simplest prompt you could imagine. It clearly defines the purpose,
+    context, and intended use of the information, allowing ChatGPT to generate a response
+    that is aligned with your needs. Naming the university opens up the possibility
+    that ChatGPT can use any information from the institution (or similar institutions)
+    that relates to master’s dissertations, including plagiarism and referencing requirements.
+  prefs: []
+  type: TYPE_NORMAL
+- en: If you get the results you need, you’re done and moving on to the next task.
+    If you don’t get the result you want, then you can expand this a little to the
+    following
+  prefs: []
+  type: TYPE_NORMAL
+- en: “I’m writing an academic paper on renewable energy policies for my master’s
+    dissertation at the University of [name]. I need insights on how current legislation
+    affects small-scale solar power adoption. Include source citations and a reference
+    list. Target the information so that a scholarly audience will find enough detail,
+    and the response will comply with generally accepted academic plagiarism prohibitions.”
+  prefs: []
+  type: TYPE_NORMAL
+- en: In some cases you’ll use the full prompt and in others you’ll break it up due
+    to the evolutionary nature of the prompt-response cycle.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Organic Prompt “Nudges”
+  prefs:
+  - PREF_H3
+  type: TYPE_NORMAL
+- en: In the context of Organic Prompting, a nudge is a subtle suggestion embedded
+    within a prompt to guide ChatGPT toward a preferred outcome. Much like nudges
+    in behavioral science, these phrases influence the AI’s behavior in a predictable
+    way without restricting its options or forcing a specific response. Nudges gently
+    steer the AI, making it more likely to provide a useful answer while maintaining
+    the flexibility and creativity of its responses.
+  prefs: []
+  type: TYPE_NORMAL
+- en: High-impact Nudges
+  prefs:
+  - PREF_H4
+  type: TYPE_NORMAL
+- en: Here are a few high-impact statements that you can include in your Organic Prompts
+    as nudges to influence the interaction flow or results.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Controlling flow
+  prefs: []
+  type: TYPE_NORMAL
+- en: This statement stops ChatGPT responding before you’re ready. Often I will provide
+    a number of input prompts before I ask a question or set a task. I usually define
+    the relationship and job roles in one prompt. Then provide input data in one or
+    more prompts, and then I’ll ask a series of questions. I’ll use the below phrase
+    in each of the cycles where I’m providing input that doesn’t require anything
+    more than an acknowledgement.
+  prefs: []
+  type: TYPE_NORMAL
+- en: “please don’t respond until I give you a specific task or ask a specific question”
+  prefs: []
+  type: TYPE_NORMAL
+- en: I prefer to have my outputs generated in a raw form that I can copy to other
+    applications. Sure, you can select the text response and copy it to an office
+    app like Word. But if you want more fine-grained control, generate it in a markup
+    format (XML, HTML), markdown format (markdown), or data format (CSV) and then
+    click on the “Copy” link at the top of the code window.
+  prefs: []
+  type: TYPE_NORMAL
+- en: “please generate your response in a code window so I can easily copy the results
+    to other applications”
+  prefs: []
+  type: TYPE_NORMAL
+- en: Low-impact Nudges
+  prefs:
+  - PREF_H4
+  type: TYPE_NORMAL
+- en: I see numerous statements in prompts almost every day that people add because
+    they think it will “tell” ChatGPT to behave in a certain way. Again, if these
+    are working for you, please keep using them. Sometimes, they are just “sugar”
+    for the users to either keep track of problems with earlier prompts or to relieve
+    tension and frustration.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Please also refer to the section on GPT weaknesses.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Playing to Emotions
+  prefs: []
+  type: TYPE_NORMAL
+- en: These statements assume there is some emotional capability inside the GPT engine
+    that will respond to emotional colour.
+  prefs: []
+  type: TYPE_NORMAL
+- en: “try your hardest”
+  prefs: []
+  type: TYPE_NORMAL
+- en: “don’t be stupid”
+  prefs: []
+  type: TYPE_NORMAL
+- en: “why are you doing this to me?”
+  prefs: []
+  type: TYPE_NORMAL
+- en: Playing to Intellect
+  prefs: []
+  type: TYPE_NORMAL
+- en: These statements assume there is some intellect inside the GPT engine which
+    can be controlled by giving explicit statements
+  prefs: []
+  type: TYPE_NORMAL
+- en: “be rigorous and accurate”
+  prefs: []
+  type: TYPE_NORMAL
+- en: “don’t plagiarise”
+  prefs: []
+  type: TYPE_NORMAL
+- en: “do your best”
+  prefs: []
+  type: TYPE_NORMAL
+- en: “be truthful and don’t lie”
+  prefs: []
+  type: TYPE_NORMAL
+- en: Language Shape or Form
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'These statements assume ChatGPT can monitor its language production in the
+    same way that we do: pages, words, long content, and short content. I’ve had some
+    success with “long-form,” but the variability of the GPT environment far outweighs
+    any boost you get from these phrases.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: “generate 500 words”
+  prefs: []
+  type: TYPE_NORMAL
+- en: “write a long article”
+  prefs: []
+  type: TYPE_NORMAL
+- en: Conclusion
+  prefs: []
+  type: TYPE_NORMAL
+- en: As with any recommendations about ChatGPT prompting, do whatever works for you
+    in your specific situation. I can advise you what I think, but “what works” beats
+    “what someone else thinks works” every time.
+  prefs: []
+  type: TYPE_NORMAL
+- en: If you focus on what you’re trying to achieve, the context you’re working in,
+    and creating the simplest possible language, then you’re doing Organic Prompting
+    well.
+  prefs: []
+  type: TYPE_NORMAL
+- en: When is Organic Prompting The Wrong Approach?
+  prefs:
+  - PREF_H3
+  type: TYPE_NORMAL
+- en: The purpose of Organic Prompting is to help early users to start prompting reliably
+    and get them over the Skills Bootstrapping Chasm that I described in section [“Crossing
+    the Skills Bootstrapping Chasm”](#part0009.xhtml#a191). I’m not proposing this
+    as a universal process, unless, of course, it works for you.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Not a Silver Bullet
+  prefs: []
+  type: TYPE_NORMAL
+- en: Organic Prompting is not a “silver bullet.” It’s not a universal solution for
+    every user in every situation. Many scenarios require more complex and technical
+    prompts. Organic Prompting proposes that we start and scale up only as required.
+  prefs: []
+  type: TYPE_NORMAL
+- en: How do we know when we need to scale up?
+  prefs: []
+  type: TYPE_NORMAL
+- en: Organic Prompting is based on key strategy, problem, and user assumptions. If
+    your unique situation breaks any of these assumptions, you’ve probably reached
+    the limit of Organic Prompting. In these situations, there are simple remedies
+    to build out your prompt to achieve what you need.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Assumptions:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'This is another principle of Organic Prompting: the best prompts emerge from'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'AI Interpretation is Sufficient: It assumes ChatGPT can accurately infer intent
+    from context, which may not always be reliable, leading to potential misalignment
+    between user expectations and AI output.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Prompts are Unambiguous: While simplicity is beneficial, too little guidance
+    can result in vague prompts that lead to equally ambiguous or broad outputs.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Prompts are not Under-Specification: Users may omit critical details to keep
+    prompts outcome-focused, leading to results that are not actionable or detailed
+    enough for the user’s needs.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Effectiveness Can Be Assessed: Establishing metrics to measure the effectiveness
+    of such prompts as opposed to more traditional, input-focused ones may be challenging.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Conclusion
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Organic Prompting is useful in a subset of interactions with ChatGPT. This
+    subset strongly overlaps the needs of very early users, so it’s a useful strategy
+    for people who are first starting out. The beauty of Organic Prompting is that
+    it is a self-resolving question: if it works, keep using it, but if it doesn’t
+    then transition to a different approach. That might be an advanced level of Organic
+    Prompting, as described below, or it might be to early stage Prompt Engineering.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Grow with Advanced Organic Prompting
+  prefs:
+  - PREF_H2
+  type: TYPE_NORMAL
+- en: This section describes some more advanced approaches to Organic Prompting that
+    users may find useful as their skills grow or their problems become more complex.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Satisficing is Satisfaction
+  prefs:
+  - PREF_H3
+  type: TYPE_NORMAL
+- en: 'What’s better: iterating through many prompt/response cycles to get a result
+    that is a bit better than the first or taking the imperfect first response and
+    manually editing it to make it acceptable?'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Only you can judge that—there’s no right answer. But none of us has as much
+    time as we’d like to spend on a problem, and ChatGPT has many imperfections. So,
+    on balance, I know what my thoughts are.
+  prefs: []
+  type: TYPE_NORMAL
+- en: It all depends on your situation.
+  prefs: []
+  type: TYPE_NORMAL
+- en: I see many questions about prompts and prompt structures that appear to be based
+    on “Prompt FOMO” or “ChatGPT FOMO,” i.e., a “fear of missing out” on something
+    unique and special in the GPT engine unless we use special techniques, hacks,
+    or or “voodoo phrases”. “Voodoo phrases” are the ones you see on Facebook ads
+    or reels telling you about the latest thing that will “change your life forever”,
+    like “no yapping”.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'While we all want to get the most out of ChatGPT, there are two flaws in this
+    thinking:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: It assumes there are special techniques, hacks or “voodoo words” that will magically
+    transform the responses.
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'That ChatGPT is holding back expert-level content without using the things
+    mentioned in #1 above. This thinking believes there’s some hidden “pot of gold”
+    buried in the guts of ChatGPT that will make the user seem like a world-class
+    expert.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'There are three things I say to this:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: We’ll never really know how detailed or expert-sounding ChatGPT can become,
+    but its training hasn’t covered every piece of information on every topic.
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: ChatGPT results are likelier to be middling-level competent than a world-class
+    expert.
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: While there may be some shortcuts, the more we inject our own thinking into
+    the ChatGPT dialogue, the better our mastery of the content in our specific situation
+    will be.
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: Forget FOMO – get cracking on your own experiences.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Organic Planning
+  prefs:
+  - PREF_H2
+  type: TYPE_NORMAL
+- en: When I refer to “Organic Planning” I mean the state of planning that occurs
+    naturally, driven by the built-in cognitive powers of the human brain. Every human
+    being performs something called “Pragmatic Prospection”, which if you scrape off
+    the academic terminology means that if you think about a goal, your brain will
+    naturally start to think through the process of getting there.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Organic planning also refers to the natural scaling of planning scaffolding,
+    such as plans, frameworks and even methodologies that you can add as your circumstances
+    require. The alternative to Organic Planning is to try to adopt a framework right
+    at the start, which can cause all sorts of problems if it’s too advanced for your
+    knowledge and experience or not matched to your environment.
+  prefs: []
+  type: TYPE_NORMAL
+- en: So organic planning starts with nothing but the capabilities of your brain,
+    and adds additional support in a “just-in-time” approach.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'You can read more about “Pragmatic Prospection” in “Axiom # 121\. Everything
+    in the agile mindset derives from four first principles”, and more about scaling
+    up the management process in “Axiom # 96\. The methodology paradox”, both in the
+    book [“Axioms of Project Management”](https://bjl.ink/pmaxioms).'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Basic Interacting with ChatGPT
+  prefs:
+  - PREF_H3
+  type: TYPE_NORMAL
+- en: 'If you’re a very new user you probably have a simple idea of your interaction
+    with ChatGPT, which is centred on just that: you interacting with ChatGPT, as
+    illustrated below. You’re simply having ideas and pushing them as text (maybe
+    with some data) into ChatGPT and getting the results.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![Basic ChatGPT Interaction](image_rsrc1GV.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: Figure 25\. Basic ChatGPT Interaction
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'As you become a little more experienced, you’ll start to realise that just
+    your ideas aren’t sufficient for most use cases, and that you’ll need to do one
+    or both of two things:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Get some data: you’ll need to source some data from somewhere in your operating
+    environment that feeds into ChatGPT. This could be contextual information, the
+    subject of a prompt (e.g. “review this article”), or for transformation (e.g.
+    “analyse this data” or “summarise this document”).'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Use the responses: once you get the responses from ChatGPT, what are you going
+    to do with them? Are they just for your personal consumption? Or do you need to
+    distribute them to other people? Or load them into another system?'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: This interaction cycle gets to be something like the below. It’s still fairly
+    ad-hoc but at least you’re considering the options.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![Extended ChatGPT Interaction](image_rsrc1GW.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: Figure 26\. Extended ChatGPT Interaction
+  prefs: []
+  type: TYPE_NORMAL
+- en: From Interaction to I-P-O
+  prefs:
+  - PREF_H3
+  type: TYPE_NORMAL
+- en: Once you start to become more experienced with ChatGPT you will start to extend
+    the use cases that you want to include in the processing. This is where we need
+    to get just a little more structured.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Every interaction with ChatGPT involves a basic pattern, regardless of your
+    problem area, objective or the role you’ve want chatGPT to play.
+  prefs: []
+  type: TYPE_NORMAL
+- en: In process terms we call this an “IPO” pattern (“Input-Process-Output”). It’s
+    very common process pattern and easy to understand In ChatGPT’s case (in the “Black-box
+    mindset”) we are primarily concerned with the “Input” and “Output” phases. The
+    “Process” phase is the ChatGPT “Black box”.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![Simple I-P-O Concept](image_rsrc1GX.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: Figure 27\. Simple I-P-O Concept
+  prefs: []
+  type: TYPE_NORMAL
+- en: But this “I-P-O” process pattern is too generic. Once we start thinking about
+    how we use ChatGPT practically in more than simplistic use cases, we need to break
+    out some subphases as shown in the diagram below.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![Extended IPO model in context](image_rsrc1GY.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: Figure 28\. Extended IPO model in context
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'This pattern consists of the following components:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Your Operating Environment: the place where you work or play or do anythat
+    that relates to your ChatGPT use cases.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Your Target/Consumer Environment: where your “customers” live and work. If
+    you have any people or teams who recieve the information that you’ve obtained
+    from a ChatGPT response, they live here.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'I.1 Obtain / Preproc Data“: the first part of the “Input” phase, in which you
+    obtain the data that you’ll provide to ChatGPT and perform any pre-processing
+    functions, such as format conversion. This step may include any data transformations
+    that occur outside ChatGPT.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'I.2 Load to GPT: this step (the 2nd part of the “Input” phase) is simply to
+    load the data to GPT or provide a link. There are limited options for the technical
+    mechanism of this upload, which you can find explained briefly in section [“ChatGPT
+    Product Interaction”](#part0010.xhtml#a19J), and the main patterns for interaction
+    are summarised in section [“ChatGPT Prompt and Data Use Cases”](#part0010.xhtml#a1E7).'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Process: this is what happens between you submitting your prompt to ChatGPT
+    and getting a response.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'O.1 Extract from ChatGPT: this step (the 1st part of the “Output” phase) involves
+    you getting your data from ChatGPT. As with step “I.2” above, there are limited
+    technical options for this process'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: O.2 PostProc/Distribute; this step (the 2nd part of the “Output” phase) has
+    to sub-steps. First, perform any post-processing that is required to convert the
+    outputs from ChatGPT to the format that you need to your in your “Target/Consumer
+    environment”. Second, distributing this data to your consumers. This could mean
+    loading the data into another system, or simply attaching files to an email.
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: Whilst this might seem a little involved, anything except simple and personal
+    use cases need to consider these explicitly.
+  prefs: []
+  type: TYPE_NORMAL
+- en: A Shallow Dive Into GPT Functionality
+  prefs:
+  - PREF_H2
+  type: TYPE_NORMAL
+- en: Whilst we are maintaining a “black-box mindset” which avoids focus on the internal
+    operation of ChatGPT, it’s important to address some existing concepts of how
+    ChatGPT works. We can’t change the past and unfortunately there are many misconceptions
+    and myths out in the world that we must correct.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Some (Not Unreasonable) Myths on GPT Operation
+  prefs:
+  - PREF_H3
+  type: TYPE_NORMAL
+- en: There are many misconceptions about the internal operation of the GPT AI engine.
+    As we mention in the [“Black-box Mindset”](#part0009.xhtml#a192) we hold that
+    you don’t need to know the internal operation and this is one example of why we
+    think this way.
+  prefs: []
+  type: TYPE_NORMAL
+- en: But treating something as a “black-box” and expecting people to never think
+    about what goes on inside is unreasonable - and futile.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'The Black-box Interface:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: First let’s briefly review the simple “black-box interface” again, shown in
+    the diagram below. Depending on what we think is happening inside, our expectations
+    of the response, and our judgement of its quality, will vary.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![The simplest black-box interface to ChatGPT](image_rsrc1GD.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: Figure 29\. The simplest black-box interface to ChatGPT
+  prefs: []
+  type: TYPE_NORMAL
+- en: Common (But Wrong) Expectations
+  prefs:
+  - PREF_H4
+  type: TYPE_NORMAL
+- en: The Database Expectation
+  prefs: []
+  type: TYPE_NORMAL
+- en: A very common expectation held by users is the idea of GPT as a database, as
+    illustrated below.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![The Database Expectation (Data + Deterministic Reponse)](image_rsrc1GZ.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: Figure 30\. The Database Expectation (Data + Deterministic Reponse)
+  prefs: []
+  type: TYPE_NORMAL
+- en: A database contains data, obviously, in a formal structure. When we issue a
+    query, we expect a response that is predictable and repeatable. In the diagram,
+    every time we query for ID=“999.1” we expect a complete, high-integrity response
+    with all the data we’ve requested associated with the id “999.1”. The data may
+    vary from the last time we performed the query, but that’s only because the data
+    in the database changed, presumably under some form of control. The data is authoritative.
+  prefs: []
+  type: TYPE_NORMAL
+- en: The API Expectation
+  prefs: []
+  type: TYPE_NORMAL
+- en: Similarly, if we make an API call, we expect the result to be consistent with
+    the API specifications.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![The API Expectation (Data + Deterministic Reponse)](image_rsrc1H0.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: Figure 31\. The API Expectation (Data + Deterministic Reponse)
+  prefs: []
+  type: TYPE_NORMAL
+- en: The Web-server Expectation
+  prefs: []
+  type: TYPE_NORMAL
+- en: Similarly on the World Wide Web, a “GET” command with the Http protocol results
+    in the return of a specific resource, assuming the URL is correct.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![The HTTP GET Expectation (Data + Deterministic Reponse)](image_rsrc1H1.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: Figure 32\. The HTTP GET Expectation (Data + Deterministic Reponse)
+  prefs: []
+  type: TYPE_NORMAL
+- en: In all three of these use cases, the data we are querying is stored at the target
+    location (database, API server or Web Server). The query process is to obtain
+    a copy of the data using whatever protocols we use.
+  prefs: []
+  type: TYPE_NORMAL
+- en: This is a simple concept to grasp and many of us are exposed to this type of
+    query every day.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Neither the API or HTTP pattern is how ChatGPT generates responses.
+  prefs: []
+  type: TYPE_NORMAL
+- en: A simplified view of how GPT Generates its Responses
+  prefs:
+  - PREF_H4
+  type: TYPE_NORMAL
+- en: So, we’ve looked at some common expectations that are not how GPT generates
+    responses. Let’s look at a ‘simple’ equivalent that shows how GPT does generate
+    its responses. The situation with ChatGPT (specifically, the GPT AI model that
+    sits underneath ChatGPT) is radically different.
+  prefs: []
+  type: TYPE_NORMAL
+- en: All that is stored in the GPT are word association probabilities - consistent
+    with the black box mindset, let’s leave it at that. If you really want to dig
+    into it, check out Appendix “Advanced GPT Internal Operations” in the book [“Advanced
+    ChatGPT Application Primer”](https://bjl.ink/GptAP).
+  prefs: []
+  type: TYPE_NORMAL
+- en: Let’s imagine a situation where every word in the english language had a probability
+    link we every other word in the language.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![Imaginary Word Probability Model](image_rsrc1H2.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: Figure 33\. Imaginary Word Probability Model
+  prefs: []
+  type: TYPE_NORMAL
+- en: It sounds complex, but it’s nowhere near as complex as GPT’s network of word
+    association probabilities.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Now, the “data” that we see in our responses is generated on the fly by GPT
+    based on a complex mash-up of the words in our prompts and data with the probability
+    network in GPT’s network.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![GPT Response of Mashed-up Words](image_rsrc1H3.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: Figure 34\. GPT Response of Mashed-up Words
+  prefs: []
+  type: TYPE_NORMAL
+- en: So all those little coloured dots are my representation of tokens sitting in
+    the probability network, and GPT decides how to serve them up to you assembled
+    “on the fly” based on your prompt and input data.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'It’s really quite amazing how it all works. As I mentioned it’s far more complicated,
+    but the two key points to remember are:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'No Persistent Data: GPT is not retrieving blocks of stored facts or text, in
+    the manner that perhaps Wikipedia is doing on a page-by-page basis.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Non-deterministic: GPT applies a mind-numbing number of probability factors
+    - some in large numbers of dimensions - to assemble the response, so it’s unlikely
+    you’ll get the same response twice. Depending on what changes you make to your
+    prompt or context data, you may get highly different responses.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: '![GPT Responses Can Be Variable](image_rsrc1H4.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: Figure 35\. GPT Responses Can Be Variable
+  prefs: []
+  type: TYPE_NORMAL
+- en: Conclusion
+  prefs:
+  - PREF_H3
+  type: TYPE_NORMAL
+- en: Having a functional model for how ChatGPT generates responses doesn’t break
+    the “black-box” model - it removes misconceptions that would break the black-box
+    model.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Practical Suggestions for Focusing on What the User Can Control
+  prefs:
+  - PREF_H2
+  type: TYPE_NORMAL
+- en: Despite ChatGPT’s black-box nature, users have significant control over their
+    interactions with the model. By focusing on these controllable elements, users
+    can optimise their interactions and derive maximum value from ChatGPT. Here are
+    practical “Do this …” and “Don’t do this …” suggestions based on this component.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Do This:'
+  prefs:
+  - PREF_H3
+  type: TYPE_NORMAL
+- en: 'Define Clear Objectives:'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Purpose: Clearly define what you want to achieve with ChatGPT to guide your
+    interactions.'
+  prefs:
+  - PREF_IND
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Example: “Set SMART goals such as ‘Generate a 500-word article on renewable
+    energy trends by the end of the day.’”'
+  prefs:
+  - PREF_IND
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Select Relevant Problems:'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Purpose: Identify specific problems or tasks where ChatGPT can be most effectively
+    applied.'
+  prefs:
+  - PREF_IND
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Example: “Use ChatGPT to draft emails, create summaries, or generate content
+    ideas.”'
+  prefs:
+  - PREF_IND
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Develop an Operational Strategy:'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Purpose: Plan how to integrate ChatGPT into your workflows systematically.'
+  prefs:
+  - PREF_IND
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Example: “Create a step-by-step plan that includes implementation, monitoring,
+    and risk management for using ChatGPT in content creation.”'
+  prefs:
+  - PREF_IND
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Use Specific and Contextual Prompts:'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Purpose: Craft prompts that are detailed and relevant to get more accurate
+    responses.'
+  prefs:
+  - PREF_IND
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Example: “Instead of ‘Explain marketing,’ use ‘Explain the benefits of social
+    media marketing for small businesses.’”'
+  prefs:
+  - PREF_IND
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Iterate and Refine Interactions:'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Purpose: Continuously improve the quality of responses by refining prompts
+    based on initial outputs.'
+  prefs:
+  - PREF_IND
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Example: “If the response is too vague, add more details or rephrase the prompt
+    to get a better answer.”'
+  prefs:
+  - PREF_IND
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Verify Information:'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Purpose: Ensure the accuracy and reliability of the information provided by
+    ChatGPT.'
+  prefs:
+  - PREF_IND
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Example: “Cross-check facts and data from ChatGPT with trusted sources, especially
+    for critical or sensitive tasks.”'
+  prefs:
+  - PREF_IND
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Manage User Expectations:'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Purpose: Set realistic expectations regarding ChatGPT’s capabilities and limitations.'
+  prefs:
+  - PREF_IND
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Example: “Understand that while ChatGPT can generate useful content, it is
+    not infallible and may require manual review and editing.”'
+  prefs:
+  - PREF_IND
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Leverage Domain Expertise:'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Purpose: Supplement ChatGPT’s outputs with insights from domain-specific experts
+    to enhance quality and accuracy.'
+  prefs:
+  - PREF_IND
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Example: “Use ChatGPT to generate initial ideas or drafts and then have them
+    reviewed by a subject matter expert.”'
+  prefs:
+  - PREF_IND
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Don’t Do This:'
+  prefs:
+  - PREF_H3
+  type: TYPE_NORMAL
+- en: 'Assume ChatGPT Is Infinitely Accurate:'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Risk: Believing that ChatGPT’s responses are always correct can lead to misinformation.'
+  prefs:
+  - PREF_IND
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Alternative: Always verify critical information independently.'
+  prefs:
+  - PREF_IND
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Use Vague Prompts:'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Risk: Vague prompts can lead to irrelevant or off-target responses.'
+  prefs:
+  - PREF_IND
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Alternative: Provide clear and detailed prompts to guide ChatGPT effectively.'
+  prefs:
+  - PREF_IND
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Expect Deep Understanding:'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Risk: ChatGPT does not have true semantic understanding or emotional intelligence.'
+  prefs:
+  - PREF_IND
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Alternative: Use ChatGPT for tasks that require language processing rather
+    than deep contextual understanding.'
+  prefs:
+  - PREF_IND
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Over-Rely on ChatGPT for Critical Decisions:'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Risk: ChatGPT may not provide the depth of analysis required for high-stakes
+    decisions.'
+  prefs:
+  - PREF_IND
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Alternative: Use ChatGPT as a supplementary tool and consult with human experts
+    for critical decisions.'
+  prefs:
+  - PREF_IND
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Ignore the Need for Human Oversight:'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Risk: Outputs from ChatGPT may require refinement and validation.'
+  prefs:
+  - PREF_IND
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Alternative: Always review and edit ChatGPT’s responses to ensure they meet
+    your standards.'
+  prefs:
+  - PREF_IND
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Expect Consistent Responses:'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Risk: ChatGPT’s responses can vary even with the same prompt.'
+  prefs:
+  - PREF_IND
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Alternative: Run multiple iterations and choose the most suitable response.'
+  prefs:
+  - PREF_IND
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Treat ChatGPT as Sentient:'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Risk: Assuming ChatGPT has human-like understanding can lead to misplaced trust.'
+  prefs:
+  - PREF_IND
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Alternative: Remember that ChatGPT generates responses based on patterns in
+    data, not genuine comprehension.'
+  prefs:
+  - PREF_IND
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Overlook Knowledge Scope Limitations:'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Risk: ChatGPT’s knowledge is limited to its training data and may not be up-to-date.'
+  prefs:
+  - PREF_IND
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Alternative: Be aware of the model’s training cut-off and verify any recent
+    information from reliable sources.'
+  prefs:
+  - PREF_IND
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: Conclusion
+  prefs:
+  - PREF_H3
+  type: TYPE_NORMAL
+- en: By focusing on what users can control, such as setting clear objectives, selecting
+    relevant problems, developing operational strategies, and managing expectations,
+    interactions with ChatGPT can be optimised. These practical do’s and don’ts provide
+    a framework for leveraging ChatGPT’s strengths while mitigating potential drawbacks,
+    ensuring that users derive maximum value from their interactions with the AI tool.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Myths, Mistakes, and Biases
+  prefs:
+  - PREF_H2
+  type: TYPE_NORMAL
+- en: 'There are three main myths or biases that will seriously affect your ability
+    to interact with ChatGPT and make the best use of it. These are:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Anthropomorphising ChatGPT
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: Thinking that ChatGPT is Hallucinating
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: Thinking that ChatGPT is Lying to you
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'These are facets of the same root cause problem: a lack of understanding on
+    the architecture, operation, and capabilities of ChatGPT, or any similar conversational
+    AI tool you may encounter.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Anthropomorphisation
+  prefs:
+  - PREF_H3
+  type: TYPE_NORMAL
+- en: Anthropomorphisation is the attribution of human traits, emotions, intentions,
+    or characteristics to non-human entities, objects, or phenomena. This often refers
+    to perceiving software, robots, and artificial intelligence as having human-like
+    feelings, thoughts, or intentions.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Anthropomorphism can have three impacts in work environments:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Perception of AI: People working with ChatGPT or similar AI models may attribute
+    human-like characteristics to the AI system. This could manifest in ways such
+    as believing the AI system has preferences, feelings, or biases.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Collaboration Dynamics: Anthropomorphising AI tools like ChatGPT can affect
+    the dynamics of teams. If team members view the AI system as another “team member,”
+    they may place undue trust or reliance on its outputs, forgetting the AI system
+    operates based on data and algorithms without true consciousness.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Ethical Considerations: As AI becomes more advanced and integrated into work
+    practices, there’s a need to address the ethical implications of anthropomorphisation.
+    Misunderstanding the AI system’s capabilities or role can lead to inappropriate
+    expectations and potential misuse.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'When implementing ChatGPT, it’s essential to educate ourselves and colleagues
+    about the model’s capabilities and limitations. Understanding that the AI system
+    does not have feelings, consciousness, or inherent bias can help in:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Setting realistic expectations for the AI system's role.
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: Avoiding over-reliance on the AI system for critical decisions without human
+    oversight.
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: Recognising the importance of human intuition, experience, and collaborative
+    decision-making.
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: By approaching AI tools like ChatGPT with a clear understanding and setting
+    boundaries, you can harness the AI system’s capabilities without falling into
+    the pitfalls of anthropomorphisation.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Hallucination in AI Systems
+  prefs:
+  - PREF_H3
+  type: TYPE_NORMAL
+- en: Hallucination in AI systems refers to the AI model producing outputs that are
+    not based on its training data or make little sense in a given context. Essentially,
+    the AI system “hallucinates” information that wasn’t explicitly provided or inherent
+    in the input.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Hallucination can have three impacts in AI use situations:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Accuracy of Information: In most work environments, accuracy, and timely information
+    are crucial. If ChatGPT or other AI models hallucinate, it can lead to misguided
+    decisions or misinformed stakeholders.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Project Predictability: In environments that rely on iterative cycles and feedback
+    loops, hallucinated data or insights can disrupt this cycle and lead to unpredictable
+    or undesired outcomes.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Stakeholder Communication: When communicating with stakeholders, presenting
+    AI-generated insights that may have elements of hallucination can erode trust
+    and confidence in the technology.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'It’s essential to be aware of the potential for AI hallucination and have mechanisms
+    in place to validate and cross-check AI-generated insights. AI users can:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Use multiple sources of data or tools to corroborate AI outputs.
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: Always have human oversight, especially when using AI outputs for decision-making
+    or communication.
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: Educate team members about the nature of AI models, ensuring they’re aware of
+    potential inaccuracies.
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: By being proactive and knowledgeable, you can leverage the benefits of conversational
+    AI like ChatGPT, while minimising risks associated with hallucinations.
+  prefs: []
+  type: TYPE_NORMAL
+- en: ChatGPT and the Phenomenon of “Lying”
+  prefs:
+  - PREF_H3
+  type: TYPE_NORMAL
+- en: When individuals claim that ChatGPT “lies,” they are often referring to instances
+    where the model produces outputs that are factually incorrect or not entirely
+    aligned with reality. However, it’s essential to understand that ChatGPT doesn’t
+    have intentions, consciousness, or the ability to deliberately deceive.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Users of ChatGPT should factor in the following factors when considering the
+    potential source of incorrect data:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Lack of Conscious Intent: ChatGPT operates based on patterns in its training
+    data. It doesn’t “think” or have intent in the same way humans do. What may seem
+    like a lie is usually an artifact of its training or a misinterpretation of the
+    prompt.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Limitations of Training Data: If there are inaccuracies or biases in the training
+    data, the model might reproduce those inaccuracies in its outputs.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Overfitting and Generalisation: ChatGPT may sometimes overfit to specific patterns
+    or generalise from its vast dataset, leading to outputs that aren’t entirely accurate
+    for a given prompt.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Even when ChatGPT responds to you about its intentions, or apologises for lying,
+    it is just generating text based on its context. It’s not admitting to lying.
+    Keep these three things in mind:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Trust in AI Outputs: If you develop the perception that ChatGPT as deliberately
+    producing “false” information, it can lead to reduced trust in the tool.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Decision Making: If you’re involved in data-driven decision-making, then inaccurate
+    outputs from ChatGPT can potentially misguide you and your stakeholders.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Feedback Loops: If you’re involved in iterative development and continuous
+    feedback, then misinformation can disrupt these feedback loops.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Take the following steps to address any actual or perceived inaccuracies:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Cross-check crucial AI-generated insights with other sources.
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: Fine-tune or retrain the model with specific, relevant datasets if possible.
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: Understand the importance of precise and clear prompting to get accurate outputs.
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: By understanding the mechanics behind ChatGPT’s outputs and implementing robust
+    validation processes, users can optimise their use of conversational AI while
+    ensuring project integrity.
+  prefs: []
+  type: TYPE_NORMAL
+- en: How should you engage with ChatGPT?
+  prefs:
+  - PREF_H2
+  type: TYPE_NORMAL
+- en: If you use ChatGPT in your professional work, you have both a great opportunity
+    and a significant risk. The opportunity is the exceptional amplification of your
+    capabilities, even when using a “simple” tool like ChatGPT. By “simple” I mean
+    the nature of the conversational interface, not the underlying code and data.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'The risk is reputational: if you screw up the application of ChatGPT outputs,
+    you can be a contributor to impairment or failure of your work processes or even
+    brand damage to your employer or customer.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Please be smart about how you use it.
+  prefs: []
+  type: TYPE_NORMAL
+- en: More from Adam Russell
+  prefs:
+  - PREF_H1
+  type: TYPE_NORMAL
+- en: If you enjoyed this book, check out more of my books and other content at BrainJuice.Media!
+  prefs: []
+  type: TYPE_NORMAL
+- en: Principles of Project Management–Published on [Amazon KDP](https://bjl.ink/pmprinciplesKDP)
+    and Leanpub.com
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Adam On: Projects (Volume 1)–Published on [Amazon KDP](https://bjl.ink/AOPV1Kdp)
+    and Leanpub.com'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Adam On: Projects (Volume 2)–Published on [Amazon KDP](https://bjl.ink/AOPV2Kdp)
+    and Leanpub.com'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Adam On: Projects (Quotations Edition)–Published on [Amazon KDP](https://bjl.ink/AOPVQKdp)
+    and Leanpub.com'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Adam On: Projects (Agile Edition)–Published on [Amazon KDP](https://bjl.ink/AOPVAKdp)
+    and Leanpub.com'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'ChatGPT: The AI Appliance–Published on Leanpub'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: Advanced ChatGPT Application Primer–Published on Leanpub
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Adam On: Advanced ChatGPT for Agile PM–Published in Beta Version on Leanpub'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: Advanced Excel Table Management with TableWiz–Published on Leanpub
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: Advanced Excel Outlining with TreeWiz–Published on Leanpub
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: Project Teaming Principles–Published on [Amazon KDP](https://bjl.ink/projteamprinKDP)
+    and Leanpub.com
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: Principle-based Project Leadership–Published in Beta Version on Leanpub
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: Project Breakdown Structures–Published in Alpha Version on Leanpub
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: Deliverables Management Handbook–Published on [Amazon KDP](https://bjl.ink/DvHbKDP)
+    and Leanpub.com
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: Building a relationship with my readers is the very best thing about writing.
+    Please check out the page [“Getting Engaged with this Book and its Author”](#part0005.xhtml)
+    to see the different options. I’d love for you to join my mailing list. You can
+    find details of this and other contact options in the “Getting Engaged” page.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Check out my other content on the [“BrainJuice.Media Titles Page”](https://bjl.ink/titles)
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Or scan the QR Code below:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](image_rsrc1H5.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: About the Author
+  prefs:
+  - PREF_H1
+  type: TYPE_NORMAL
+- en: The following two sections provide a high-level summary of Adam’s extensive
+    project management career and an update of Adam’s “Career by Numbers”—a breakdown
+    of experience in work hours.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Career Summary
+  prefs:
+  - PREF_H2
+  type: TYPE_NORMAL
+- en: Adam has lived, eaten, slept and breathed the dynamics of Software Development,
+    Software Project Management and large-scale Systems Integration of IT platforms
+    for nearly 45 years. This experience enables a deep understanding of software
+    projects, which informs his ability to successfully deliver projects of all kinds.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Adam started as a developer and later moved into pre-sales technical support
+    and project management. He managed his first project in 1985 and hasn’t looked
+    back.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Adam has extensive enterprise experience on both the supplier and customer sides.
+    He worked for some of the largest companies in Australia, such as News Corp, IAG,
+    Telstra and BHP and numerous large government departments. He has also worked
+    for global vendors such as Hewlett-Packard, Wang Labs and Wipro. This experience
+    resulted in a deep understanding of effective IT governance.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'As a counterpoint, Adam’s experience in startups and working with smaller software
+    companies have instilled the delight of nimble and agile approaches to delivering
+    customer value. Adam aims to implement governance with discipline and agility:
+    strong and disciplined controls where needed, but with agile independence and
+    flexibility that focuses on customer value in product development.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Adam’s strength is bringing together people from all company areas to work on
+    value delivery via software or digital components. Adam loves to solve complex
+    problems in highly dynamic and often chaotic digital environments and thrives
+    on building digital products and bringing them to market.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Adam does this by focusing the team on the outcomes that must be enabled. Although
+    experienced in most traditional plan-based (Waterfall) and Agile methodologies,
+    Adam is not bound to any specific one, preferring to assess each problem on a
+    case-by-case basis and select the minimal tool-set necessary to support each project.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Copyright
+  prefs:
+  - PREF_H1
+  type: TYPE_NORMAL
+- en: A BrainJuice.Media publication.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](image_rsrc1H6.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: First published in Australia in 2023 by BrainJuice.Media an imprint of Tiligent
+    Pty Ltd Copyright © Tiligent Pty Ltd 2023-2024
+  prefs: []
+  type: TYPE_NORMAL
+- en: The moral right of Adam Russell to be identified as the author of this work
+    has been asserted by him in accordance with the Copyright, Designs and Patents
+    Act 1988.
+  prefs: []
+  type: TYPE_NORMAL
+- en: All rights reserved. No part of this publication may be reproduced, stored in
+    a retrieval system or transmitted in any form or by any means, without the prior
+    permission in writing of the publisher, nor to be otherwise circulated in any
+    form of binding or cover other than that in which it is published without a similar
+    condition, including this condition, being imposed on the subsequent purchaser.
+  prefs: []
+  type: TYPE_NORMAL

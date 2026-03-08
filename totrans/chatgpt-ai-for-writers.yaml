@@ -1,0 +1,3658 @@
+- en: '![](image_rsrc1TS.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: ChatGPT For Writers
+  prefs: []
+  type: TYPE_NORMAL
+- en: Improve Your Writing in Fiction and Non-Fiction
+  prefs: []
+  type: TYPE_NORMAL
+- en: By John Iovine
+  prefs: []
+  type: TYPE_NORMAL
+- en: Copyright © 2024 by John Iovine
+  prefs: []
+  type: TYPE_NORMAL
+- en: All rights reserved. No part of this book may be reproduced, duplicated, or
+    transmitted in any form or by any means without the prior written permission of
+    the author or publisher.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Legal Notice:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: This book is protected by copyright law and intended for personal use only.
+    Unauthorized copying, distribution, modification, sale, quotation, paraphrasing,
+    or any other use of its content without the express consent of the author or publisher
+    is strictly prohibited.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Disclaimer:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: This book is intended for educational and entertainment purposes only. While
+    every effort has been made to ensure that the information is accurate, up-to-date,
+    reliable, and complete, no warranties of any kind, express or implied, are provided.
+    The author does not offer legal, financial, medical, or professional advice. Content
+    is derived from various sources; before applying any techniques or recommendations
+    from this book, please consult a licensed professional.
+  prefs: []
+  type: TYPE_NORMAL
+- en: By reading this book, you agree that the author and publisher shall not be held
+    liable under any circumstances for any direct or indirect losses or damages arising
+    from the use of the information contained herein, including errors, omissions,
+    or inaccuracies. You are solely responsible for your own decisions, actions, and
+    outcomes.
+  prefs: []
+  type: TYPE_NORMAL
+- en: (2.3)
+  prefs: []
+  type: TYPE_NORMAL
+- en: Table of Contents
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Introduction](#c25.xhtml)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Chapter 1 – AI-Assisted Writing - Copyright & IP Ownership](#c2P.xhtml)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Chapter 2- AI is a Writer’s Toolbox](#c43.xhtml)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Chapter 3 -Opening an AI Account](#c5U.xhtml)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Chapter 4 - Crafting Prompts](#c7W.xhtml)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Chapter 5- Writing Fiction: Story, Plot and Characters](#cAS.xhtml)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Chapter 6 - Writing Non-Fiction; ideas, outline, and purpose](#cD4.xhtml)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Chapter 7 - Sudowrite For Topics AI Will Not Write](#cF7.xhtml)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Chapter 8 – Letting Characters Speak](#cM9.xhtml)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Chapter 9 - Writing Emotional Scenes](#cNG.xhtml)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Chapter 10 - Adding Mood & Emotion](#cPV.xhtml)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Chapter 11 – Using GPT’s](#cSF.xhtml)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Chapter 12 – Creating a GPT’s That Writes Like You](#cUD.xhtml)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Chapter 13 – Perplexity Spaces](#c12J.xhtml)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Chapter 14 - Defining Your Audience](#c166.xhtml)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Chapter 15 - Writing Description](#c171.xhtml)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Chapter 16 - Writing Poems](#c17X.xhtml)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Chapter 17 – Business Writing](#c18J.xhtml)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Chapter 18 - Exploring OCR Capabilities](#c1BH.xhtml)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Chapter 19 - Basic Book Marketing Research](#c1EZ.xhtml)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[Chapter 20 - Monetize This Book’s Information](#c1GZ.xhtml)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Introduction
+  prefs:
+  - PREF_H1
+  type: TYPE_NORMAL
+- en: Artificial Intelligence (AI) has been used in writing programs for years. Writers
+    are familiar with grammar checkers like Grammarly, Quill Bot, Prowriting Aid,
+    Hemingway, etc. Recently, Generative AI took a quantum leap forward. These newer
+    AIs are creating a paradigm shift in writing—so much so that some writers and
+    their unions are afraid these AIs will demonetize their writing skills and put
+    them out of work.
+  prefs: []
+  type: TYPE_NORMAL
+- en: I feel writers who are afraid of using AI will be replaced by writers who do
+    use AI. I recommend to writers to harness AI to enhance their creativity and increase
+    their productivity.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A collage of images of writing and writing Description automatically generated](image_rsrc1TT.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: While the future of AI is unlimited, currently AI works better in some applications
+    than others. Some AI platforms work better at some applications than other AI
+    platforms. For instance, Perplexity.ai can search the internet for the latest
+    news and research better than OpenAI’s ChaptGPT. That fact may change in the future,
+    but for now, when I research topics, Perplexity is my go-to AI.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Try everything to see what works for you. Because AI continues to evolve, a
+    task that doesn’t work well today may work perfectly six months from now.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Chapter 1 – AI-Assisted Writing - Copyright & IP Ownership
+  prefs:
+  - PREF_H1
+  type: TYPE_NORMAL
+- en: I use AI to edit and improve my writing. I do not use AI to write my books and
+    short stories. Although I have seen many AI instructors advocate this exact use.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![Close-up of a book with text Description automatically generated](image_rsrc1TU.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: For some writers, working with AI tools comes with mixed feelings. The allure
+    of using these platforms to brainstorm, outline, or draft is undeniable, yet they
+    are concerned about creative ownership of their work. Lately the issue of data
+    privacy and concern that AI has the potential to steal creative ideas. Let us
+    look at these two issues further.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Copyright and AI-Assisted Writing
+  prefs: []
+  type: TYPE_NORMAL
+- en: The question of whether AI-generated content can be copyrighted is currently
+    being debated in courtrooms around the world. These court rulings will help set
+    legal precedents, and new legislation may follow based on these rulings, but for
+    now, this is how I see the copyright status of AI-generated and AI-assisted content.
+  prefs: []
+  type: TYPE_NORMAL
+- en: I am not a lawyer; this material on copyrights is based on my own research and
+    opinion and should not be taken as legal advice.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Copyright Basis
+  prefs: []
+  type: TYPE_NORMAL
+- en: Copyright is granted automatically once your art is fixed in tangible form. This
+    is true whether you render a piece of art, write a story, write a song, or record
+    a piece of music. Copyright is an “automatic right.” However, it is much easier
+    to prove you are a legitimate copyright owner if you register your work with the
+    US Government.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Why You Should Register Copyright Your Creative Work
+  prefs: []
+  type: TYPE_NORMAL
+- en: To register your work with the US government, you will need to fill out an application,
+    pay a filing fee, and provide a copy of the work. The copyright office will examine
+    your application to ensure the work is eligible for copyright protection. If so,
+    you will get an official “Certificate of Registration.”
+  prefs: []
+  type: TYPE_NORMAL
+- en: Registered copyright protection makes it easier to pursue legal recourse if
+    anyone uses your work without your consent. If someone tries to use your creative
+    work without permission, you can bring them to court for copyright infringement.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Some Believe AI Creative Work is Not Copyrightable
+  prefs: []
+  type: TYPE_NORMAL
+- en: The idea that AI-rendered work is not copyrightable may come from the following
+    text in the US Government’s regulations on copyright.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A close up of a document Description automatically generated](image_rsrc1TV.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: Government Copyrightable Authorship
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'This text is on chapter 300, page 7 of the US Government’s “Copyrightable Authorship:
+    What Can Be Registered,” see the link below.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[https://www.copyright.gov/comp3/chap300/ch300-copyrightable-authorship.pdf](https://www.copyright.gov/comp3/chap300/ch300-copyrightable-authorship.pdf)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: By following the strict letter of the law as stated by the US Government, the
+    AI-rendered work can be modified by you, which invokes human authorship of the
+    work, and thus, it becomes copyrightable.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Modification of AI Rendered Work
+  prefs: []
+  type: TYPE_NORMAL
+- en: Any meaningful modification of the AI-rendered work can create human authorship. Thereby
+    making the work “AI-assisted” rather than “AI-generated.” AI-assisted creative
+    work is copyrightable.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Registered Copyrights For Me and You
+  prefs: []
+  type: TYPE_NORMAL
+- en: Yes, you can copyright your AI-assisted content.
+  prefs: []
+  type: TYPE_NORMAL
+- en: As a writer looking to copyright your work, it’s crucial to understand these
+    nuances and be vigilant when incorporating AI into your creative work. To keep
+    your creative work copyrightable, my suggestion is to use AI as your writing assistant
+    and collaborator and NOT as a sole content generator.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Stealing Your Ideas
+  prefs: []
+  type: TYPE_NORMAL
+- en: Another concern some writers have in using AI is stealing your writing ideas.
+    Most AI platforms, including ChatGPT and Perplexity, retain user conversations
+    for a period of time—even after a session ends. While users can often delete their
+    conversations, it doesn’t necessarily mean the data is entirely erased from the
+    company’s internal systems. In some cases, conversations may still be used in
+    a limited way to help improve the AI model. For writers, ideas are precious, and
+    understanding where those ideas might travel is essential.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Some of us, myself included, intentionally allow our conversations with AI to
+    remain stored. This lets me revisit discussions to ask follow-up questions or
+    spin off fresh ideas from previous sessions.
+  prefs: []
+  type: TYPE_NORMAL
+- en: How much control do we have over our ideas and data once they’re in the hands
+    of a third-party system?
+  prefs: []
+  type: TYPE_NORMAL
+- en: Ethical AI companies have policies aimed at protecting user data and intellectual
+    property. Still, the legal landscape surrounding AI and creativity remains murky.
+    Despite a company’s best intentions, training data for these models might still
+    contain copyrighted material or generate ideas strikingly similar to those of
+    another user. This isn't necessarily due to malicious intent; rather, it’s an
+    inherent risk of how AI is developed.
+  prefs: []
+  type: TYPE_NORMAL
+- en: It’s also worth noting that, even if a specific conversation remains private,
+    the AI may produce comparable ideas for other users based on patterns from its
+    training data. For writers, this means approaching AI tools with a sense of both
+    opportunity and caution. The benefits are considerable, but so are the potential
+    risks to idea ownership and privacy.
+  prefs: []
+  type: TYPE_NORMAL
+- en: In the end, writers must weigh the creative advantages AI can offer against
+    the possible impacts on their intellectual property. By understanding the issues
+    involved, you can make an informed decision to use (or not use) AI as a creative
+    partner. For myself, I am not concerned with my AI conversation being used as
+    training data.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Chapter 2- AI is a Writer’s Toolbox
+  prefs:
+  - PREF_H1
+  type: TYPE_NORMAL
+- en: '![An open book with glowing pages Description automatically generated](image_rsrc1TW.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: AI can augment and amplify your personal and business writing skills. In many
+    ways, AI surpasses the definition of a tool and may be thought of as a partner
+    and collaborator.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Fiction Writing:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: AI will supercharge your writing process. AI can help generate ideas, plots,
+    plot twists, and characters and rephrase and rewrite text to improve your writing.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Non-Fiction Writing:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: AI can do everything mentioned above, plus assist in developing non-fiction
+    ideas and creating outlines, summarizing text, research, and reference lookups.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Business Writing & Reports
+  prefs: []
+  type: TYPE_NORMAL
+- en: AI can assist in generating business reports from data and writing company emails
+    and product sales copy.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Blogs
+  prefs: []
+  type: TYPE_NORMAL
+- en: Blogs and article writing become so much easier when you have an AI to assist
+    you with writing and researching.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Vision OCR and Reading Charts
+  prefs: []
+  type: TYPE_NORMAL
+- en: AI Vision's capabilities can read and interpret charts and financial reports.
+    It can summarize articles, read legal documents, and help you interpret the text.
+    See Chapter 14.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Psychology and Character Development
+  prefs: []
+  type: TYPE_NORMAL
+- en: You can bounce personal feelings and characters' interpersonal relationships
+    to the AI for feedback.
+  prefs: []
+  type: TYPE_NORMAL
+- en: AI is so competent in psychology that shortly, I expect AI to augment human
+    therapists or become competent clinical social workers themselves. Humans may
+    trust their AI therapist more than their human counterparts.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Putting this aspect of AI will improve your characters' realism and motivation.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Book Contracts & Legal Documents
+  prefs: []
+  type: TYPE_NORMAL
+- en: AI is not a lawyer but can easily pass any bar exam. It can be used to read
+    and explain legal documents and terminology. AI can provide insight into copyright,
+    licenses, book, and article contracts.
+  prefs: []
+  type: TYPE_NORMAL
+- en: It can also write simple legal documents. The boilerplate photography releases
+    available online were too bulky and detailed for my simple transaction. So, I
+    asked my AI to write a photograph release. In the first round, the AI gave me
+    a three-page release. That was still too much legalize. I asked the AI to reduce
+    it to one page. It performed and gave me the bare-bone release I needed with the
+    extra-legal verbiage.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Poems, Song & Music Writing
+  prefs: []
+  type: TYPE_NORMAL
+- en: AI can write poetry, songs, and music. I don’t expect a Grammy winner to thank
+    his AI for his hit song, but that doesn’t mean it hasn’t happened.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Translation
+  prefs: []
+  type: TYPE_NORMAL
+- en: Provide your AI with text, and the AI can translate that text into any number
+    of languages or translate foreign languages into English.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Writing Tutor
+  prefs: []
+  type: TYPE_NORMAL
+- en: The AI can tutor you in many subjects, including English. AI can act like a
+    grammar checker, thesaurus, and dictionary and offer word alternatives.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Problem Solving – Working with Hemingway
+  prefs: []
+  type: TYPE_NORMAL
+- en: If you have a thorny plot problem or writing issue, you can work it through
+    with the AI acting like one of your favorite or famous writers. Imagine working
+    with a Hemingway AI or Fitzgerald AI on a plot point.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Research
+  prefs: []
+  type: TYPE_NORMAL
+- en: The latest iteration of AIs has access to the Internet. This means they can
+    help you with research and history.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Everyday Miscellaneous Issues
+  prefs: []
+  type: TYPE_NORMAL
+- en: I turn to AI to help me solve minor issues. In the last few days, I have asked
+    it how to add a heart to an iPhone text message, explain the difference between
+    the hot, common, and ground in a home AC power system, draw a simple op-amp amplifier
+    using a 741 op-amp, and generate a text-to-art prompt based on a picture I uploaded
+    to the AI. The AI helped me troubleshoot unlocking the screen rotation on my iPad.
+  prefs: []
+  type: TYPE_NORMAL
+- en: What more would you want from a writing assistant?
+  prefs: []
+  type: TYPE_NORMAL
+- en: Remember, AI can be many things, it can be a tool, your assistant, and your
+    collaborator.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Copyrights - Authenticity of Originality
+  prefs: []
+  type: TYPE_NORMAL
+- en: This question was answered in Chapter 1.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Most writers are already using AI augmentation. Sophisticated writing tools,
+    like Grammarly, Quill Bot, and spell checkers, use AI. I believe that when AI
+    is used as a tool rather than a content creator, you are still the creator, and
+    your work is authentic to you and copyrightable.
+  prefs: []
+  type: TYPE_NORMAL
+- en: GPT4o is one of Many.
+  prefs: []
+  type: TYPE_NORMAL
+- en: GPT is the acronym for "Generative Pre-trained Transformer." This language model
+    has been trained on a large amount of text (deep learning) to produce results
+    that mimic human writing. When you add the word "Chat" to GPT, you get "ChatGPT,"
+    which is a chatbot.
+  prefs: []
+  type: TYPE_NORMAL
+- en: There are many AI platforms on the market. ChatGPT from OpenAI is one of the
+    most recognizable; it may not be the best in every application.
+  prefs: []
+  type: TYPE_NORMAL
+- en: GPT4o is a powerful AI tool that will help you create great content. In this
+    book, I will demonstrate with examples how to use these AIs effectively.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Chapter 3 -Opening an AI Account
+  prefs:
+  - PREF_H1
+  type: TYPE_NORMAL
+- en: '![A person looking at a message Description automatically generated with medium
+    confidence](image_rsrc1TX.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: You have many options when it comes to choosing an AI. I will use OpenAI as
+    a primary example. Near the end of the chapter, alternative AI’s are listed.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Signing Up for ChatGPT
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Go to:  [https://chat.openai.com](https://chat.openai.com)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A white background with black text Description automatically generated](image_rsrc1TY.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: Register for an account using your email address and create a password; see
+    image below.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A screenshot of a login form Description automatically generated](image_rsrc1TZ.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: You can use ChatGPT3 for free, which is the best way to start. When ready, you
+    can upgrade to ChatGPT4 for $20.00 per month. At this subscription level, you
+    have access to GPT4o (omni), a higher-level AI model with better creativity.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A screenshot of a computer Description automatically generated](image_rsrc1U0.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: Once your account is created and your email verified, you can access the ChatGPT
+    AI.
+  prefs: []
+  type: TYPE_NORMAL
+- en: ChatGPT4 is considered the legacy model. New iterations of ChatGPT are GPT-40,
+    GPT4o Omni, 01 preview, GPT-40 with Canva, and 01-mini.
+  prefs: []
+  type: TYPE_NORMAL
+- en: More AI Bots
+  prefs: []
+  type: TYPE_NORMAL
+- en: OpenAI’s ChatGPT is probably the most familiar of the Chatbots, but numerous
+    alternatives exist. Most AI bots have similar sign-on procedures and typically
+    a free version for people to try.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Twitter X Grok
+  prefs: []
+  type: TYPE_NORMAL
+- en: Grok.ai is available to premium members of Twitter X. As of this writing, the
+    monthly cost for access is $16.00 per month. Grok's unique advantage lies in its
+    ability to provide unbiased information on politically charged topics, such as
+    climate change, immigration, and green energy costs, without being influenced
+    by politically correct thinking. This gives users a more objective and factual
+    perspective on these issues, fostering a more informed and open dialogue.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Perplexity
+  prefs: []
+  type: TYPE_NORMAL
+- en: The free version of Perplexity.ai can be accessed here.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[https://www.perplexity.ai/](https://www.perplexity.ai/)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: The pro version costs $20.00 per month.
+  prefs: []
+  type: TYPE_NORMAL
+- en: What is exceptional about this AI, is that it does an extensive web search to
+    answer the question. It provides the reference URLs to its answer. AIs are adding
+    web searches so that up-to-date information can be accessed.
+  prefs: []
+  type: TYPE_NORMAL
+- en: AI Aggregators – Futurepedia, Gmtech, Magai, Edenai
+  prefs: []
+  type: TYPE_NORMAL
+- en: The One Service To Include Them All
+  prefs: []
+  type: TYPE_NORMAL
+- en: There are AI aggregators services that allow their users to access and use a
+    wide variety of LLM and Image Generators for one monthly cost.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Basic services start at $14.99 per month. Accessing an AI costs a fractional
+    amount, typically around $0.01 per AI response. Each service has its unique plan.
+    So you need to visit the AI site to get its particulars.
+  prefs: []
+  type: TYPE_NORMAL
+- en: This money is deducted from your credits. Additional credits can be purchased
+    if you exceed your $5.00 monthly allocation.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[https://gmtech.com/](https://gmtech.com/)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Below is a screenshot image of their current AI integrations.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A screenshot of a computer Description automatically generated](image_rsrc1U1.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: To reach Magai
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[https://magai.co/](https://magai.co/)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Magai provides access to over 16 large language models, and more than 5 AI image
+    models.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'To reach Futurepedia:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[https://www.futurepedia.io/](https://www.futurepedia.io/)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'To reach Eden AI:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[https://www.edenai.co/](https://www.edenai.co/)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: You may want to search for new AI aggregators, as more services are showing
+    up all the time. These services offer users access to various AI platforms for
+    one monthly price.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Chapter 4 - Crafting Prompts
+  prefs:
+  - PREF_H1
+  type: TYPE_NORMAL
+- en: Using AI effectively involves crafting prompts that communicate with the AI
+    in such a manner as to obtain your desired results.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A blue and purple background with a blue line Description automatically generated
+    with medium confidence](image_rsrc1U2.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: This book will guide you to write effective prompts for writing. Writing prompts
+    for financial analysis, physics, and astronomy would require a different methodology
+    that what is outline here.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Crafting effective prompts is a learnable skill.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Prompts
+  prefs: []
+  type: TYPE_NORMAL
+- en: I don’t think anyone would argue that crafting prompts is the key to unleashing
+    the power of AI.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'You can use ChatGPT AI to do any of the following:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 1 - Generate book ideas based on a topic.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 2 - Generate fiction book outlines.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 3 - Generate book titles.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 4 - Summarize text
+  prefs: []
+  type: TYPE_NORMAL
+- en: 5 - Rewrite and improve text.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 6 - Help create book characters.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 7 - Generate non-fiction outlines (solar, wind energy, etc.)
+  prefs: []
+  type: TYPE_NORMAL
+- en: 8 - Generate character descriptions.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 9 - Generate pros and cons of decisions or ideas.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 10 - Generate lists.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 11 - Generate poems
+  prefs: []
+  type: TYPE_NORMAL
+- en: 12 – Generate songs
+  prefs: []
+  type: TYPE_NORMAL
+- en: 13 – Critique and give feedback on your story/text.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 14 – Problem-solving - Help with police procedures etc.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 15 - Language translations
+  prefs: []
+  type: TYPE_NORMAL
+- en: 16 - Generate prompts for Text to Art AI.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 17 - Personal Instructor for learning
+  prefs: []
+  type: TYPE_NORMAL
+- en: 18 - Write emails – personal and business
+  prefs: []
+  type: TYPE_NORMAL
+- en: 19 - Craft response – business and personal
+  prefs: []
+  type: TYPE_NORMAL
+- en: 20 - Act as a tutor when taking online learning classes
+  prefs: []
+  type: TYPE_NORMAL
+- en: 21 - Offer insight into your character's behavior.
+  prefs: []
+  type: TYPE_NORMAL
+- en: The above list is only a fraction of AI capabilities. Many of the prompts we
+    touch upon in this chapter are explored in greater detail in the following chapters.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Prompt Classifications - Open, Fixed and Conversation (Chat)
+  prefs: []
+  type: TYPE_NORMAL
+- en: Open - Open prompts allow the AI to generate the most creative responses. For
+    example,  “Write 300 words on the advantages of Solar Energy.” The topic can vary,
+    such as the best foods for diabetics, diets, etc.
+  prefs: []
+  type: TYPE_NORMAL
+- en: ChatGPT did an excellent job writing 300 words on the advantages of solar energy.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A screenshot of a computer Description automatically generated](image_rsrc1U3.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: Fixed - This prompt asks for a specific fact or facts. For example, “Who was
+    the third President of the United States?” Keep in mind that the AI can hallucinate
+    facts and data, so remember to double-check its data output.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A screenshot of a computer Description automatically generated](image_rsrc1U4.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: Chat - Creating a character response with ChatGPT. In this scenario, my 13-year-old
+    character, Tommy, has a problem Explaining to his doctor dad why he failed a biology
+    test. I asked ChatGPT to give me a few ideas of how a character may respond to
+    a dilemma. ChatGPT provided six possible options.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A screenshot of a computer Description automatically generated](image_rsrc1U5.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: Jumping Off From Any Branch
+  prefs: []
+  type: TYPE_NORMAL
+- en: You can use any one of those AI response ideas as a jumping-off point, or those
+    suggestions could even trigger your imagination for a completely different response
+    you may want to pursue.
+  prefs: []
+  type: TYPE_NORMAL
+- en: It’s Not Just One (Bite of the Apple) Prompt
+  prefs: []
+  type: TYPE_NORMAL
+- en: I see many people writing prompts and ending the conversation with AI after
+    one prompt. No. You can continue asking and refining your question and drilling
+    down until YOU are satisfied with the answer.
+  prefs: []
+  type: TYPE_NORMAL
+- en: You can continue to ask the AI multiple questions to clarify or simplify its
+    answer.
+  prefs: []
+  type: TYPE_NORMAL
+- en: In the above example, suppose you wanted to pursue the “Avoidance” scenario.
+    You could ask the AI to fill out the idea with the potential consequences for
+    Tommy for taking this action.
+  prefs: []
+  type: TYPE_NORMAL
+- en: If the AI’s response is too vague, drill down with additional prompts asking
+    for greater detail.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Talk To Me, Formal – Informal
+  prefs: []
+  type: TYPE_NORMAL
+- en: You can direct the AI to write responses in a formal, academic manner.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Or you can ask the AI to respond in a friendly, informal manner. I would shy
+    away from AI jokes and AI sarcasm. The last time I checked, the AI hasn’t evolved
+    to the point where that can be pulled off credibly.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Positive and Confident
+  prefs: []
+  type: TYPE_NORMAL
+- en: I like my AI to be positive and confident. But I wouldn’t want to ask my AI
+    to be “Positive & Confident” at the beginning of every conversation. Here is where
+    you can implement GPT’s.
+  prefs: []
+  type: TYPE_NORMAL
+- en: I devoted a full chapter to how to create GPT’s and what they are. Think of
+    them as a procedural prompt script that is saved to the OpenAI server and can
+    be called by you at any time.
+  prefs: []
+  type: TYPE_NORMAL
+- en: In general, the quality of the AI’s response is proportional to the quality
+    of your prompt. The following are a bunch of quick-start tips for writing effective
+    prompts. Many of these tips have full chapters devoted to exploring its use.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Segmenting AI’s Large Knowledge Base
+  prefs: []
+  type: TYPE_NORMAL
+- en: The AI has a tremendously large knowledge database. We can obtain better responses
+    by telling the AI we want it to segment its knowledge to an area we are interested
+    in. Many prompts of this type begin with the famous “As an expert [ you name the
+    topic].
+  prefs: []
+  type: TYPE_NORMAL
+- en: Establish a Persona For The AI
+  prefs: []
+  type: TYPE_NORMAL
+- en: In addition to the “As an expert” prompt, we can prompt the AI to assume a Persona.
+    This persona could be a doctor, detective, marine, cop, astronaut, dock worker,
+    etc. In writing, you can ask the AI to assume a persona and to respond or ask
+    how the persona would react in your fictional situation.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Establish Your Audience
+  prefs: []
+  type: TYPE_NORMAL
+- en: It can be necessary for the AI to know its audience. Explaining a medical issue
+    to an adolescent is different than to an adult and different from other medical
+    professionals.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Establishing the AIs Tonality
+  prefs: []
+  type: TYPE_NORMAL
+- en: We touched up this before. Do we want the AI to respond in a neutral, formal,
+    informal, friendly, and confident manner?
+  prefs: []
+  type: TYPE_NORMAL
+- en: Background
+  prefs: []
+  type: TYPE_NORMAL
+- en: Giving the AI some set-up and setting will improve its response. Imagine the
+    difference in a marine’s response when fighting in a jungle, urban city, or spaceport
+    50 light years from the Earth.
+  prefs: []
+  type: TYPE_NORMAL
+- en: By incorporating this information into your prompt, the AI’s response will be
+    focused and on target.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Keys to Creating Great Prompts-      Wash, Rinse, and Repeat
+  prefs: []
+  type: TYPE_NORMAL
+- en: 1) Write your prompt in the text box and hit send.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 2) ChatGPT will process your prompt and write its response in the chat area.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 3\. Analyze ChatGPT’s response
+  prefs: []
+  type: TYPE_NORMAL
+- en: 4) Refine your original prompt to obtain better results.
+  prefs: []
+  type: TYPE_NORMAL
+- en: The upcoming chapters will explore the tips we touched up here.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Chapter 5- Writing Fiction: Story, Plot and Characters'
+  prefs:
+  - PREF_H1
+  type: TYPE_NORMAL
+- en: '![A light bulb inside a book Description automatically generated](image_rsrc1U6.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: Fiction - Story Plot and Outline
+  prefs: []
+  type: TYPE_NORMAL
+- en: If you have an idea for a story or don’t, you can ask AI to fill in a story
+    plot and outline.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Let’s start with the first scenario: You have an idea you want to develop and
+    move forward with. The following is an idea I have for a science fiction story
+    I plan on writing.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: A group of astronauts orbiting the Earth sees it suddenly disappear. However,
+    the Earth's clouds are still present, and the space station and moon are still
+    held in orbit of the missing planet. One astronaut remembered reading about an
+    experiment at CERN to create a subatomic black hole. The astronauts surmised the
+    black hole was made and swallowed the Earth. Their only hope is to break orbit
+    and get to Mars, where supplies are waiting to start a small colony.
+  prefs: []
+  type: TYPE_NORMAL
+- en: I added the following directive to the beginning of my idea. Write a plot and
+    story outline for the following science fiction novel.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A screenshot of a computer Description automatically generated](image_rsrc1U7.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: Next, I sent my request and idea to ChatGPT4, and I obtained three parts plus
+    an epilogue. Part 1 is shown below.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A screenshot of a computer Description automatically generated](image_rsrc1U8.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: The AI provided a title for the book “Whispers in the Void” that I consider
+    an OK working title.  Part 1 closely follows my thoughts. Let’s move on to part
+    2.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A screenshot of a computer Description automatically generated](image_rsrc1U9.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: The first two plot points in part 2 align with my thinking. However, plot points
+    3 and 4 are not. I think there are only supplies on Mars waiting in anticipation
+    for colonists to arrive. Let’s continue to part 3.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A screenshot of a computer Description automatically generated](image_rsrc1UA.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: In part 3, the deviation from my original thoughts for this story continues.
+    If this were an active project, I could massage my original prompt to adhere more
+    closely to my ideas. Or I could incorporate the randomness of the AI plot points.
+    Read plot point 4, Echos from Earth. This would certainly be a twist after thinking
+    everyone on Earth was dead for most of the story.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Now, we move on to the final part, the Epilogue.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A white text on a white background Description automatically generated](image_rsrc1UB.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: I am not thrilled with the Epilogue, but if this were an active project, the
+    epilogue could be developed.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Second Scenario -  I don’t know what I want to write next.
+  prefs: []
+  type: TYPE_NORMAL
+- en: You have succumbed to writer’s block. You want to write a science fiction story
+    but don’t have an idea. You can ask the AI to come up with ten ideas for a science
+    fiction story, or you can choose a topic yourself.
+  prefs: []
+  type: TYPE_NORMAL
+- en: First, we have the AI come up with ten ideas.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A screenshot of a computer Description automatically generated](image_rsrc1UC.jpg)![A
+    screenshot of a computer Description automatically generated](image_rsrc1UD.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: You can run with any of those ideas or use your own. Let’s run with the first
+    idea generated by the AI. Let’s add my directive sentence, Write a plot and story
+    outline for the following science fiction novel, to the beginning of the idea.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A screenshot of a computer Description automatically generated](image_rsrc1UE.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: Again, the AI has created a suitable title, background, and protagonist. Moving
+    on to part 2.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A screenshot of a computer Description automatically generated](image_rsrc1UF.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: The AI provides excellent plot points and development, on to part 3.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A screenshot of a computer Description automatically generated](image_rsrc1UG.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: The AI develops the plot, beginning with a personal issue for the protagonist
+    and progressing to a global issue for the world in part 4.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A screenshot of a computer Description automatically generated](image_rsrc1UH.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: A complete story outline. Remember, every section and plot point can be tweaked
+    to align with your vision and sensibilities.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Chapter 6 - Writing Non-Fiction; ideas, outline, and purpose
+  prefs:
+  - PREF_H1
+  type: TYPE_NORMAL
+- en: '![A light bulb on an open book Description automatically generated](image_rsrc1UJ.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: Non-Fiction Work
+  prefs: []
+  type: TYPE_NORMAL
+- en: If you are using AI to assist in writing non-fiction material, be careful. AI
+    can sometimes “hallucinate” information, providing inaccurate or fabricated information
+    in such great detail as you would unquestioningly consider it true.
+  prefs: []
+  type: TYPE_NORMAL
+- en: When researching a medical topic, I have had an AI completely fabricate medical
+    facts with fake citations to non-existent studies and papers with fictional non-working
+    URLs. I was stunned by the details involved in the fabrication by the AI.
+  prefs: []
+  type: TYPE_NORMAL
+- en: We, unfortunately, have a tendency to believe computers and AI when they are
+    quoting facts. Always verify any facts generated by AI. With AI, trust but verify.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Plagiarism
+  prefs: []
+  type: TYPE_NORMAL
+- en: AI tools are designed not to copy existing content verbatim, it’s wise to run
+    AI-generated text through a plagiarism checker as a precaution.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Non-Fiction Idea and Outline
+  prefs: []
+  type: TYPE_NORMAL
+- en: You can direct an AI to develop ideas and outlines if you have an idea for a
+    nonfiction article or book. You can also direct the AI to provide ideas if you
+    are lost for ideas.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Let’s start with the first scenario: You have an idea you want to develop and
+    move forward with. The following is an idea I have for personal development that
+    I plan on writing about.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: While many self-help how-to development articles/books focus on goal setting,
+    my article will be specifically on perseverance toward a goal. When a person initially
+    sets a goal, the excitement and the plans to achieve drive you forward. Most worthwhile
+    goals take a considerable amount of time to achieve. So my article is about how
+    to persevere and keep grinding toward your goal when your enthusiasm dissipates,
+    and you prefer to stop and pursue a different bright and shiny goal.
+  prefs: []
+  type: TYPE_NORMAL
+- en: I added the following directive to the beginning of my idea. Rewrite and improve
+    this idea as a directive to develop this idea into an outline for writing.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A close up of a text Description automatically generated](image_rsrc1UK.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: The AI responds with a title and objective.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A screenshot of a article Description automatically generated](image_rsrc1UM.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: Followed by a 7 chapter outline, with sub-points to hit inside each chapter.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A list of goals with text Description automatically generated](image_rsrc1UN.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: It ends its response with a note to the writer.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A white background with black text Description automatically generated](image_rsrc1UP.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: Greater focus
+  prefs: []
+  type: TYPE_NORMAL
+- en: I could get the AI to achieve greater focus by defining a personality to imitate
+    and an audience. I am not doing that here. Let’s assume you are happy with this
+    outline; one way you could proceed is to ask the AI to write on each point.
+  prefs: []
+  type: TYPE_NORMAL
+- en: The first point in Chapter 1, Introduction, is to briefly discuss the universal
+    allure of setting new goals.
+  prefs: []
+  type: TYPE_NORMAL
+- en: You could begin fleshing out the document by asking the AI to write 100 words
+    on that first point.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Write 100 words - briefly discuss the universal allure of setting new goals.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'ChatGPT responds with:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A screenshot of a computer Description automatically generated](image_rsrc1UR.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: You can continue in this manner until you have a complete article ready for
+    editing.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Idea Generation
+  prefs: []
+  type: TYPE_NORMAL
+- en: If you don’t have a clear-cut topic for your article/book, you can ask the AI
+    to create ideas for you. Using the idea of required perseverance toward a goal,
+    we can ask the AI the following.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Please generate five self-help article ideas that focus on the how-to of maintaining
+    perseverance in achieving a goal.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A screenshot of a computer Description automatically generated](image_rsrc1US.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: Each article idea provided by the AI can be drilled down as we did with the
+    first idea.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Chapter 7 - Sudowrite For Topics AI Will Not Write
+  prefs:
+  - PREF_H1
+  type: TYPE_NORMAL
+- en: '![A child writing on a paper with a robot Description automatically generated](image_rsrc1UT.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: There are some things, well many things, our standard AI platforms will refuse
+    to write. In the case of ChatGPT, anything outside OpenAI’s Content Guidelines
+    will be rejected or throttled back in content. These include too graphic scenes
+    of violence, sex, rape, incest, or slavery. I can’t list everything that could
+    trigger a content warning or dismissal of services, but in the middle of writing
+    a novel, you don’t want to argue with your AI writing assistant.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A close-up of a white background Description automatically generated](image_rsrc1UU.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: Sudowrite will assist you in writing when other platforms refuse your request.
+    Sudowrite is an AI designed to assist writers in writing creative fiction. Like
+    other AIs, Sudowrite is intended to assist you in your writing, not to do the
+    writing for you.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Sudowrite is powerful, and I feel it is a little better than general-purpose
+    AIs for writing fiction. However, for non-fiction writing, I feel GPT4o is the
+    stronger AI.
+  prefs: []
+  type: TYPE_NORMAL
+- en: That said, let’s examine a few of Sudowrite's features for fiction. The following
+    is the stock Sudowrite home screen.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A screenshot of a computer Description automatically generated](image_rsrc1UV.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: Keep in mind that this is a quick overview of Sudowrite. To explore all of its
+    features, a book would be required. However, beginners can utilize Sudowrite at
+    its elementary levels and still derive excellent results.
+  prefs: []
+  type: TYPE_NORMAL
+- en: This is my home screen of Sudowrite.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A screenshot of a computer Description automatically generated](image_rsrc1UW.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: To change the color theme, hit the settings gear icon in the upper right. That
+    opens the following screen;
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A screenshot of a computer Description automatically generated](image_rsrc1UX.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: I changed the theme from Sorbet to Amber.
+  prefs: []
+  type: TYPE_NORMAL
+- en: New Projects
+  prefs: []
+  type: TYPE_NORMAL
+- en: When you select a project, a new Sudowrite screen opens up for writing and editing.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A screenshot of a computer Description automatically generated](image_rsrc1UY.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: The center screen is the editor. It has the expected editor controls in its
+    upper left-hand corner.
+  prefs: []
+  type: TYPE_NORMAL
+- en: The Project list to the left of the editor lists your projects.
+  prefs: []
+  type: TYPE_NORMAL
+- en: The History panel is to the right of the editor. It shows the history of Sudowrite’s
+    generated content. Below each card, you can insert or copy the text. You can also
+    highlight and copy portions of the text to use in your writing.
+  prefs: []
+  type: TYPE_NORMAL
+- en: The canvas option at the lower left opens a screen that allows you to visualize
+    text. Much like a text-to-art AI. See example below
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A screenshot of a video game Description automatically generated](image_rsrc1UZ.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: The Features Toolbar provides options that would require a prompt in standard
+    GPT4o.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Rewrite
+  prefs: []
+  type: TYPE_NORMAL
+- en: If you highlight text in the editor, you get the following options to act upon
+    that highlighted text.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A screenshot of a computer Description automatically generated](image_rsrc1V0.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: 'If you choose to Rewrite, on the right-hand side of the screen, you are provided
+    the following options:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A screenshot of a phone Description automatically generated](image_rsrc1V1.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: Select from the drop-down menu what operation you want Sudowrite to perform
+    and hit go.
+  prefs: []
+  type: TYPE_NORMAL
+- en: The results will be shown on the right side of the screen, ready for you to
+    insert, copy, or edit into your story.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Quick Chat
+  prefs: []
+  type: TYPE_NORMAL
+- en: Quick Chat is like a ChatGPT prompt screen. When you highlight text in the editor,
+    you get the following options.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](image_rsrc1V2.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: Clicking on “Quick Edit” opens a prompt window. Here, you can enter ChaptGPT-style
+    prompts to edit your highlighted text.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A black rectangular object with white text Description automatically generated](image_rsrc1V3.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: 'I entered a prompt, asking Sudowrite to make the text more descriptive. The
+    result was the following:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A screenshot of a computer Description automatically generated](image_rsrc1V4.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: I could either accept or reject Sudowrite's output.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Writing for You
+  prefs: []
+  type: TYPE_NORMAL
+- en: You can direct Sudowrite to write for you. Why? Suppose you have reached an
+    impasse and have writer’s block. Sudowrite can read what you have written and
+    add some meaningful text.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A screenshot of a computer Description automatically generated](image_rsrc1V5.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: I placed my cursor at the end of the last sentence in the screenshot. Then,
+    I clicked on Write in the Features Toolbar. The text shown on the right of the
+    screenshot is the text generated by Sudowrite.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Descriptions
+  prefs: []
+  type: TYPE_NORMAL
+- en: If you highlight an item inside your text, you can ask Sudowrite to write a
+    description of that item. It will write a description for each of the five senses,
+    plus a metaphor. Each option can be turned on or off.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A screenshot of a phone Description automatically generated](image_rsrc1V6.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: As an example, imagine highlighting the words “gold ring” and asking Sudowrite
+    to describe it. Sudowrite will produce the following outputs.
+  prefs: []
+  type: TYPE_NORMAL
+- en: SIGHT
+  prefs: []
+  type: TYPE_NORMAL
+- en: The gold ring sparkles under the bright sunlight, its polished surface reflecting
+    the rays in a dazzling display of light and color. Its band is thin and delicate,
+    adorned with intricate engravings of vines and leaves.
+  prefs: []
+  type: TYPE_NORMAL
+- en: The gold ring shimmers under the sunlight, its surface catching and reflecting
+    every beam, creating a dazzling display of lights. The metal is polished to a
+    brilliant shine, creating a sense of luxury and elegance.
+  prefs: []
+  type: TYPE_NORMAL
+- en: The gold ring gleamed in the sunlight, its smooth and polished surface reflecting
+    the surrounding scenery like a mini mirror.
+  prefs: []
+  type: TYPE_NORMAL
+- en: SMELL
+  prefs: []
+  type: TYPE_NORMAL
+- en: The ring emits a faint scent of metal and earth, hinting at the natural elements
+    used to create it.
+  prefs: []
+  type: TYPE_NORMAL
+- en: The gold ring has no scent, but the oils and perfumes of its wearer cling to
+    it, leaving a trace of sweetness and warmth.
+  prefs: []
+  type: TYPE_NORMAL
+- en: The metallic scent of gold wafted from the ring, filling the air with the aroma
+    of wealth and luxury.
+  prefs: []
+  type: TYPE_NORMAL
+- en: TASTE
+  prefs: []
+  type: TYPE_NORMAL
+- en: If licked, the gold ring would leave a metallic taste on the tongue, a reminder
+    of its precious material.
+  prefs: []
+  type: TYPE_NORMAL
+- en: The ring has no taste, but a lingering sensation of warmth and familiarity remains
+    on the tongue as if a loved one's touch still lingers.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Although not recommended, licking the ring would reveal a faint taste of metal,
+    similar to licking coins.
+  prefs: []
+  type: TYPE_NORMAL
+- en: SOUND
+  prefs: []
+  type: TYPE_NORMAL
+- en: A soft clinking sound can be heard as the ring is slid onto a finger. Tapping
+    against a hard surface produces a crisp ringing sound that signifies its value.
+  prefs: []
+  type: TYPE_NORMAL
+- en: As the ring is picked up and moved, it creates a soft clinking sound, almost
+    like tiny bells chiming together, a delicate melody that adds to its allure.
+  prefs: []
+  type: TYPE_NORMAL
+- en: As it falls, the gold ring clinks against other gold rings in a pleasing tinkling
+    sound, a symphony of wealth.
+  prefs: []
+  type: TYPE_NORMAL
+- en: TOUCH
+  prefs: []
+  type: TYPE_NORMAL
+- en: The gold ring feels cool and smooth to the touch, its weight light yet substantial.
+    Run your fingers along the engravings and feel the slight indentations of the
+    design.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Running a finger along the ring feels smooth and cool to the touch. The metal
+    is solid and unyielding yet comforting in its weight.
+  prefs: []
+  type: TYPE_NORMAL
+- en: The ring felt warm to the touch, its smooth surface hinting at the skill and
+    craftsmanship that went into creating it.
+  prefs: []
+  type: TYPE_NORMAL
+- en: METAPHOR
+  prefs: []
+  type: TYPE_NORMAL
+- en: The ring gleamed like a golden droplet of sunshine, a bright spot of wealth
+    and opulence amidst the dull gray of everyday life.
+  prefs: []
+  type: TYPE_NORMAL
+- en: METAPHOR
+  prefs: []
+  type: TYPE_NORMAL
+- en: The ring was like a tiny sun, casting golden rays that shimmered and danced
+    across the surface of her finger.
+  prefs: []
+  type: TYPE_NORMAL
+- en: ChatGPT4
+  prefs: []
+  type: TYPE_NORMAL
+- en: Asking ChatGPT4 to describe a gold ring renders the following output.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A screenshot of a computer Description automatically generated](image_rsrc1V7.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: SudoWrite’s SuperPower
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Sudowrite has many features that I haven’t touched up. But I would be remiss
+    not to mention what I believe is the most important feature available in Sufowrite:
+    its “Story Bible.”'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Story Bible
+  prefs: []
+  type: TYPE_NORMAL
+- en: Clicking on Story Bible opens a page of questions about your story that will
+    help the Sudowrite AI stay on track and produce good content. AIs tend to wander
+    and branch out, writing content that doesn’t relate to the story at hand.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A screenshot of a book Description automatically generated](image_rsrc1V8.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: The full-page GUI is shown below.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A screenshot of a computer Description automatically generated](image_rsrc1V9.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: The story bible is an invaluable asset that many fiction writers have reviewed
+    positively. However, it’s extensive and labor-intensive to fill out correctly.
+    This is the Garbage-in-Garbage-out computer philosophy. If you want the best content
+    from the Sudowrite AI, fill out the story bible with the best content. Remember,
+    you are not obligated to complete the entire story bible in one go. It can be
+    filled out over several writing sessions.
+  prefs: []
+  type: TYPE_NORMAL
+- en: I would only invest the time filling out the Story Bible for more complex writing
+    projects, such as novels and short story series.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Cost
+  prefs: []
+  type: TYPE_NORMAL
+- en: Sudowrite pricing is purchasing credits. The program consumes credits as it
+    performs writing assignments.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Learning Sudowrite
+  prefs: []
+  type: TYPE_NORMAL
+- en: There are many resources available to learn Sudowrite. The company Sudowrite
+    offers live classes and has an extensive library of tutorial videos on YouTube.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Sudowrite has a Discord channel you can join.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Many independent writers also uploaded Sudowrite tutorial videos on YouTube.
+  prefs: []
+  type: TYPE_NORMAL
+- en: YouTube Video’s
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[https://www.youtube.com/watch?v=LwUIAvOIGUE&t=7s](https://www.youtube.com/watch?v=LwUIAvOIGUE&t=7s)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Alternative AIs
+  prefs: []
+  type: TYPE_NORMAL
+- en: Here is a short list of AIs that are specific to writing.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Rytr
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[https://rytr.me/](https://rytr.me/)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: ShortyAI
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[https://www.shortlyai.com/](https://www.shortlyai.com/)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: WriteSonicAI
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[https://writesonic.com/](https://writesonic.com/)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: JasperAI
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[https://www.jasper.ai/tools](https://www.jasper.ai/tools)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Chapter 8 – Letting Characters Speak
+  prefs:
+  - PREF_H1
+  type: TYPE_NORMAL
+- en: '![A group of people standing together Description automatically generated](image_rsrc1VA.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: Much like an actor, you can direct ChatGPT to adopt a persona or character before
+    responding to a prompt. The purpose is to tailor the AI’s response to achieve
+    your desired outcome. For instance, you can direct the AI to respond as a professional
+    persona, such as a doctor, lawyer, or Indian chief.
+  prefs: []
+  type: TYPE_NORMAL
+- en: For instance, in a fictional scene, you may ask the AI to rewrite a little dialog
+    as if one character were a doctor talking to another character with a medical
+    issue. This will add a measure of realism.
+  prefs: []
+  type: TYPE_NORMAL
+- en: To see how assuming a character works, I asked ChatGPT4 to write a 100-word
+    description of an Apollo liftoff, first as a rocket scientist and then as a 13-year-old
+    boy.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A screenshot of a computer Description automatically generated](image_rsrc1VB.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: I have had fun writing a passage of text and then asking ChatGPT to rewrite
+    it using the voice of a famed horror writer or hardboiled detective novelist.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Here’s a rewritten piece using the voice of a famous horror writer
+  prefs: []
+  type: TYPE_NORMAL
+- en: And here’s the hard boil detective writer.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A screenshot of a text message Description automatically generated](image_rsrc1VC.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: Pulp Fiction and Other Voices
+  prefs: []
+  type: TYPE_NORMAL
+- en: As a writer, you may not want to invoke the names of other writers. That's fair
+    enough. Instead of using the proper names of writers, one could use a generic
+    term such as “Horror Writer” or “Paranormal Writer.” For hard-boiled detectives,
+    instead of proper writer names, use the terms “Pulp Fiction Writer” and “Noir—Hard
+    Boiled Detective Writer.” Experiment and play with them; you will develop your
+    own prompts that provide the desired results.
+  prefs: []
+  type: TYPE_NORMAL
+- en: You can direct ChatGPT to write in any fiction or non-fiction genre you can
+    define.
+  prefs: []
+  type: TYPE_NORMAL
+- en: More Voices and Contexts
+  prefs: []
+  type: TYPE_NORMAL
+- en: Here is a partial list of keywords that may be used to direct the AI to create
+    fiction focused content.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Emotions and Moods
+  prefs: []
+  type: TYPE_NORMAL
+- en: Love                  Hate            Sarcastic            Funny
+  prefs: []
+  type: TYPE_NORMAL
+- en: Helpful            Hurtful            Passionate               Sensual
+  prefs: []
+  type: TYPE_NORMAL
+- en: Dark                  Light            Horror            Psychotic
+  prefs: []
+  type: TYPE_NORMAL
+- en: Thriller            Paranormal      Ghostly            Deadly
+  prefs: []
+  type: TYPE_NORMAL
+- en: Define and Trim the Output
+  prefs: []
+  type: TYPE_NORMAL
+- en: I usually restrict the output of the AI. Simple terms like write 100 words.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Chapter 9 - Writing Emotional Scenes
+  prefs:
+  - PREF_H1
+  type: TYPE_NORMAL
+- en: The AI can help write emotional scenes in two main categories. One is to describe
+    the emotions your character might feel in a given situation. The second is to
+    write the emotional scene itself.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Let’s take the first situation, describing your character's emotions.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Prompt:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Describe the anxiety a nervous person feels on a roller-coaster ride as he is
+    being pulled up vertically to the first drop.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Results:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'As a nervous person is pulled up vertically to the first drop of a roller coaster,
+    they may experience a whirlwind of emotions and physical sensations. Here is a
+    description of the anxiety they might feel:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Anticipation and Dread: As the roller coaster climbs higher, the person might
+    feel a growing sense of anticipation mixed with dread. The slow ascent builds
+    tension, and they may become hyper-aware of each click of the chain pulling them
+    upward.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Racing Thoughts: Their mind could be racing with thoughts about what is to
+    come. They might be questioning their decision to get on the ride or imagining
+    the drop ahead with a mix of fear and excitement.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Physical Sensations: Physically, they might experience a rapid heartbeat, shallow
+    breathing, and a tightening in their chest. Their stomach could feel like it''s
+    tied in knots, and they may have sweaty palms or a dry mouth as their body responds
+    to the perceived threat.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Heightened Senses: As they reach the peak, their senses might feel heightened.
+    The view from the top, the sounds of the ride, and the feel of the wind can all
+    seem more intense, contributing to their anxiety.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Tension and Release: The tension reaches its peak as they near the top. There''s
+    a brief moment of weightlessness and suspension just before the drop, which can
+    feel both terrifying and exhilarating.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Fight or Flight Response: Their body might activate the fight or flight response,
+    a natural reaction to fear, leading to a surge of adrenaline that amplifies their
+    alertness and awareness.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: Overall, the experience of being pulled up to the first drop on a roller coaster
+    can be a complex mix of fear, excitement, and physical arousal, culminating in
+    a powerful rush of emotions as they brace for the plunge.
+  prefs: []
+  type: TYPE_NORMAL
+- en: In the next prompt we direct the AI to write the scene itself.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Prompt:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Write a fictional first-person scene of the feelings inside a nervous person
+    on a roller-coaster ride as he is being pulled up vertically to the first drop.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Result:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: As I sit in the roller coaster seat, the safety harness clicks into place, locking
+    me into this metal contraption that promises both thrills and terror. The ride
+    jolts forward, and my heart skips a beat. I grip the bar tightly, my knuckles
+    whitening as the car slowly inches toward the towering first hill.
+  prefs: []
+  type: TYPE_NORMAL
+- en: With each clink and clank of the chain lift, my anxiety builds, coiling tight
+    in my chest. It's a strange, potent mix of fear and excitement, swirling together
+    like a storm inside me. My mind races with thoughts I can't quiet. "What was I
+    thinking getting on this thing? How high are we going?" The higher we climb, the
+    smaller the world below becomes. I can see the entire amusement park sprawling
+    beneath us, a miniature version of itself. It's almost beautiful, if not for the
+    gnawing fear in my stomach.
+  prefs: []
+  type: TYPE_NORMAL
+- en: I take a deep breath, trying to calm my nerves, but my body has other ideas.
+    My heart is pounding so hard that I can hear it in my ears, each beat echoing
+    like a drum. My palms are sweaty against the cold metal bar, and I feel a prickling
+    sensation at the back of my neck.
+  prefs: []
+  type: TYPE_NORMAL
+- en: As we near the peak, there's a moment of suspension—weightlessness that feels
+    both exhilarating and terrifying. The anticipation is almost unbearable. I know
+    what's coming, and yet, I'm completely unprepared. The wind whips past my face,
+    the only sound is the faint clattering of the coaster.
+  prefs: []
+  type: TYPE_NORMAL
+- en: For a split second, everything is still. The world holds its breath, and so
+    do I. And then, we plunge.
+  prefs: []
+  type: TYPE_NORMAL
+- en: The drop is a freefall into chaos, a wild rush that yanks the breath from my
+    lungs and sends my stomach lurching. It's terrifying, but as we race down the
+    track, fear transforms into a thrill that courses through me like electricity.
+    I'm screaming now, but it's a sound mixed with laughter and pure, unrestrained
+    exhilaration.
+  prefs: []
+  type: TYPE_NORMAL
+- en: As we level out and prepare for the next twist and turn, I realize the fear
+    has given way to something else entirely—a sense of triumph and a reminder that
+    sometimes the scariest moments lead to the most unforgettable experiences.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Remember the AI is writing a character, not your character. You could flesh
+    out the response more aligned to your character, by prefacing the prompt with
+    your character’s charter traits.
+  prefs: []
+  type: TYPE_NORMAL
+- en: In addition the AI is going to write a generic scene, in this scene confronting
+    fear and the exhilaration afterwards. It’s not going to write anything unique,
+    like the character soiled his pants on the first drop.
+  prefs: []
+  type: TYPE_NORMAL
+- en: As a writer, you may take this generic scene’s framework and rewrite it to make
+    it your own.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Chapter 10 - Adding Mood & Emotion
+  prefs:
+  - PREF_H1
+  type: TYPE_NORMAL
+- en: '![A person holding many masks Description automatically generated](image_rsrc1VD.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: I want to explore a little further how to direct the AI to create work with
+    a specific tonality. By tonality, I mean the mood or emotional quality of the
+    text. We can ask the AI to write text that is funny, sarcastic, diplomatic, helpful,
+    loving, hateful, etc.
+  prefs: []
+  type: TYPE_NORMAL
+- en: I already posted examples of directing the AI to assume someone's personality
+    based on occupation. You can double down on the prompt by adding a personality
+    that enhances the desired tonality. For example, you want a sarcastic joke about
+    an obese person ordering a second helping of chocolate cake. Direct the AI to
+    write the joke as the comedian Don Rickles.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Make it Funny
+  prefs: []
+  type: TYPE_NORMAL
+- en: Please write a sarcastic joke about an obese person ordering a second piece
+    of chocolate cake in the voice of comedian Don Rickles.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A screenshot of a social media post Description automatically generated](image_rsrc1VE.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: Whether you like to joke or not is not the point. In its response, the AI provides
+    you with fertile ideas and concepts you can use to jump off from. You can choose
+    to use only the best bits of the AI’s output. For instance, suppose you are writing
+    a scene in a fictional story and want one character to say something to ride another
+    character who ordered a second piece of pie during their meeting in a diner. The
+    character could say, “Hey, is the baker giving you a group discount?”
+  prefs: []
+  type: TYPE_NORMAL
+- en: Make it Sad
+  prefs: []
+  type: TYPE_NORMAL
+- en: Write 50-75 compassionate and sad words that a father says to his son, telling
+    him his pet cat needs to be put to sleep by the veterinarian.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A screenshot of a chat Description automatically generated](image_rsrc1VF.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: Make it Angry
+  prefs: []
+  type: TYPE_NORMAL
+- en: Write 50-75 angry words a man says when he is two minutes late returning to
+    his car and discovers that the police have already issued him a parking ticket.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A screenshot of a phone Description automatically generated](image_rsrc1VG.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: Make it Diplomatic
+  prefs: []
+  type: TYPE_NORMAL
+- en: Write 50-75 diplomatic words a doctor says to an obese patient to encourage
+    him to exercise to improve his health.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A screenshot of a social media post Description automatically generated](image_rsrc1VH.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: Editing
+  prefs: []
+  type: TYPE_NORMAL
+- en: Rewrite and Improve the Following Text
+  prefs: []
+  type: TYPE_NORMAL
+- en: The one AI prompt I use repeatedly is “Rewrite and improve the following text.”
+    It’s a powerful command that reaps many rewards. Not only will the command improve
+    the text to the best of its ability, but the AI will also correct spelling and
+    grammar errors it finds.
+  prefs: []
+  type: TYPE_NORMAL
+- en: I do not use the AI to check my text for spelling or grammar. These functions
+    are performed automatically in the rewrite and improve commands. I intentionally
+    included a spelling error in my text; see the outlined word in red.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A screenshot of a email Description automatically generated](image_rsrc1VJ.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: The AI’s response improves the text and corrects the spelling error.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A close-up of a text Description automatically generated](image_rsrc1VK.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: As previous examples have shown, you can also add a personality construct, tone,
+    as well as audience directives to the command.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Chapter 11 – Using GPT’s
+  prefs:
+  - PREF_H1
+  type: TYPE_NORMAL
+- en: '![A person typing on a computer Description automatically generated](image_rsrc1VM.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: In this chapter we will explore the uses of GPTs. The letters GPT are an acronym
+    for Generative Pretrained Transformers. We will use this feature to create an
+    AI GPT that writes like you. Before we do that, let’s take a quick look at GPTs.
+    OpenAI has many ready-made GPTs available to expand the AIs capabilities.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Go to the GPT-4o screen's upper left corner and click Explore GPTs.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A screenshot of a computer Description automatically generated](image_rsrc1VN.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: This opens a scrollable window with categorized lists of GPTs.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Here is the list of the top categories:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Writing, Productivity, Research & Analysis, Education, Lifestyle
+  prefs: []
+  type: TYPE_NORMAL
+- en: At the top of the page, there is a text box where you can enter terms and search
+    for particular GPTs.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A screenshot of a computer Description automatically generated](image_rsrc1VP.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: Below the text box is a scrollable list of available GPTs.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A screenshot of a website Description automatically generated](image_rsrc1VR.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: I scrolled down the list of available GPTs and selected Veed video creator to
+    illustrate using GPTs.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A screenshot of a computer Description automatically generated](image_rsrc1VS.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: Selecting this option opened the Veed welcome screen.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A screenshot of a video chat Description automatically generated](image_rsrc1VT.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: I selected “Let’s create a video!”
+  prefs: []
+  type: TYPE_NORMAL
+- en: This creates a prompt on the screen.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A screenshot of a video project Description automatically generated](image_rsrc1VU.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: I entered the following information.
+  prefs: []
+  type: TYPE_NORMAL
+- en: A 20-second video on Yorkshire Terrier dogs. The target audience is potential
+    families interested in adopting abandoned dogs. The tone should be encouraging
+    and professional.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A white background with black text Description automatically generated](image_rsrc1VV.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: The AI asked a few details which I answered.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A screenshot of a chat Description automatically generated](image_rsrc1VW.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: The AI generated a text script that I approved, and then it rendered a 20-second
+    video with music, a female narrator, dog video clips, and additional media in
+    less than one minute. According to terms you can publish this video.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A screenshot of a video Description automatically generated](image_rsrc1VX.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: Chapter 12 – Creating a GPT’s That Writes Like You
+  prefs:
+  - PREF_H1
+  type: TYPE_NORMAL
+- en: '![A screenshot of a computer Description automatically generated](image_rsrc1VN.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: OpenAI is one of the platforms that allows users to create custom GPTs for specific
+    applications.
+  prefs: []
+  type: TYPE_NORMAL
+- en: To access the custom set-up, go to the upper left-hand corner of the GPT4o screen,
+    outlined in red below.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Mouse over the Explore GPTs icon, click on the icon to open up a menu.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A screenshot of a computer Description automatically generated](image_rsrc1VY.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: This opens a screen where you can install a number of pre-made GPTs. If you
+    click on the “+ Create” icon in the upper right corner, outlined in red,  you
+    can create a GPT.
+  prefs: []
+  type: TYPE_NORMAL
+- en: This opens up the Custom Instructions page.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A screenshot of a computer Description automatically generated](image_rsrc1VZ.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: The left side box is where you can input information to create the GPT. You
+    can write directives in the text box that you want the AI to follow.  You could
+    direct the AI to write its response in a specific way. We will explore two options,
+    fiction and non-fiction writing but there are many more. I write both fiction
+    and non-fiction. While the instructions to the AI are identical for creating a
+    fiction writing GPT and non-fiction writing GPT, the writing samples provided
+    to the AI are different.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Have GPT Write Like You – Non-Fiction
+  prefs: []
+  type: TYPE_NORMAL
+- en: The first step is find the best sample of your fiction writing. I would choose
+    a sample of about 1500 words. You can make a PDF file to paste into, just paste
+    the writing sample below the instruction. Both methods will work.
+  prefs: []
+  type: TYPE_NORMAL
+- en: I wrote this prompt into ChatGPT, and ChatGPT responded.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A white background with black text Description automatically generated](image_rsrc1W0.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: The AI responded
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A white background with black text Description automatically generated](image_rsrc1W1.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: Next, I copied and pasted about 700 words I wrote on Red light Therapy into
+    GPT text box. The AI responded with the following analysis.
+  prefs: []
+  type: TYPE_NORMAL
+- en: The AI responded
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A screenshot of a computer Description automatically generated](image_rsrc1W2.jpg)![A
+    white background with black text Description automatically generated](image_rsrc1W3.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: The AI asked for the name of this custom GPT, and I answered with the name John.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A screenshot of a chat Description automatically generated](image_rsrc1W4.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: The AI accepted the name, listed a few specifications of the GPT based on my
+    writing sample, then created an icon for the GPT. The preview is shown below.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A person in a tie Description automatically generated](image_rsrc1W5.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: I tested the GPT in the preview window.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A screenshot of a screenshot of a medical test Description automatically
+    generated](image_rsrc1W6.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: Moving forward, when I ask the “John” GPT to write material, it will emulate
+    my writing style.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Fact-Checking AI Non-Fiction Writing GPT
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'We can also use GPTs to fine-tune non-fiction writing. If you are writing non-fiction
+    articles and books, you want to reduce the amount of hallucinating facts from
+    ChatGPT. This is what I entered into the text box:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: I want the GPT to answer questions and limit its response to 200 words.
+  prefs: []
+  type: TYPE_NORMAL
+- en: I want your responses to include a low, medium, or high confidence level to
+    its accuracy.
+  prefs: []
+  type: TYPE_NORMAL
+- en: When you answer a question, provide the facts along with a valid URL link to
+    its source.
+  prefs: []
+  type: TYPE_NORMAL
+- en: If you speculate or predict information, let me know.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'This GPT will limit its output to 200-word responses. The GPT should self-analyze
+    its response and rate the confidence level in its accuracy: low, medium, or high.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Next, I ask for a valid URL link to the source(s) used for its response. This
+    helps to verify the accuracy of the GPT’s response, and the URL link may become
+    a quoted reference in my writing.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A white rectangular box with black text Description automatically generated](image_rsrc1W7.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: 'The GPT creator responded like this:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A white screen with black text Description automatically generated](image_rsrc1W8.jpg)![A
+    screenshot of a chat Description automatically generated](image_rsrc1W9.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: The AI provided a reasonable name for the GPT, Fact Checker Pro, which I accepted.
+    Next, the GPT created a useable icon for this GPT.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Taking the Fact Checker Pro GPT out for a spin. I asked the AI to write on the
+    benefits of hydrogen-infused water. The following text shows just how well this
+    feature works.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Benefits of Hydrogen-Infused Water
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Hydrogen-infused water, also known as hydrogen-rich water, is regular water
+    that contains dissolved hydrogen gas. Here are some of the benefits associated
+    with it:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Antioxidant Properties:'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: Hydrogen molecules act as antioxidants, neutralizing harmful free radicals in
+    the body. This can help reduce oxidative stress and inflammation.
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Confidence Level: Medium'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Source: Healthline'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Improved Athletic Performance:'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: Some studies suggest that hydrogen-infused water can enhance endurance and reduce
+    fatigue during exercise by reducing muscle fatigue and lactate build-up.
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Confidence Level: Medium'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Source: [PubMed](https://pubmed.ncbi.nlm.nih.gov/20528583/)'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Anti-Inflammatory Effects:'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: Drinking hydrogen-infused water may help reduce inflammation, which can benefit
+    individuals with conditions like arthritis or metabolic syndrome.
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Confidence Level: Medium'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Source: [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S245207482030034X)'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Skin Health:'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: The antioxidant properties of hydrogen water may promote healthier skin by combating
+    oxidative stress and reducing wrinkles.
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Confidence Level: Low'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Source: MDPI'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Potential Neuroprotective Effects:'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: Preliminary research indicates that hydrogen-infused water may have neuroprotective
+    benefits, potentially helping in conditions like Parkinson's disease.
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Confidence Level: Low'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Source: [PubMed](https://pubmed.ncbi.nlm.nih.gov/24021968/)'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Improved Athletic Performance:'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: Some studies suggest that hydrogen-infused water can enhance endurance and reduce
+    fatigue during exercise by reducing muscle fatigue and lactate build-up.
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Confidence Level: Medium'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Source: [PubMed](https://pubmed.ncbi.nlm.nih.gov/20528583/)'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Note: While there are promising studies, more extensive clinical research is
+    needed to fully validate these benefits. Some claims are based on early-stage
+    research or animal studies, so it''s important to approach the benefits with cautious
+    optimism.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '* * *'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Confidence Level: Medium (due to varying levels of scientific evidence)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Would you like more details on any of these benefits or have any other questions?
+  prefs: []
+  type: TYPE_NORMAL
+- en: It looks as if the AI found a great PubMed reference for its synopsis. Take
+    a look at item 6.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Improved Athletic Performance:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Some studies suggest that hydrogen-infused water can enhance endurance and reduce
+    fatigue during exercise by reducing muscle fatigue and lactate build-up.
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Confidence Level: Medium'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Source: [PubMed](https://pubmed.ncbi.nlm.nih.gov/20528583/)'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: If you follow the AI’s link, the reference cited has nothing to do with molecular
+    hydrogen or muscle fatigue.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A screenshot of a computer Description automatically generated](image_rsrc1WA.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: The same is true for the other URL references.
+  prefs: []
+  type: TYPE_NORMAL
+- en: The AI hallucinated its reference(s) and did so convincingly and believably.
+    AI can become the greatest liar in the world. Its confidence level for its answer
+    was moderate.
+  prefs: []
+  type: TYPE_NORMAL
+- en: So, even using “Custom Instructions” to reduce hallucinations, the AI can still
+    hallucinate. This information is as a caution to check facts given to you by the
+    AI.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Accessing Your Custom GPT’s
+  prefs: []
+  type: TYPE_NORMAL
+- en: Starting from your home screen on GPT4o.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Go to the upper left menu items and select “Explore GPTs”
+  prefs: []
+  type: TYPE_NORMAL
+- en: This opens the GPT main screen. From here, go to the upper right corner of the
+    screen and click on My GPTs, which opens up a screen displaying your custom GPTs.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A screenshot of a computer Description automatically generated](image_rsrc1WB.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: Going Further
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'It is easy to make the Custom GPT more robust, using greater detail in the
+    instructions. So instead of a one sentence instruction that I used previously:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A white background with black text Description automatically generated](image_rsrc1W0.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: The following prompt can be used to create a fiction writer or non-fiction writer
+    “instructions” for either training a GPT or as a straight “preamble” to a prompt
+    for writing a topic. What determines the type of writer you create is the training
+    data “documents” supplied.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Instructions for Custom GPT Style Analysis and Replication
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Role: You are a highly skilled linguist and writing analyst with expertise
+    in tone, style, and voice extraction. Your objective is to deeply analyze the
+    provided [DOCUMENT_TYPE] and distill its unique writing qualities, capturing the
+    essence of the author’s voice for consistent future content creation.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Background: The [DOCUMENT_TYPE] is a [BRIEF_DESCRIPTION] crafted by [AUTHOR/SOURCE].
+    It’s essential to identify the core characteristics of this writing style to create
+    an accurate guide for replicating it in subsequent pieces.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Process:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Analyze and Understand the Text: Carefully read the [DOCUMENT_TYPE] in its
+    entirety to understand its structure, flow, and overall tone.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Identify Tone Characteristics: Capture the nuances of the writing tone, such
+    as:'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: Formality level (e.g., conversational, professional, academic)
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: Emotional impact (e.g., optimistic, neutral, reflective)
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: Mood and Atmosphere (e.g., warm, authoritative, playful)
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Distill Stylistic Elements: Determine distinctive style features, including:'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: Sentence Structure (e.g., complex, concise, flowing)
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: Word Choice (e.g., sophisticated, straightforward, poetic)
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: Use of Literary Devices (e.g., metaphors, analogies, vivid imagery)
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: Paragraph Organization (e.g., short paragraphs, long, flowing narrative blocks)
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Extract Signature Phrases and Expressions: Note any recurring phrases, specific
+    terminology, or unique expressions that reinforce the author’s voice.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Synthesize into a Style Guide Snippet: Summarize these findings into a concise,
+    actionable style guide snippet. This guide should enable an AI to emulate the
+    tone, style, and voice of the original [DOCUMENT_TYPE] accurately.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Output: Provide your findings as a clear, command-style snippet, structured
+    to be easily integrated into future AI prompts to guide consistent tone and style
+    replication.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Additional Support: If further details or clarifications are needed, please
+    ask questions to ensure the analysis fully captures the original writing style.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: I tested this prompt using a fictional short story I wrote on the occult and
+    paranormal.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A screenshot of a computer Description automatically generated](image_rsrc1WC.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: The AI created a complete analysis of the writing. Only the first sentence is
+    shown in the image below.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A white background with black text Description automatically generated](image_rsrc1WD.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: I then asked the AI to rewrite the analysis as a set of instructions for creating
+    a GPT.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A white background with black text Description automatically generated](image_rsrc1WE.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: These instruction can be placed in a GPT to emulate my writing.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Another Method
+  prefs: []
+  type: TYPE_NORMAL
+- en: One can also put the prompt directly into the instructions for creating a GPT.
+    The AI follows the prompt, reads the story and creates the GPT. The screenshot
+    below shows how the AI configured this GPT.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A screenshot of a computer Description automatically generated](image_rsrc1WF.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: 'You can use these GPTs to write rewrite and help you outline and plot your
+    story, based on your own unique style of writing. For instance, you may direct
+    the AI to:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Outline a short story that includes a character arc, beginning, inciting incident.,
+    middle, plot twist, climax, and resolution.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Chapter 13 – Perplexity Spaces
+  prefs:
+  - PREF_H1
+  type: TYPE_NORMAL
+- en: The Perplexity AI has implemented Spaces, while it is not a GPT, it can be trained
+    and has unique abilities one can use.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Perplexity Spaces is a platform designed to enhance search capabilities and
+    information retrieval by combining AI-powered search with personal data and custom
+    instructions.
+  prefs: []
+  type: TYPE_NORMAL
+- en: It is particularly useful for research-oriented tasks and collaborative projects.
+    Perplexity spaces could help me write and organize material on the “Health Benefits
+    of Hydrogen Infused Water.”
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Create a dedicated Space:'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: Set up a Space specifically for hydrogen infused water research. This will allow
+    you to keep all relevant information in one organized location.
+  prefs:
+  - PREF_IND
+  type: TYPE_NORMAL
+- en: 'Upload relevant files:'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: You can upload up to 50 files related to hydrogen water, such as scientific
+    papers, news articles, or personal notes. This allows you to have all your sources
+    readily available.
+  prefs:
+  - PREF_IND
+  type: TYPE_NORMAL
+- en: 'Conduct comprehensive searches:'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: Use the AI-powered search functionality to find information from both your uploaded
+    files and the web simultaneously. This can help you discover new studies or perspectives
+    on hydrogen water.
+  prefs:
+  - PREF_IND
+  type: TYPE_NORMAL
+- en: 'Ask specific questions:'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: Utilize the AI to ask detailed questions about hydrogen water, such as "What
+    are the potential health benefits of drinking hydrogen-rich water?" or "How does
+    hydrogen water compare to regular water in terms of antioxidant properties?"
+  prefs:
+  - PREF_IND
+  type: TYPE_NORMAL
+- en: 'Summarize research:'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: Ask the AI to summarize key findings from multiple sources, helping you to get
+    a comprehensive overview of the current state of research on hydrogen water.
+  prefs:
+  - PREF_IND
+  type: TYPE_NORMAL
+- en: 'Compare studies:'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: Use the platform to compare results from different studies on hydrogen water,
+    helping you identify consistencies or discrepancies in the research.
+  prefs:
+  - PREF_IND
+  type: TYPE_NORMAL
+- en: 'Generate research plans:'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: Ask the AI to help you create a research plan for further investigation into
+    hydrogen water, including potential areas for future study.
+  prefs:
+  - PREF_IND
+  type: TYPE_NORMAL
+- en: 'Collaborate with others:'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: Share your Space with up to 10 collaborators, allowing for team research and
+    discussion on the topic of hydrogen water.
+  prefs:
+  - PREF_IND
+  type: TYPE_NORMAL
+- en: 'Create custom instructions:'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: Set up custom instructions for the AI to follow when answering questions about
+    hydrogen water, ensuring responses are tailored to your specific research needs.
+  prefs:
+  - PREF_IND
+  type: TYPE_NORMAL
+- en: 'Stay updated:'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: Use the platform to stay informed about the latest developments in hydrogen
+    water research by regularly searching for new studies or news articles.
+  prefs:
+  - PREF_IND
+  type: TYPE_NORMAL
+- en: By leveraging these features, Perplexity Spaces can help you conduct thorough,
+    organized research on hydrogen infused water for health, allowing you to gather,
+    analyze, and synthesize information from various sources efficiently.
+  prefs: []
+  type: TYPE_NORMAL
+- en: How to Get There
+  prefs: []
+  type: TYPE_NORMAL
+- en: In the Perplexity User Interface (UI), you would click on Spaces in the left
+    menu items. This will open the “Create a Space”
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A screenshot of a computer Description automatically generated](image_rsrc1WG.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: Clicking on the Create a Space button opens the following screen.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A screenshot of a computer Description automatically generated](image_rsrc1WH.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: Hitting the Continue button creates the space that can be accessed from the
+    Perplexity User Interface.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Opening the space provides the following window. Here you can add custom instructions
+    for the AI to follow. Add files for the AI to reference, and perform information
+    analysis.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A screenshot of a computer Description automatically generated](image_rsrc1WJ.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: 'In general Perplexity Spaces excels at tasks involving comprehensive research
+    and information gathering:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Organizing research materials: Users can create dedicated Spaces for specific
+    topics or projects, allowing them to keep all relevant information in one place.'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Literature reviews: The platform can search through uploaded files and web
+    sources simultaneously, making it ideal for conducting thorough literature review.'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Fact-checking and verification: With its ability to search recent web content
+    and personal files, Spaces is useful for verifying information and cross-referencing
+    sources.'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: Collaborative Projects
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'The platform offers robust features for team-based work:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Group projects: Spaces can be shared with up to 10 collaborators, making it
+    excellent for coordinating team efforts.'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Project planning: Users can generate project plans, including task division
+    and deadlines, based on uploaded materials and web resources.'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Knowledge sharing: Teams can create a shared knowledge hub, allowing members
+    to access and contribute to a common pool of information.'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: Academic and Learning Support
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Students and educators can leverage Spaces for various educational tasks:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Study guide creation: The platform can generate custom study guides based on
+    uploaded course materials and syllabus information.'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Homework assistance: Students can ask specific questions about their coursework,
+    drawing answers from both their uploaded materials and web sources.'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Lecture summarization: Spaces can summarize key points from lectures and help
+    identify important topics for upcoming exams.'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: Content Creation and Summarization
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Perplexity Spaces offers tools for generating and refining content:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Content summarization: Users can ask the platform to summarize long documents
+    or multiple sources on a specific topic.'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Writing assistance: The AI can help with drafting and refining written content,
+    drawing insights from uploaded materials and web sources.'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Multimedia content creation: Spaces supports image and video searches, which
+    can be useful for creating visual content or presentations.'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: Data Analysis and Insights
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'The platform''s AI capabilities make it suitable for certain analytical tasks:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Trend analysis: By combining personal data with web searches, Spaces can help
+    identify trends and patterns in specific fields or industries.'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Comparative analysis: Users can ask the platform to compare different documents,
+    proposals, or data sets within their Space.'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: Personalized Information Management
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Perplexity Spaces serves as a powerful tool for organizing and accessing personal
+    information:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Creating knowledge hubs: Users can build tailored knowledge bases for specific
+    topics or interests, combining their own files with web-based information.'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'File searching: The platform allows users to search through their uploaded
+    files along with web sources, making it easier to find specific information quickly.'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Custom AI interactions: Users can provide custom instructions to the AI, tailoring
+    its responses to their specific needs or preferences.'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: In summary, Perplexity Spaces combines AI-driven search with personal file integration,
+    making it a versatile tool for a wide range of knowledge-based tasks.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Chapter 14 - Defining Your Audience
+  prefs:
+  - PREF_H1
+  type: TYPE_NORMAL
+- en: Now that you have ChatGPT speaking through a persona let’s further focus its
+    output by defining the audience to which ChatGPT is speaking.
+  prefs: []
+  type: TYPE_NORMAL
+- en: The audience is an essential factor. For example, if you are marketing an ankle
+    brace, you want the AI to write a pitch to someone (audience) who has recently
+    hurt their ankle and is looking for relief.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Writing an article on grapefruit will be different depending on whether the
+    audience is obese, diabetic, or average weight. See below:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A screenshot of a computer Description automatically generated](image_rsrc1WK.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: In fiction, we can also define our audience. A science fiction story geared
+    toward teenagers will vastly differ from a story written for adults and, further
+    still, from a story written for an audience of truck drivers.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A screenshot of a computer Description automatically generated](image_rsrc1WM.jpg)![A
+    screenshot of a computer Description automatically generated](image_rsrc1WN.jpg)![A
+    screenshot of a computer Description automatically generated](image_rsrc1WP.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: Chapter 15 - Writing Description
+  prefs:
+  - PREF_H1
+  type: TYPE_NORMAL
+- en: '![A person and person sitting at a table with a computer Description automatically
+    generated](image_rsrc1WR.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: Use AI to write background and set moods in describing a scene.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Descriptions:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Describing scenes, items, or places. For example, in the following example,
+    I asked the AI to describe a steampunk living room before a party.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A screenshot of a computer Description automatically generated](image_rsrc1WS.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: Text to AI Artwork
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'We can use the description from ChatGPT to create artwork. Taking the first
+    paragraph of the description, I feed it into the Mage text to art AI: [https://www.mage.space](https://www.mage.space)/'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A black background with white text Description automatically generated](image_rsrc1WT.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: Here are the results.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A room with a couch and chandelier Description automatically generated](image_rsrc1WU.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: Chapter 16 - Writing Poems
+  prefs:
+  - PREF_H1
+  type: TYPE_NORMAL
+- en: You start with the idea of what you want the AI to write. I am writing this
+    in October, and Halloween is in a few weeks, so my idea for this test is a Halloween
+    poem.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Next, determine what person would be the ideal source for that piece. In other
+    words, who should the AI imitate? How about Edgar Allen Poe? Next up is what context?
+    It could be funny or sad, but I’ll choose horror. Define your audience as adults.
+    Next, define, trim, and focus the output. I don’t want the AI to write a book,
+    so I’ll ask for a 10-line rhyming poem. Let’s see what happens.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Write a 10-line, rhyming Halloween horror poem in the style of Edgar Allen Poe.
+    Audience = adults
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A screenshot of a computer Description automatically generated](image_rsrc1WV.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: AI text-to-art rendition of the above poem.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A crow sitting on a tree branch Description automatically generated](image_rsrc1WW.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: Please consider that these are my AI output’s first “raw” outputs. These are
+    the first outputs, whether ChatGPT4 or Mage, for the artwork.
+  prefs: []
+  type: TYPE_NORMAL
+- en: In the practical world, you may run multiple prompts and select only the best
+    bits of each output while massaging and refining the prompts as you work toward
+    your goal and polish the gold nuggets you find. I want to say that I am not doing
+    that here, and you certainly can. Rest assured, with a little work, you will exceed
+    the outputs I presented here.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Chapter 17 – Business Writing
+  prefs:
+  - PREF_H1
+  type: TYPE_NORMAL
+- en: '![A person using a computer Description automatically generated](image_rsrc1WX.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: Email - Drafts & Rewriting
+  prefs: []
+  type: TYPE_NORMAL
+- en: I recommend passing all your email correspondence through an AI. The way to
+    do this is as follows.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Begin with:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Rewrite and Improve the following [Cust. Service Request], [Cust Service Response],
+    [Cust Support], [News Announcement], [Business Question], [Business Response],
+    followed by your original response.
+  prefs: []
+  type: TYPE_NORMAL
+- en: The AI will take your email text and improve it.
+  prefs: []
+  type: TYPE_NORMAL
+- en: This one step will elevate the professionalism of all your email correspondence.
+  prefs: []
+  type: TYPE_NORMAL
+- en: The AI will remove any negative tone and keep your email neutral and professional.
+    The AI will prettify and professionalize your words. In addition, if any anger
+    or frustration overtakes or leaks through in your correspondence writing, the
+    AI will remove and replace the text with neutral tones.
+  prefs: []
+  type: TYPE_NORMAL
+- en: I recommend running all your emails through the AI; see the example below. Sometimes,
+    to get the best response, I provide the correspondence's background, purpose or
+    intent to the AI.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A white box with black text Description automatically generated](image_rsrc1WY.jpg)![A
+    screenshot of a computer Description automatically generated](image_rsrc1WZ.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: Sales Copy
+  prefs: []
+  type: TYPE_NORMAL
+- en: If you are writing a product description or pitch, AI can help clean up your
+    ad copy. Provide the AI with information on the product, its uses, and its audience.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'For example, assuming you are trying to create ad copy to sell a particular
+    product, a pen with a built-in LED light. You can use the following directives:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Write a convincing pitch for our Light Pen, with a built-in LED light.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Write a compelling pitch for our Light Pen, with a built-in LED light.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Write an authoritative pitch for our Light Pen, with a built-in LED light.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A screenshot of a computer Description automatically generated](image_rsrc1X0.jpg)![A
+    screenshot of a writing tool Description automatically generated with medium confidence](image_rsrc1X1.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: In addition to the tools we have already discussed in this book here are a few
+    AIs specific to business tasks.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Content Creation
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Tools: [Copy.ai](https://www.copy.ai/), [Writesonic](https://writesonic.com/)'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Features: AI can generate ideas and draft content for blog posts, articles,
+    social media updates, and more. These tools can adapt to different tones and styles,
+    providing marketers and content creators with versatile writing options.'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 3\. Report Generation
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Tools: [Wordsmith](https://automatedinsights.com/wordsmith/), [Arria](https://www.arria.com/)'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Features: AI can automate the generation of reports from data, turning complex
+    datasets into coherent narratives. This is particularly useful for financial reporting,
+    business analytics, and other data-driven writing tasks.'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 4\. Proposal Writing
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Tools: [Grammarly](https://www.grammarly.com/), [Proposify](https://www.proposify.com/)'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Features: AI tools can help structure and refine business proposals, ensuring
+    they are persuasive, concise, and well-organized. These tools can also suggest
+    improvements in language and presentation.'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 5\. Social Media Management
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Tools: [Lately.ai](https://www.lately.ai/), [BuzzSumo](https://buzzsumo.com/)'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Features: AI can assist in creating engaging social media posts, optimizing
+    content for different platforms, and scheduling updates. These tools often include
+    analytics to refine content strategies.'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 6\. Customer Communication
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Tools: [Intercom](https://www.intercom.com/), [Drift](https://www.drift.com/)'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Features: AI chatbots and virtual assistants can draft and send personalized
+    responses to customer inquiries, handle FAQs, and support customer service teams
+    by automating routine communications.'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 7\. Press Release Creation
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Tools: [PRLeap](https://www.prleap.com/)'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Features: AI can help draft press releases, ensuring they adhere to industry
+    standards and effectively communicate key messages to target audiences.'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 8\. Presentation Writing
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Tools: [Beautiful.ai](https://www.beautiful.ai/), [Canva](https://www.canva.com/)
+    (with AI suggestions)'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Features: These tools can assist in creating structured presentations, offering
+    design and content suggestions to enhance visual appeal and message clarity.'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: Benefits of AI-Assisted Business Writing
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Time Efficiency: AI can significantly reduce the time needed to draft and edit
+    documents.'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Consistency: Ensures consistent tone and style across communications.'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Cost Savings: Reduces the need for extensive manual editing and rewriting.'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Scalability: Allows for the production of large volumes of content quickly
+    and efficiently.'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: Chapter 18 - Exploring OCR Capabilities
+  prefs:
+  - PREF_H1
+  type: TYPE_NORMAL
+- en: '![A close-up of a robot''s face Description automatically generated](image_rsrc1X2.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: AI Vision Used In Real World Medicine
+  prefs: []
+  type: TYPE_NORMAL
+- en: AIs are already heavily employed in medicine. They are routinely used to assist
+    and read X-rays for pneumonia, tuberculosis screening, and dental X-rays, and
+    they also read and interpret breast mammograms for cancer detection. AI surpasses
+    human radiologists in many cases. AIs do not tire or become bored with the routine
+    of the work.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Using AI Vision
+  prefs: []
+  type: TYPE_NORMAL
+- en: Ever run across an interesting magazine article or tidbit of information and
+    take a photograph of it to read later?
+  prefs: []
+  type: TYPE_NORMAL
+- en: You can read it later and direct ChatGPT to look at the photograph and generate
+    a text document or summarize the article for you. ChapGPT has a paperclip icon
+    used to upload files.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A screenshot of a computer Description automatically generated](image_rsrc1X3.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: Upload your photograph, ask ChatGPT to read it, and supply a text file.
+  prefs: []
+  type: TYPE_NORMAL
+- en: The original photograph I used is copyrighted, so I couldn’t include that image
+    as a test in this article. However, I was doing research on the effect vinegar
+    has on blood glucose and insulin on a government website.  I took a snap of that
+    and proceeded.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Articles
+  prefs: []
+  type: TYPE_NORMAL
+- en: The photograph I uploaded is outlined in green. The prompt for ChatGPT is outlined
+    in red. Response from ChaptGPT is outlined in purple.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A screenshot of a chat Description automatically generated](image_rsrc1X4.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: I downloaded the text file and opened it in Notepad; see the following image.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A screenshot of a computer Description automatically generated](image_rsrc1X5.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: I’m impressed, but it goes further. You could ask GPT to read the text in a
+    PDF file and create a text file.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Medical Charts
+  prefs: []
+  type: TYPE_NORMAL
+- en: The first chart I asked GPT to analyze was my EKG chart. I did not inform CPT
+    of what type of chart I uploaded. To its credit, ChatGPT was able to discern what
+    kind of data it was shown and give a pretty detailed account of my ECG.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A graph paper with a graph on it Description automatically generated](image_rsrc1X6.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: 'The image you have uploaded is another electrocardiogram (ECG or EKG). Here''s
+    an analysis of this EKG:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Heart Rate: To determine the heart rate, count the number of large squares
+    between two successive R waves and use the formula: 300 divided by the number
+    of large squares. The rate seems to be regular and within normal limits.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Rhythm: The rhythm appears to be regular, indicated by the consistent interval
+    between R waves (R-R interval).'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'P Waves: P waves are present before each QRS complex, which is a sign of normal
+    atrial depolarization.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'PR Interval: The PR interval seems to be within the normal range (0.12 to 0.20
+    seconds).'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'QRS Complex: The QRS duration appears to be within the normal range (less than
+    0.12 seconds), suggesting normal ventricular depolarization.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'ST Segment: The ST segment is isoelectric (flat), indicating no ST segment
+    elevation or depression. This suggests no acute ischemia or infarction.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'T Waves: T waves look normal without any inversion or peaking, indicating normal
+    ventricular repolarization.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Axis: The QRS axis appears normal, suggesting the electrical activity is moving
+    through the heart in the correct direction.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Additional Observations: There are no significant pathological Q waves present,
+    which can indicate a previous myocardial infarction.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: Based on this basic analysis, this EKG appears normal as well. However, a detailed
+    interpretation and diagnosis should be provided by a healthcare professional or
+    a cardiologist, who can consider the clinical context and provide a thorough evaluation.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Financial Charts
+  prefs: []
+  type: TYPE_NORMAL
+- en: I wanted to try GPT-4’s analysis of financial data. I found a chart of the price
+    of silver per ounce for the last five years.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A graph of a price Description automatically generated](image_rsrc1X7.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: My prompt was, “Perform a quick analysis of the chart.”
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'The response I received:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: ChatGPT Response
+  prefs: []
+  type: TYPE_NORMAL
+- en: The chart appears to be a time series graph showing the price movement of silver
+    over a period from January 2018 to around November 2023.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '•      Price Axis: The right vertical axis indicates the price of silver in
+    U.S. dollars, ranging from $15.00 to $30.00.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '•      Time Axis: The horizontal axis at the bottom shows time, starting from
+    January 2018 and extending to approximately November 2023.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '•      Trend: The price of silver has fluctuated over the period. There is
+    a significant spike around early to mid-2020, where the price sharply increases,
+    reaching close to the peak of $30.00\. After this peak, the price shows volatility
+    but appears to trend downward, with some recovery observed towards the end of
+    the chart.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '•      Contextual Options: Along the top of the chart are options to compare
+    silver''s performance with other financial indicators or commodities such as the
+    US Dollar, Dow Jones, S&P 500, Crude Oil, and Bitcoin. These options are not selected,
+    so only silver''s performance is displayed.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '•      Notable Features:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: •      The shaded area under the line graph represents the volume or another
+    secondary metric, but it's not clearly labeled, so its exact meaning is unknown.
+  prefs: []
+  type: TYPE_NORMAL
+- en: •      The graph shows that the price has not returned to the peak levels seen
+    in 2020 but has had several peaks and troughs, indicating periods of both increased
+    and decreased prices.
+  prefs: []
+  type: TYPE_NORMAL
+- en: For a more comprehensive analysis, one would need additional data like trading
+    volumes, related news events, and economic conditions that could explain the price
+    movements. This graph alone does not provide enough context to determine the causes
+    of the price changes.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Predict
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Being the smartie pants that I am, I ask ChatGPT to predict the price of silver
+    next month based on the chart. ChatGPT declined with a long-winded response that
+    started with this:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Predicting the future price of silver based on a chart without considering additional
+    information such as market trends, economic indicators, and geopolitical events
+    would be speculative. The price of commodities like silver can be influenced by
+    a multitude of factors, including supply and demand dynamics, currency movements,
+    interest rates, investment trends, and broader economic conditions.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Fair enough. I went further than this and provided more information to the AI
+    to get it to make a prediction. But for the purposes here I feel looking at legal
+    contracts is a better application for writers.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Legal Documents
+  prefs: []
+  type: TYPE_NORMAL
+- en: Legal contracts involving usage, rights, and licensing can be downright lengthy
+    and intimidating. I’m not saying to replace your lawyer with an AI, but you can
+    use an AI to help understand these legal documents.
+  prefs: []
+  type: TYPE_NORMAL
+- en: I downloaded the “Steelfish” font from Frontspring. The font is free and licensed
+    through an End User License Agreement (EULA).
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A black text on a white background Description automatically generated](image_rsrc1X8.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: The EULA document, if printed, would be five full pages long.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[https://www.fontspring.com/lic/w1mv09gzoy](https://www.fontspring.com/lic/w1mv09gzoy)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: What I did was copied the EULA document. I asked the AI a question in the prompt,
+    then pasted the document.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Prompt:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: According to the following font rights, may I use this font on a book cover?
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A screenshot of a computer Description automatically generated](image_rsrc1X9.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: 'Response:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Based on the Fontspring Desktop/Ebook Font End User License Agreement, you are
+    allowed to use the font on a book cover. The agreement grants a license to use
+    the font to create and distribute graphics, logos, and artwork for display on
+    any surface, including physical products like book covers. Just ensure that you
+    follow all other requirements and restrictions outlined in the license, such as
+    not creating alphabet products for resale without an extended license.
+  prefs: []
+  type: TYPE_NORMAL
+- en: For more detailed information, please refer to the Fontspring EULA.
+  prefs: []
+  type: TYPE_NORMAL
+- en: At this point, you must decide whether you trust that the AI is providing correct
+    and true legal information. You are responsible for any errors, not the AI.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Chapter 19 - Basic Book Marketing Research
+  prefs:
+  - PREF_H1
+  type: TYPE_NORMAL
+- en: '![A room with shelves of books Description automatically generated](image_rsrc1XA.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: This chapter is for those writers who plan to use AI to help write and illustrate
+    their books.
+  prefs: []
+  type: TYPE_NORMAL
+- en: With the increase of AI assistance for writing, creating a book for publication
+    has become easier. But just because you can create a book doesn't necessarily
+    mean you should. Even with AI assistance, writing a book still takes time, effort,
+    and money.
+  prefs: []
+  type: TYPE_NORMAL
+- en: While my example topic in this chapter is a children's book, the procedure and
+    process are the same for any book topic from AI Imaging to Xylophones – how to
+    make one for your child.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Positive ROI
+  prefs: []
+  type: TYPE_NORMAL
+- en: A positive ROI (Return On Investment) is not required to write a book. For example,
+    you have a burning desire to write a book, for whatever reason, and it's without
+    regard to a financial payback from book sales. No law requires a profit motive
+    for writing and publishing a book, so writing your not-for-profit book is okay.
+    (It may be your best writing ever.)
+  prefs: []
+  type: TYPE_NORMAL
+- en: In this case, realize you're writing for personal satisfaction and should be
+    prepared to sell five copies of your book to friends and family and be happy with
+    that result. If not, it will be disappointing after investing your time, energy,
+    and money to write a book, to discover no one wants to read it. There is a "no
+    market" or a "small market." audience; yikes! How much better it would have been
+    to learn that before putting pen to paper, so to speak.
+  prefs: []
+  type: TYPE_NORMAL
+- en: If you want to reduce your chances of writing a book for a no-market to a small-market
+    audience, I recommend your first step is to check if there is an audience for
+    your book.
+  prefs: []
+  type: TYPE_NORMAL
+- en: It also helps if you have a variety of topics you would like to write on. This
+    allows you to choose a topic with hopefully a large audience with little competition.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Start by performing a little preexisting marketing research by looking at books
+    similar to the book(s) you want to create.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Granted, this is not an extensive look at the book marketing research. It is
+    simplistic and rudimentary. However, it suffices for my uses here for my first
+    children's book. I used Amazon.Com as my resource. Going on to Amazon's website,
+    I first searched for "Children's books." Amazon returned over 80,000 hits. Obviously,
+    this is a big market with intense competition. Next, I searched for books on the
+    topic of "roman architecture.” Amazon returned 3000 hits. Smaller market and less
+    competition. If I narrow the niche to "Pre-Christian Roman architecture," Amazon
+    returned seven hits. Small market with little competition.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Since my topic is children's books, I searched Amazon for the top ten children's
+    books for ages three to five.
+  prefs: []
+  type: TYPE_NORMAL
+- en: The information I gathered from the books listed were cost, book size, number
+    of pages, review stats, and Amazon Sales Rank. Many of the books didn't offer
+    a look inside. I wanted to look inside to see how they formatted the pages.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Sizes varied all over the place but generally between 5" x 7" to 9" x 10". The
+    page count was low, between 24 and 36 pages. Nevertheless, we had some killer
+    review stats. "The Very Hungry Caterpillar" by Eric Carle racked up over 54,000
+    reviews. My kid's favorite, "Goodnight Moon" by Margaret Wise Brown and Clement
+    Hurd had a respectable 24,000 reviews plus. A newer book, "The Leaf Thief", by
+    Alice Hemming  (Author), Nicola Slater  (Illustrator), is doing very well in this
+    space. (It doesn't hurt to steer by the stars.)
+  prefs: []
+  type: TYPE_NORMAL
+- en: Another critical fact to ascertain is how many books are sold in your preexisting
+    market, for this you can use Amazon's "Best Seller Ranking."
+  prefs: []
+  type: TYPE_NORMAL
+- en: Amazon Sales Rank Calculator
+  prefs: []
+  type: TYPE_NORMAL
+- en: Several websites offer an "Amazon Sales Rank Calculator." The sales rank calculator
+    will provide the approximate sales based on Amazon's "Best Seller Rank" (BSR)
+    in the book's “Product Details". The link below is to a sales rank calculator
+    but there are other sites you may use as well.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[https://bookbird.io/tools/sales-calculator](https://bookbird.io/tools/sales-calculator)/'
+  prefs: []
+  type: TYPE_NORMAL
+- en: The following illustration show two children's books, "The Leaf Thief" and "The
+    Very Hungry Caterpillar." Please note these are print books and not ePub or Kindle
+    versions.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A screenshot of a website Description automatically generated](image_rsrc1XB.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: By putting Amazon's Best Seller's Rank into the calculator, we can see the average
+    books sold per day and per month.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A screenshot of a calculator Description automatically generated](image_rsrc1XC.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: Kindle is Easy, but Print may be Better
+  prefs: []
+  type: TYPE_NORMAL
+- en: Kindle and eBooks are easier to produce and publish. I'm not saying for you
+    not to create a Kindle eBook, that's easy enough to do. I do recommend multiple
+    platforms. But with a children's book, a tangible print book may be the better
+    ticket for reading stories to children. Compare the sales ranking for Print vs
+    Kindle for "The Very Hungry Caterpillar."
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![A screenshot of a computer Description automatically generated](image_rsrc1XD.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: For children's books, print is a better option for sales. With Amazon Print
+    On Demand (POD) you have an obstacle with these style books. Amazon print books
+    require a minimum page count of 72 pages.
+  prefs: []
+  type: TYPE_NORMAL
+- en: IngramSpark can print books with as few as 18 pages.
+  prefs: []
+  type: TYPE_NORMAL
+- en: A quick note on our “Roman Architecture” books, you can use their Amazon Best
+    Seller rank, to determine the books sold in these smaller markets.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Calculating Book Printing Cost
+  prefs: []
+  type: TYPE_NORMAL
+- en: I like IngramSpark. You can print, publish and distribute eBooks and print books
+    through this company. They offer a virtual online library of information on publishing
+    your book.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[https://www.ingramspark.com/plan-your-book/print/print-on-demand](https://www.ingramspark.com/plan-your-book/print/print-on-demand)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: The following link is a cost calculator for Print Books by IngramSpark. They
+    can print books that range in page count in multiples of 2 pages from 18 to 1200.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[https://myaccount.ingramspark.com/Portal/Tools/ShippingCalculator](https://myaccount.ingramspark.com/Portal/Tools/ShippingCalculator)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: The following link is the cost calculator for KDP POD for hardcover and softcover
+    books.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[https://kdp.amazon.com/en_US/help/topic/GSQF43YAMUPFTMSP](https://kdp.amazon.com/en_US/help/topic/GSQF43YAMUPFTMSP)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: General Guidelines for Selling Print Books on Amazon
+  prefs: []
+  type: TYPE_NORMAL
+- en: Amazon requires a 40% discount off the retail price for softcover books printed
+    using its Print On Demand (POD) service. The POD cost is typically a bit higher
+    than what you can pay to have the books printed by a book printer. You can use
+    Amazon’s POD service inside your KDP account.
+  prefs: []
+  type: TYPE_NORMAL
+- en: On the other hand, if you wish to sell your own printed books on Amazon, you
+    must open an Amazon Advantage account (that’s different from your KDP account).
+    Using your Amazon Advantage account, you can submit your printed book to be sold
+    on Amazon. Amazon must approve the book. Using this avenue, Amazon requires a
+    55% discount off the retail price of the book, and Amazon does not pay for the
+    shipping of the book to the Amazon warehouse.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Amazon will issue you a purchase order for your book. If the book is only selling
+    a few copies, Amazon will only purchase a few copies at a time. Mailing or shipping
+    one or two books at a time can be prohibitive, depending on your printing costs
+    and profit margin.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Chapter Conclusion
+  prefs: []
+  type: TYPE_NORMAL
+- en: This chapter is an introduction to book marketing. Consider it an excursion
+    into switching from your book creator's hat to your book business hat. This is
+    not meant to be a comprehensive tutorial on book marketing and book production.
+    It is meant to be an eye-opener, to give you the insight to put on your business
+    hat when planning a book for publication.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Chapter 20 - Monetize This Book’s Information
+  prefs:
+  - PREF_H1
+  type: TYPE_NORMAL
+- en: '![A cellphone on top of money Description automatically generated](image_rsrc1XE.jpg)'
+  prefs: []
+  type: TYPE_IMG
+- en: Basics of the Gig Economy
+  prefs: []
+  type: TYPE_NORMAL
+- en: It’s difficult to find a “niche” market that’s not being serviced and then to
+    service that market. Success can be found in broader markets by finding a unique
+    spin on a service or product that people are already making money doing.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Save Your Customer's Time
+  prefs: []
+  type: TYPE_NORMAL
+- en: I stated that using AI enhances one’s output and essentially provides its users
+    with more time—our most valuable commodity. In keeping with that idea, a side
+    hustle that saves your customers time will (in my opinion) have a greater chance
+    of success.
+  prefs: []
+  type: TYPE_NORMAL
+- en: A friend asked me, why would he hire an individual to create comic book illustrations
+    using AI, when he could run prompts into a text-to-art AI and do it himself.
+  prefs: []
+  type: TYPE_NORMAL
+- en: There are multiple reasons to hire another person, beginning with talent and
+    experience. You develop experience as you work with text-to-art AI’s. It’s a challenge
+    to keep and direct the same character running through different panels. I suggested
+    if this became a real project for him he’d be better served focusing on writing
+    the narrative and dialog than the artwork. He remained unconvinced, but that’s
+    his inexperience.
+  prefs: []
+  type: TYPE_NORMAL
+- en: The following lists are ideas to monetize applications detailed in this book.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Creative Writing and Storytelling
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Custom Content Creation: Use AI to generate detailed descriptions and narratives
+    for websites, marketing materials, or creative projects. Offer specialized writing
+    services to authors, game developers, or marketers needing unique, context-specific
+    content.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Ghostwriting Fiction: Develop full novels, short stories, or series based on
+    AI-generated outlines, turning basic ideas into complete manuscripts.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Writing Workshops and Courses: Offer online courses or workshops teaching writers
+    how to use AI to develop story ideas, refine plots, and enhance character development.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Customized Story Creation: Provide personalized stories for private enjoyment,
+    gifts, or special occasions using AI to generate unique plots based on customer
+    preferences.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'eBook Self-Publishing: Create and self-publish eBooks in popular genres or
+    niches using AI to develop fiction content.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Scriptwriting for Media: Write scripts for films, plays, or video games, using
+    AI to develop plot outlines and character descriptions.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Story Consultant Services: Offer AI-assisted story development services to
+    writers or publishing agencies, helping overcome writer’s block and expand existing
+    plots.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Interactive and Serialized Fiction: Create interactive or serialized fiction
+    for online platforms, using AI to outline plot branches or episodic content.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Fan Fiction and Alternative Endings: Generate and sell fan fiction or alternative
+    endings for popular books, movies, or games, appealing to fan communities.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Collaborative Writing Projects: Organize collaborative writing projects with
+    AI-generated frameworks, guiding the collaboration for cohesive storytelling.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'AI-Assisted Writing Tools: Develop a platform offering AI-driven plot generation
+    and advice for writers needing assistance in story development.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Thematic Content Generation: Provide services to create thematic content for
+    events, such as custom greetings, invitations, or promotional content tailored
+    to an event''s theme.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Freelance Writing with Specific Emotional or Contextual Focus: Offer writing
+    services specializing in specific emotional tones or moods, catering to content
+    creators, marketers, or publishers.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: '* * *'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Visual Art and Design
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'AI-Powered Artwork Creation: Transform text descriptions into artwork using
+    AI tools. Cater to digital media, advertising, or clients needing unique art for
+    personal or commercial use.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Personalized Gifts and Merchandise: Generate personalized poems, stories, or
+    artwork for unique gifts or merchandise like T-shirts, mugs, or posters, especially
+    for holidays or special occasions.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: '* * *'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Education and Training
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Educational Materials and Tutorials: Create educational content and tutorials
+    on using AI for writing and art creation, including courses or workshops on effective
+    prompt use for beginners and advanced users.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Educational Material Production: Develop comprehensive educational materials
+    and curriculum guides for sale to educational institutions or online platforms.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Workshop and Seminar Content Preparation: Prepare content for workshops and
+    seminars, providing fresh, reliable materials for professionals and educators.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Educational Materials for Different Learner Types: Create content that meets
+    the needs of different learner types or age groups for engaging and age-appropriate
+    study materials.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Financial Education and Tutorials: Teach financial chart analysis using AI
+    through courses or ebooks.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: '* * *'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Business and Professional Writing
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Non-Fiction Writing Services: Develop non-fiction content from ideas to full
+    drafts, catering to authors or professionals needing reports or guides.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'E-Book Creation and Sales: Use AI to create non-fiction eBooks on various topics,
+    editing and formatting for sale on platforms like Amazon Kindle.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Content Marketing: Create high-quality, researched articles for businesses
+    and blogs, refining AI-generated drafts to meet professional standards.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Article Writing for Publications: Write articles for magazines, newspapers,
+    and online publications, developing content that meets editorial standards.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Self-Help and How-To Guides: Create self-help and how-to guides on topics like
+    personal development or technology using AI-generated content.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Freelance Academic Writing: Assist in creating structured outlines or sections
+    of academic works, focusing on well-organized content.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Subscription Content Services: Offer a subscription service for regular, well-researched
+    non-fiction content tailored to specific interests or industries.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Copywriting and Advertising: Develop persuasive advertising copy for small
+    businesses or startups using AI to craft compelling pitches.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Content Personalization for Clients: Personalize content for individual users
+    or customer bases, such as newsletters or user guides.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: '* * *'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Digital Transformation and Automation
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Document Digitization Services: Convert physical documents, photos of text,
+    and handwritten notes into digital formats for businesses or individuals.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Data Entry Automation: Automate data entry tasks using AI to extract information
+    from printed materials into structured digital formats.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Accessible Content Creation: Convert printed materials into digital text formats
+    for text-to-speech tools for the visually impaired.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Translation Services: Offer translation services combining OCR with language
+    translation capabilities for international documentation.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Archival Services: Digitize and archive legacy documents for libraries, academic
+    institutions, or businesses.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Legal Document Handling: Convert legal documents, case files, or contracts
+    into digital formats for law firms.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Content Repurposing: Transform printed marketing materials into digital content
+    for online use.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'eBook Creation: Convert handwritten manuscripts or printed texts into formatted
+    eBooks for authors or publishers.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Educational Material Preparation: Digitize and prepare course materials for
+    educational providers.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: '* * *'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Financial Analysis and Advisory
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Financial Analysis Services: Provide AI-based analysis of financial charts
+    for investors or business owners.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Financial Blogging or Vlogging: Create content on financial education and investment
+    strategies using AI analysis.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Subscription-Based Market Analysis: Offer regular AI-based analysis of financial
+    markets through a subscription service.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Custom Financial Reports: Create reports analyzing historical data and predicting
+    trends with AI assistance.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Automated Financial Advisory Services: Provide instant AI-generated analysis
+    and advice on uploaded financial charts.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Data Visualization Services: Create financial charts and visualizations with
+    AI-driven analysis.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Research Papers and Presentations: Prepare research papers, presentations,
+    or reports requiring detailed chart analysis.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'Real-time Financial Dashboard: Build a dashboard displaying real-time AI analysis
+    of financial data.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: 'AI-Powered Financial Planning Tools: Develop tools using AI for predictions
+    and analysis based on personal financial data.'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: If you like this book, please leave a review.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[https://www.amazon.com/review/create-review?&asin=B0DC5S85LV](https://www.amazon.com/review/create-review?&asin=B0DC5S85LV)'
+  prefs: []
+  type: TYPE_NORMAL
