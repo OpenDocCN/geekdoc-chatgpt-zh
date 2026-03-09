@@ -1,42 +1,16 @@
+# ChatGPT 与同类工具：写作、研究、图像创作、编程及其他工作手册
+
+
+> 原文：[ChatGPT & Co.: A Workbook for Writing, Research, Creating Images, Programming and More](https://annas-archive.org/md5/3c72ae03fe9eeea8bb1b22bd1c26a2c1)
+> 
+> 译者：[飞龙](https://github.com/wizardforcel)
+> 
+> 协议：[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+
 ![封面图片](img/cover.jpg)
 
 ![封面：ChatGPT & Co.: A Workbook for Writing, Research, Creating Images, Programming and More, written by Rainer Hattenhauer, published by CRC Press, Taylor and Francis Group, Boca Raton, London, New York, CRC Press is an imprint of the Taylor and Francis Group, an informa business.](img/cover.jpg)
-
-第一版出版于 2025 年
-
-由 CRC Press 出版
-
-地址：2385 NW Executive Center Drive, Suite 320, Boca Raton FL 33431
-
-以及由 CRC Press 出版
-
-地址：4 Park Square, Milton Park, Abingdon, Oxon, OX14 4RN
-
-*CRC Press 是 Taylor & Francis Group, LLC 的一个品牌*
-
-版权 © 2025 Rainer Hattenhauer.
-
-本书最初以德语出版，书名为“ChatGPT & Co.”（ISBN: 978-3-8362-9733-2），由 Rheinwerk Verlag GmbH，德国波恩出版。
-
-尽管已尽力发布可靠的数据和信息，但作者和出版社不能保证所有材料的有效性或其使用的后果。作者和出版社已尝试追踪本出版物中所有复制的材料的版权所有者，并在未获得出版许可的情况下向版权所有者道歉。如果任何版权材料未得到认可，请写信告知，以便我们可以在未来的再版中进行更正。
-
-除非根据美国版权法的规定，否则本书的任何部分不得以任何形式（包括影印、缩微胶片和录音）或通过任何电子、机械或其他已知或以后发明的方法重新印刷、复制、传输或使用，除非获得出版社的书面许可。
-
-若需获得从本作品中复制或电子使用材料的许可，请访问 [www.copyright.com](https://www.copyright.com) 或联系版权许可中心，Inc. (CCC)，地址：222 Rosewood Drive, Danvers, MA 01923，电话：978-750-8400。对于版权许可中心（CCC）无法提供的作品，请联系 mpkbookspermissions@tandf.co.uk
-
-*商标声明*：产品或公司名称可能是商标或注册商标，仅用于识别和解释，无意侵犯。
-
-ISBN: 978-1-032-82246-4 (hbk)
-
-ISBN: 978-1-032-79952-0 (pbk)
-
-ISBN: 978-1-003-50367-5 (ebk)
-
-DOI: [10.1201/9781003503675](http://dx.doi.org/10.1201/9781003503675)
-
-使用 Minion 字体排版
-
-由 KnowledgeWorks Global Ltd. 出版
 
 # 第一章 AI 机器人 – 提高生产力和创造力
 
