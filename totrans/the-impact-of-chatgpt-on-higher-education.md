@@ -1,89 +1,17 @@
+
+# ChatGPT 对高等教育的影响：探索人工智能革命
+
+
+> 原文：[The Impact of ChatGPT on Higher Education ](https://annas-archive.org/md5/639c0362c86416dc651b1a66b1cc2b50)
+> 
+> 译者：[飞龙](https://github.com/wizardforcel)
+> 
+> 协议：[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 ![](img/9781837976492.jpg)
 
 ![image](img/9781837976492.jpg)
 
-ChatGPT 对高等教育的影响：探索人工智能革命
-
-BY
-
-CAROLINE FELL KURBAN
-
-土耳其 MEF 大学
-
-AND
-
-MUHAMMED ŞAHIN
-
-土耳其 MEF 大学
-
-![inline-image](img/fx1.jpg)
-
-英国 - 北美 - 日本 - 印度 - 马来西亚 - 中国
-
-Emerald Publishing Limited
-
-Emerald Publishing，北春楼 5 层，21-23 Wellington Street，Leeds LS1 4DL
-
-第一版 2024
-
-版权所有 © 2024 Caroline Fell Kurban 和 Muhammed Şahin。
-
-由 Emerald Publishing Limited 独家授权出版。
-
-**重印和许可服务**
-
-联系方式：[www.copyright.com](http://www.copyright.com/)
-
-本书的任何部分不得以任何形式或通过任何电子的、机械的、影印的、录音或其他方式复制、存储在检索系统中、传输或以其他方式使用，除非事先获得出版商的书面许可或由英国版权许可机构在英国或美国版权中心颁发的许可允许有限复制。章节中表达的意见均为作者个人观点。尽管 Emerald 尽力确保其内容的品质和准确性，但 Emerald 不对章节的适用性和应用做出任何明示或暗示的保证，并否认对其使用的任何明示或暗示的保证。
-
-**英国图书馆出版数据**
-
-本书的目录记录可从英国图书馆获得
-
-ISBN: 978-1-83797-648-5 (印刷版)
-
-ISBN: 978-1-83797-647-8 (在线)
-
-ISBN: 978-1-83797-649-2 (电子书)
-
-| ![inline-image](img/fx2.jpg) |
-| --- |
-
-### 目录
-
-献词
-
-关于作者
-
-前言
-
-序言
-
-致谢
-
-第一章 探索 ChatGPT 对高等教育的影响 - 案例研究
-
-第二章 漫游 AI 聊天机器人的领域
-
-第三章 探讨 ChatGPT 在高等教育中作用的理论框架
-
-第四章 探索 ChatGPT 在高等教育中的作用：文献综述
-
-第五章 研究方法
-
-第六章 发现与解读
-
-第七章 道德影响
-
-第八章 产品影响
-
-第九章 教育影响
-
-第十章 对知识和研究的贡献
-
-附录
-
-参考文献
 
 我们将此书献给 MEF 学校和 MEF 大学的创始人，伊布拉希姆·阿里坎博士，他一生致力于教育革命。阿里坎博士的最终梦想是将 MEF 大学建设成为一个完全翻转的大学，但遗憾的是，他在见证这一梦想实现之前就去世了。他在从幼儿园到大学的所有教育阶段都是一位先驱，并坚信一种民主的教育方法，该方法优先考虑每个学生的个性。
 

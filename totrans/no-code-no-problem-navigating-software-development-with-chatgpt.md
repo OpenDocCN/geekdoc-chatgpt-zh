@@ -1,30 +1,12 @@
+# 无代码无压力：借助 ChatGPT 掌控软件开发
+
+> 原文：[No Code, No Problem: Navigating Software Development with ChatGPT ](https://annas-archive.org/md5/111ae1ab35b3116bc1faf016a9ef19d7)
+> 
+> 译者：[飞龙](https://github.com/wizardforcel)
+> 
+> 协议：[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 ![图片](img/image_rsrc9X.jpg)
-
-## 目录
-
-第一章：无代码开发简介
-
-第二章：ChatGPT 入门
-
-第三章：软件开发基础
-
-第四章：利用 ChatGPT 进行编码任务
-
-第五章：构建简单应用程序
-
-第六章：无代码开发工具
-
-第七章：使用 ChatGPT 进行问题解决
-
-第八章：测试和验证您的应用程序
-
-第九章：学习资源和社区
-
-第十章：无代码和 AI 在开发中的未来
-
-第十一章：结论和下一步
-
-第一章：无代码开发简介
 
 ### 理解无代码和低代码平台
 

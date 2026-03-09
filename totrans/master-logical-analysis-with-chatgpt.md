@@ -1,49 +1,13 @@
+
+# 使用 ChatGPT 精通逻辑分析
+
+> 原文：[Master Logical Analysis with ChatGPT](https://annas-archive.org/md5/8dffdbc62af374e7ac4da0659e070c34)
+> 
+> 译者：[飞龙](https://github.com/wizardforcel)
+> 
+> 协议：[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 ![](img/cover.jpg)
-
-使用 ChatGPT 掌握逻辑分析
-
-尽管在本书的准备工作上已经采取了所有预防措施，但出版商不对错误、遗漏或因使用本书中包含的信息而造成的损害承担责任。
-
-使用 ChatGPT 掌握逻辑分析
-
-**第一版。2024 年 2 月 9 日。**
-
-版权所有 © 2024 GPT 大师。
-
-由 GPT 大师撰写。
-
-10 9 8 7 6 5 4 3 2 1
-
-GPT 大师的其他作品
-
-[使用 ChatGPT 应用研究方法：原则、提示和案例研究](https://www.draft2digital.com/catalog/1302108?distributor=smashwords)
-
-使用 ChatGPT 掌握逻辑分析
-
-# 目录
-
-扉页
-
-版权页
-
-GPT 大师的其他作品
-
-GPT 大师
-
-章节 – 1：逻辑与 AI 的协同
-
-章节 – 2：使用 AI 的高级逻辑思维案例研究
-
-注册 GPT 大师的邮件列表
-
-进一步阅读：分析优势：AI 驱动的应用博弈论
-
-GPT 大师的其他作品
-
-| ![图像](img/chapter_title_corner_decoration_left.png) |  | ![图像](img/chapter_title_corner_decoration_right.png) |
-| --- | --- | --- |
-
-![图像](img/chapter_title_above.png)
 
 # GPT 大师
 

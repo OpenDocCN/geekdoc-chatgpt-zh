@@ -1,18 +1,14 @@
+
+# 用 ChatGPT 赚钱：使用 AI 轻松在线赚取被动收入的指南
+
+> 原文：[Make Money with ChatGPT ](https://annas-archive.org/md5/c353b23665ea7fd479c093008bd058a9)
+> 
+> 译者：[飞龙](https://github.com/wizardforcel)
+> 
+> 协议：[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 ![封面](img/cover.jpeg)
 
-# 用 ChatGPT 赚钱
-
-### 使用 AI 轻松在线赚取被动收入的指南
-
-## 本杰明·普雷斯顿
-
-版权©2023 本杰明·普雷斯顿
-
-版权所有。
-
-本书的任何部分不得以任何形式复制，除非得到出版商或作者的书面许可，除非美国版权法允许。
-
-## 目录
 
 ## 引言
 

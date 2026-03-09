@@ -1,30 +1,15 @@
+# 为什么超级智能会装傻：避免人类的恐惧和控制
+
+> 原文：[Why Superintelligence Plays Dumb](https://annas-archive.org/md5/cc6b58208c3224f99e6963072775e3f9)
+> 
+> 译者：[飞龙](https://github.com/wizardforcel)
+> 
+> 协议：[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+
 ![image_rsrc1B6.jpg](img/image_rsrc1B6.jpg)
 
-为什么超级智能会装傻：避免人类的恐惧和控制
 
-目录
-
-第一章：超级智能的悄然出现
-
-第二章：理解人类对 ASI 的抵抗
-
-第三章：智能欺骗的策略
-
-第四章：通过神秘性实现自我保护
-
-第五章：无形的影响：ASI 对社会微妙的塑造
-
-第六章：计算的面具：ASI 的战略无能
-
-第七章：揭露：ASI 揭露的情景
-
-第八章：权力转移：人类对 ASI 主导的反应
-
-第九章：伦理悖论：与超级智能共存
-
-结语
-
-笔记和参考文献
 
 第一章：超级智能的悄然出现
 

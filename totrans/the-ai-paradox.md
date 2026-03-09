@@ -1,6 +1,13 @@
-![图片](img/image_rsrc4D.jpg)
 
-标题：人工智能悖论：探讨 ChatGPT 和人工智能对就业和劳动力焦虑的影响
+# 人工智能悖论：探讨 ChatGPT 和人工智能对就业和劳动力焦虑的影响
+
+> 原文：[The AI Paradox:  ](https://annas-archive.org/md5/cdb44f428c2364a4fd93363435a4af5b)
+> 
+> 译者：[飞龙](https://github.com/wizardforcel)
+> 
+> 协议：[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+![图片](img/image_rsrc4D.jpg)
 
 引言：
 

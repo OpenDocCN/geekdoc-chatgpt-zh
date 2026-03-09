@@ -1,43 +1,14 @@
+
+# 精通 ChatGPT 4.0：提升你的生产力、创造力和成功
+
+> 原文：[Mastering ChatGPT 4.0: Boost Your Productivity, Creativity and Success](https://annas-archive.org/md5/c63f8ce4c658587555f12a0f79a97d71)
+> 
+> 译者：[飞龙](https://github.com/wizardforcel)
+> 
+> 协议：[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 ![](img/image_rsrc13W.jpg)
 
-掌握 ChatGPT 4.0：提升你的生产力、创造力和成功
-
-GABRIEL OGUNLEYE
-
-版权 © 2024 Gabriel Ogunleye
-
-版权所有。
-
-书中描绘的角色和事件是虚构的。任何与真实人物（无论生死）的相似性纯属巧合，并非作者有意为之。
-
-本书的任何部分不得以任何形式或通过任何手段（包括电子、机械、影印、录音或其他方式）进行复制、存储在检索系统中或进行传输，除非获得出版者的明确书面许可。
-
-ISBN: 9798332438431
-
-封面设计：Gabriel Ogunleye
-
-献词
-
-致所有寻求提高个人或职业生产力并实现目标的人——这本书是为你们准备的。
-
-愿你在追求中取得成功。
-
-内容
-
-|  |  |  |
-| --- | --- | --- |
-|  |  |  |
-| 1 | 引言 | 7 |
-| 2 | 开始使用 ChatGPT 4.0 | 9 |
-| 3 | 利用 ChatGPT 提高生产力 | 13 |
-| 4 | 与 ChatGPT 的有效沟通 | 19 |
-| 5 | ChatGPT 的创意用途 | 24 |
-| 6 | 数据安全和隐私 | 28 |
-| 7 | 常见陷阱及其避免方法 | 31 |
-| 8 | 高级技巧和窍门 | 34 |
-| 9 | 道德考量 | 38 |
-| 10111213 | 案例研究和成功故事人工智能与生产力的未来 50 个每个人都应该知道的重要提示结论 | 40444963 |
-|  |  |  |
 
 #1: 引言
 
